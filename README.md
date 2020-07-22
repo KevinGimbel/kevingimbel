@@ -5,4 +5,4 @@ I'm currently...
 - ocassionally blogging on [kevingimbel.de](https://kevingimbel.de)
 - learning [Rust](https://rust-lang.org)
 - playing Dark Souls 3 and [Valorant](https://playvalorant.com/en-us/)
-- Estoy estudio español y en momento hablo un poco español :)
+- Estoy aprendo español y hablo un poco español :)
