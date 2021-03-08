@@ -2,7 +2,7 @@
 
 I'm currently...
 - 👨‍💻 a DevOps Engineer [@synoa](https://synoa.de)
-- 🗞 blogging on [kevingimbel.de](https://kevingimbel.de)
+- 🗞 blogging on [kevingimbel.de](https://kevingimbel.de) and [journal.kevingimbel.de](https://journal.kevingimbel.de)
 - ⚙️ learning [Rust](https://rust-lang.org) by [building stuff](https://github.com/KevinGimbel?tab=repositories&q=&type=&language=rust)
-- 🎮 playing [Cyberpunk2077](https://www.cyberpunk.net/de/en/)
-- 🇪🇸 Estoy aprendo español y hablo un poco español :)
+- 📚 Reading "Die Kinder des Wüstenplaneten" by Frank Herbert
+- 🏃 doing sports when possible
