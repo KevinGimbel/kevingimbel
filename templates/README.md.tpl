@@ -10,7 +10,7 @@ I'm currently...
 #### 🗞 The last things I blogged about
 {{range (rss "https://kevingimbel.de/feed.xml" 5) }}
 - [{{.Title}}]({{.URL}}) 
-{{end}}
+{{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
