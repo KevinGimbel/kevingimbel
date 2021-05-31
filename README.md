@@ -9,16 +9,21 @@ I'm currently...
 
 #### 🗞 The last things I blogged about
 
-- [First steps with Traefik 2](https://kevingimbel.de/blog/2021/05/first-steps-with-traefik-2/) 
+**Tech blog:**
 
-- [Gotcha: Dots in /etc/sudoers.d filenames](https://kevingimbel.de/blog/2021/05/gotcha-dots-in-etc-sudoers-d-filenames/) 
+- [First steps with Traefik 2](https://kevingimbel.de/blog/2021/05/first-steps-with-traefik-2/)
+- [Gotcha: Dots in /etc/sudoers.d filenames](https://kevingimbel.de/blog/2021/05/gotcha-dots-in-etc-sudoers-d-filenames/)
+- [Moving to 11ty](https://kevingimbel.de/blog/2021/04/moving-to-11ty/)
+- [Wildcards in Prometheus queries](https://kevingimbel.de/blog/2021/02/wildcards-in-prometheus-queries/)
+- [This week on the internetz](https://kevingimbel.de/blog/2021/02/this-week-on-the-internetz/)
 
-- [Moving to 11ty](https://kevingimbel.de/blog/2021/04/moving-to-11ty/) 
+**Personal blog:**
 
-- [Wildcards in Prometheus queries](https://kevingimbel.de/blog/2021/02/wildcards-in-prometheus-queries/) 
-
-- [This week on the internetz](https://kevingimbel.de/blog/2021/02/this-week-on-the-internetz/) 
-
+- [50% geschafft 💉](https://journal.kevingimbel.de/2021/05/27/50-geschafft-%f0%9f%92%89/)
+- [The Making of Dishonored – Noclip](https://journal.kevingimbel.de/2021/05/12/the-making-of-dishonored-noclip/)
+- [girl in red – Live on KEXP](https://journal.kevingimbel.de/2021/05/11/girl-in-red-live-on-kexp/)
+- [Die Kinder des Wüstenplaneten – Frank Herbert](https://journal.kevingimbel.de/2021/05/02/die-kinder-des-wuestenplaneten-frank-herbert/)
+- [Beyond The Aquila Rift – Alastair Reynolds](https://journal.kevingimbel.de/2021/04/25/beyond-the-aquila-rift-alastair-reynolds/)
 
 #### 🌱 My latest projects
 
