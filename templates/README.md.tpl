@@ -8,7 +8,14 @@ I'm currently...
 - 🧘‍♂️ getting into Yoga
 
 #### 🗞 The last things I blogged about
+
+**Tech blog:**
 {{range (rss "https://kevingimbel.de/feed.xml" 5) }}
+- [{{.Title}}]({{.URL}}) 
+{{- end}}
+
+**Personal blog:**
+{{range (rss "https://journal.kevingimbel.de/feed/" 5) }}
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
 
