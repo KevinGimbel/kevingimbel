@@ -11,11 +11,11 @@ I'm currently...
 
 **Tech blog:**
 
+- [Darken and Lighten colors with CSS](https://kevingimbel.de/blog/2021/06/darken-and-lighten-colors-with-css/)
 - [First steps with Traefik 2](https://kevingimbel.de/blog/2021/05/first-steps-with-traefik-2/)
 - [Gotcha: Dots in /etc/sudoers.d filenames](https://kevingimbel.de/blog/2021/05/gotcha-dots-in-etc-sudoers-d-filenames/)
-- [Moving to 11ty](https://kevingimbel.de/blog/2021/04/moving-to-11ty/)
 - [Wildcards in Prometheus queries](https://kevingimbel.de/blog/2021/02/wildcards-in-prometheus-queries/)
-- [This week on the internetz](https://kevingimbel.de/blog/2021/02/this-week-on-the-internetz/)
+- [This week on the internetz](https://kevingimbel.de/blog/2021/01/this-week-on-the-internetz/)
 
 **Personal blog:**
 
