@@ -19,11 +19,11 @@ I'm currently...
 
 **Personal blog:**
 
+- [Elden Ring](https://journal.kevingimbel.de/2021/06/11/elden-ring/)
 - [Notes From The Underground – High Contrast](https://journal.kevingimbel.de/2021/06/10/notes-from-the-underground-high-contrast/)
 - [50% geschafft 💉](https://journal.kevingimbel.de/2021/05/27/50-geschafft-%f0%9f%92%89/)
 - [The Making of Dishonored – Noclip](https://journal.kevingimbel.de/2021/05/12/the-making-of-dishonored-noclip/)
 - [girl in red – Live on KEXP](https://journal.kevingimbel.de/2021/05/11/girl-in-red-live-on-kexp/)
-- [Die Kinder des Wüstenplaneten – Frank Herbert](https://journal.kevingimbel.de/2021/05/02/die-kinder-des-wuestenplaneten-frank-herbert/)
 
 #### 🌱 My latest projects
 
