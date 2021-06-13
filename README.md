@@ -11,11 +11,11 @@ I'm currently...
 
 **Tech blog:**
 
+- [Validating variables in terraform](https://kevingimbel.de/blog/2021/06/validating-variables-in-terraform/)
 - [Darken and Lighten colors with CSS](https://kevingimbel.de/blog/2021/06/darken-and-lighten-colors-with-css/)
 - [First steps with Traefik 2](https://kevingimbel.de/blog/2021/05/first-steps-with-traefik-2/)
 - [Gotcha: Dots in /etc/sudoers.d filenames](https://kevingimbel.de/blog/2021/05/gotcha-dots-in-etc-sudoers-d-filenames/)
 - [Wildcards in Prometheus queries](https://kevingimbel.de/blog/2021/02/wildcards-in-prometheus-queries/)
-- [This week on the internetz](https://kevingimbel.de/blog/2021/01/this-week-on-the-internetz/)
 
 **Personal blog:**
 
@@ -27,6 +27,7 @@ I'm currently...
 
 #### 🌱 My latest projects
 
+- [KevinGimbel/blog-terraform-validation-example](https://github.com/KevinGimbel/blog-terraform-validation-example) - Part of my blog post &#34;Validating variables in terraform&#34;
 - [KevinGimbel/eleventy-plugin-mermaid](https://github.com/KevinGimbel/eleventy-plugin-mermaid) - Integrate Mermaid with eleventy (11ty)
 - [KevinGimbel/eleventy-plugin-emoji-rating](https://github.com/KevinGimbel/eleventy-plugin-emoji-rating) - Display accessible ratings with emojis
 - [KevinGimbel/eleventy-plugin-codepen](https://github.com/KevinGimbel/eleventy-plugin-codepen) - Plugin that provides a custom shortcode for embedding CodePen.io pens
@@ -36,5 +37,4 @@ I'm currently...
 - [KevinGimbel/rust-blog-code](https://github.com/KevinGimbel/rust-blog-code) - Code examples used in Blog Posts on https://kevingimbel.de/blog
 - [KevinGimbel/ansible-role-apache](https://github.com/KevinGimbel/ansible-role-apache) - Small and opinionated Apache 2.x Ansible role 
 - [KevinGimbel/passt](https://github.com/KevinGimbel/passt) - Rust CLI and library to generate good-enough random strings and passwords.
-- [KevinGimbel/docker-cli-sample](https://github.com/KevinGimbel/docker-cli-sample) - Example Rust CLI build and run with docker. Part of a blog post.
 
