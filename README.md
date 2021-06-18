@@ -19,11 +19,11 @@ I'm currently...
 
 **Personal blog:**
 
+- [Tetris 99](https://journal.kevingimbel.de/2021/06/18/tetris-99/)
 - [Terra Nil](https://journal.kevingimbel.de/2021/06/17/terra-nil/)
 - [The Legend of Zelda: Breath of The Wild 2 Teaser (2021)](https://journal.kevingimbel.de/2021/06/15/the-legend-of-zelda-breath-of-the-wild-2-teaser-2021/)
 - [Elden Ring](https://journal.kevingimbel.de/2021/06/11/elden-ring/)
 - [Notes From The Underground – High Contrast](https://journal.kevingimbel.de/2021/06/10/notes-from-the-underground-high-contrast/)
-- [50% geschafft 💉](https://journal.kevingimbel.de/2021/05/27/50-geschafft-%f0%9f%92%89/)
 
 #### 🌱 My latest projects
 
