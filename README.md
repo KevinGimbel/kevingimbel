@@ -19,11 +19,11 @@ I'm currently...
 
 **Personal blog:**
 
+- [SmartTV ist doch Quatsch](https://journal.kevingimbel.de/2021/06/29/smarttv-ist-doch-quatsch/)
 - [#FreeBritney](https://journal.kevingimbel.de/2021/06/24/freebritney/)
 - [Massive Drum &amp; Bass Playlist](https://journal.kevingimbel.de/2021/06/23/massive-drum-bass-playlist/)
 - [Tetris 99](https://journal.kevingimbel.de/2021/06/18/tetris-99/)
 - [Terra Nil](https://journal.kevingimbel.de/2021/06/17/terra-nil/)
-- [The Legend of Zelda: Breath of The Wild 2 Teaser (2021)](https://journal.kevingimbel.de/2021/06/15/the-legend-of-zelda-breath-of-the-wild-2-teaser-2021/)
 
 #### 🌱 My latest projects
 
