@@ -19,11 +19,11 @@ I'm currently...
 
 **Personal blog:**
 
+- [100% geschafft 💉](https://journal.kevingimbel.de/2021/07/08/100-geschafft-%f0%9f%92%89/)
 - [SmartTV ist doch Quatsch](https://journal.kevingimbel.de/2021/06/29/smarttv-ist-doch-quatsch/)
 - [#FreeBritney](https://journal.kevingimbel.de/2021/06/24/freebritney/)
 - [Massive Drum &amp; Bass Playlist](https://journal.kevingimbel.de/2021/06/23/massive-drum-bass-playlist/)
 - [Tetris 99](https://journal.kevingimbel.de/2021/06/18/tetris-99/)
-- [Terra Nil](https://journal.kevingimbel.de/2021/06/17/terra-nil/)
 
 #### 🌱 My latest projects
 
