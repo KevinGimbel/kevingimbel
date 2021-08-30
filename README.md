@@ -19,11 +19,11 @@ I'm currently...
 
 **Personal blog:**
 
+- [Salvatore Ganacci – Horse](https://journal.kevingimbel.de/2021/08/30/salvatore-ganacci-horse/)
 - [Le Destroy – Freak](https://journal.kevingimbel.de/2021/08/26/le-destroy-freak/)
 - [Das Spiel Azad – Iain Banks](https://journal.kevingimbel.de/2021/08/20/das-spiel-azad-iain-banks/)
 - [Bedenke Phlebas – Iain Banks](https://journal.kevingimbel.de/2021/08/20/bedenke-phlebas-iain-banks/)
 - [Lana Del Rey – Heart-Shaped Box (Live Cover)](https://journal.kevingimbel.de/2021/08/05/lana-del-rey-heart-shaped-box-live-cover/)
-- [100% geschafft 💉](https://journal.kevingimbel.de/2021/07/08/100-geschafft-%f0%9f%92%89/)
 
 #### 🌱 My latest projects
 
