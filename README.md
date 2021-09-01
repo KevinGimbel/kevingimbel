@@ -19,11 +19,11 @@ I'm currently...
 
 **Personal blog:**
 
+- [Drum &amp; Bass On The Bike 6 – Manchester](https://journal.kevingimbel.de/2021/09/01/drum-bass-on-the-bike-6-manchester/)
 - [Feeling cute](https://journal.kevingimbel.de/2021/08/31/feeling-cute/)
 - [Salvatore Ganacci – Horse](https://journal.kevingimbel.de/2021/08/30/salvatore-ganacci-horse/)
 - [Le Destroy – Freak](https://journal.kevingimbel.de/2021/08/26/le-destroy-freak/)
 - [Das Spiel Azad – Iain Banks](https://journal.kevingimbel.de/2021/08/20/das-spiel-azad-iain-banks/)
-- [Bedenke Phlebas – Iain Banks](https://journal.kevingimbel.de/2021/08/20/bedenke-phlebas-iain-banks/)
 
 #### 🌱 My latest projects
 
