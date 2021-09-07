@@ -19,11 +19,11 @@ I'm currently...
 
 **Personal blog:**
 
+- [Amyl and The Sniffers – Hertz](https://journal.kevingimbel.de/2021/09/07/amyl-and-the-sniffers-hertz/)
 - [Drum &amp; Bass On The Bike 6 – Manchester](https://journal.kevingimbel.de/2021/09/01/drum-bass-on-the-bike-6-manchester/)
 - [Feeling cute](https://journal.kevingimbel.de/2021/08/31/feeling-cute/)
 - [Salvatore Ganacci – Horse](https://journal.kevingimbel.de/2021/08/30/salvatore-ganacci-horse/)
 - [Le Destroy – Freak](https://journal.kevingimbel.de/2021/08/26/le-destroy-freak/)
-- [Das Spiel Azad – Iain Banks](https://journal.kevingimbel.de/2021/08/20/das-spiel-azad-iain-banks/)
 
 #### 🌱 My latest projects
 
