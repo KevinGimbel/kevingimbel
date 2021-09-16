@@ -11,11 +11,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [CCTV](https://art.atarijunge.de/cctv/)
 - [Girl with balloons](https://art.atarijunge.de/girl-with-balloons/)
 - [Pink flower and bee](https://art.atarijunge.de/pink-flower-and-bee/)
 - [Rose](https://art.atarijunge.de/rose/)
 - [Sunflower](https://art.atarijunge.de/sunflower/)
-- [Old Tech #1](https://art.atarijunge.de/old-tech-1/)
 
 👨‍💻 **Tech blog:**
 
