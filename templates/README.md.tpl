@@ -7,14 +7,19 @@ I'm currently...
 - 📚 Reading ["Einsatz der Waffen"](https://www.goodreads.com/book/show/1502704.Einsatz_Der_Waffen) by Iain Banks
 - 🧘‍♂️ getting into Yoga
 
-#### 🗞 The last things I blogged about
+#### 🗞 The last things I published
 
-**Tech blog:**
+📸 **Photography and Art blog:**
+{{range (rss "https://art.atarijunge.de/feed/" 5) }}
+- [{{.Title}}]({{.URL}}) 
+{{- end}}
+
+👨‍💻 **Tech blog:**
 {{range (rss "https://kevingimbel.de/feed.xml" 5) }}
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
 
-**Personal blog:**
+😌 **Personal blog:**
 {{range (rss "https://journal.kevingimbel.de/feed/" 5) }}
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
