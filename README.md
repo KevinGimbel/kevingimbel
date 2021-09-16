@@ -7,9 +7,17 @@ I'm currently...
 - 📚 Reading ["Einsatz der Waffen"](https://www.goodreads.com/book/show/1502704.Einsatz_Der_Waffen) by Iain Banks
 - 🧘‍♂️ getting into Yoga
 
-#### 🗞 The last things I blogged about
+#### 🗞 The last things I published
 
-**Tech blog:**
+📸 **Photography and Art blog:**
+
+- [Girl with balloons](https://art.atarijunge.de/girl-with-balloons/)
+- [Pink flower and bee](https://art.atarijunge.de/pink-flower-and-bee/)
+- [Rose](https://art.atarijunge.de/rose/)
+- [Sunflower](https://art.atarijunge.de/sunflower/)
+- [Old Tech #1](https://art.atarijunge.de/old-tech-1/)
+
+👨‍💻 **Tech blog:**
 
 - [Proxy websocket connections with Apache2](https://kevingimbel.de/blog/2021/06/proxy-websocket-connections-with-apache2/)
 - [Validating variables in terraform](https://kevingimbel.de/blog/2021/06/validating-variables-in-terraform/)
@@ -17,7 +25,7 @@ I'm currently...
 - [First steps with Traefik 2](https://kevingimbel.de/blog/2021/05/first-steps-with-traefik-2/)
 - [Gotcha: Dots in /etc/sudoers.d filenames](https://kevingimbel.de/blog/2021/05/gotcha-dots-in-etc-sudoers-d-filenames/)
 
-**Personal blog:**
+😌 **Personal blog:**
 
 - [How Arkane Studios Designed Prey – Noclip Documentary](https://journal.kevingimbel.de/2021/09/16/how-arkane-studios-designed-prey-noclip-documentary/)
 - [Lana Del Rey – Arcadia](https://journal.kevingimbel.de/2021/09/10/lana-del-rey-arcadia/)
