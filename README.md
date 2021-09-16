@@ -19,11 +19,11 @@ I'm currently...
 
 **Personal blog:**
 
+- [How Arkane Studios Designed Prey – Noclip Documentary](https://journal.kevingimbel.de/2021/09/16/how-arkane-studios-designed-prey-noclip-documentary/)
 - [Lana Del Rey – Arcadia](https://journal.kevingimbel.de/2021/09/10/lana-del-rey-arcadia/)
 - [The Cure – A Forest (Live 1992)](https://journal.kevingimbel.de/2021/09/09/the-cure-a-forest-live-1992/)
 - [Joy Division – She’s Lost Control (Live At Something Else Show)](https://journal.kevingimbel.de/2021/09/08/joy-division-shes-lost-control-live-at-something-else-show/)
 - [Amyl and The Sniffers – Hertz](https://journal.kevingimbel.de/2021/09/07/amyl-and-the-sniffers-hertz/)
-- [Drum &amp; Bass On The Bike 6 – Manchester](https://journal.kevingimbel.de/2021/09/01/drum-bass-on-the-bike-6-manchester/)
 
 #### 🌱 My latest projects
 
