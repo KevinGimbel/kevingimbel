@@ -11,11 +11,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Bee](https://art.atarijunge.de/bee-2/)
 - [Rose #2](https://art.atarijunge.de/rose-2/)
 - [Seagull](https://art.atarijunge.de/seagull/)
 - [Moth](https://art.atarijunge.de/moth/)
 - [Ladybug](https://art.atarijunge.de/ladybug/)
-- [Feld](https://art.atarijunge.de/feld/)
 
 👨‍💻 **Tech blog:**
 
