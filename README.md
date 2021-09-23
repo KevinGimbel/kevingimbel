@@ -11,11 +11,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Konica TC Autoreflex](https://art.atarijunge.de/konica-tc-autoreflex/)
 - [Bee](https://art.atarijunge.de/bee-2/)
 - [Rose #2](https://art.atarijunge.de/rose-2/)
 - [Seagull](https://art.atarijunge.de/seagull/)
 - [Moth](https://art.atarijunge.de/moth/)
-- [Ladybug](https://art.atarijunge.de/ladybug/)
 
 👨‍💻 **Tech blog:**
 
