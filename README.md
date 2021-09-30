@@ -11,11 +11,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Abstract](https://art.atarijunge.de/abstract/)
+- [Landscape](https://art.atarijunge.de/landscape/)
 - [House](https://art.atarijunge.de/house/)
 - [Fuck Art, Let’s Dance!](https://art.atarijunge.de/fuck-art-lets-dance/)
 - [Ira Atari](https://art.atarijunge.de/ira-atari/)
-- [Warsaw Airport, 2016](https://art.atarijunge.de/warsaw-airport-2016/)
-- [Konica TC Autoreflex](https://art.atarijunge.de/konica-tc-autoreflex/)
 
 👨‍💻 **Tech blog:**
 
