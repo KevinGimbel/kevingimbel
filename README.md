@@ -11,11 +11,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Looking up](https://art.atarijunge.de/looking-up-2/)
 - [Selfie](https://art.atarijunge.de/selfie/)
 - [Looking up](https://art.atarijunge.de/looking-up/)
 - [Butterfly on Film #2](https://art.atarijunge.de/butterfly-on-film-2/)
 - [Butterfly on film](https://art.atarijunge.de/butterfly-on-film/)
-- [Abstract](https://art.atarijunge.de/abstract/)
 
 👨‍💻 **Tech blog:**
 
