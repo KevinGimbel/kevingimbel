@@ -9,6 +9,8 @@ I'm currently...
 
 #### 🗞 The last things I published
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/atarijunge)
+
 📸 **Photography and Art blog:**
 {{range (rss "https://art.atarijunge.de/feed/" 5) }}
 - [{{.Title}}]({{.URL}}) 
