@@ -1,4 +1,4 @@
-### Hello! Hallo! ¡Hola!
+# Hello! Hallo! ¡Hola!
 
 I'm currently...
 - 👨‍💻 a DevOps Engineer [@synoa](https://synoa.de)
@@ -7,7 +7,7 @@ I'm currently...
 - 📚 Reading ["Einsatz der Waffen"](https://www.goodreads.com/book/show/1502704.Einsatz_Der_Waffen) by Iain Banks
 - 🧘‍♂️ getting into Yoga
 
-#### 🗞 The last things I published
+## 🗞 The last things I published
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/atarijunge)
 
@@ -26,7 +26,7 @@ I'm currently...
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
 
-#### 🌱 My latest projects
+## 🌱 My latest projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
