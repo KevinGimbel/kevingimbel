@@ -1,4 +1,4 @@
-### Hello! Hallo! ¡Hola!
+# Hello! Hallo! ¡Hola!
 
 I'm currently...
 - 👨‍💻 a DevOps Engineer [@synoa](https://synoa.de)
@@ -7,7 +7,7 @@ I'm currently...
 - 📚 Reading ["Einsatz der Waffen"](https://www.goodreads.com/book/show/1502704.Einsatz_Der_Waffen) by Iain Banks
 - 🧘‍♂️ getting into Yoga
 
-#### 🗞 The last things I published
+## 🗞 The last things I published
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/atarijunge)
 
@@ -35,7 +35,7 @@ I'm currently...
 - [Lana Del Rey – Arcadia](https://journal.kevingimbel.de/2021/09/10/lana-del-rey-arcadia/)
 - [The Cure – A Forest (Live 1992)](https://journal.kevingimbel.de/2021/09/09/the-cure-a-forest-live-1992/)
 
-#### 🌱 My latest projects
+## 🌱 My latest projects
 
 - [KevinGimbel/blog-terraform-validation-example](https://github.com/KevinGimbel/blog-terraform-validation-example) - Part of my blog post &#34;Validating variables in terraform&#34;
 - [KevinGimbel/eleventy-plugin-mermaid](https://github.com/KevinGimbel/eleventy-plugin-mermaid) - Integrate Mermaid with eleventy (11ty)
