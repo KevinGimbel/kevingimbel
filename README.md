@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Through the trees](https://art.atarijunge.de/through-the-trees/)
 - [Form](https://art.atarijunge.de/form/)
 - [Selfie](https://art.atarijunge.de/selfie-2/)
 - [Graveyard #2](https://art.atarijunge.de/graveyard-2/)
 - [Graveyard](https://art.atarijunge.de/graveyard/)
-- [Looking up](https://art.atarijunge.de/looking-up-2/)
 
 👨‍💻 **Tech blog:**
 
