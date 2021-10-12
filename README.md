@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Angel](https://art.atarijunge.de/angel/)
 - [Spiderweb](https://art.atarijunge.de/spiderweb/)
 - [Trees](https://art.atarijunge.de/trees/)
 - [Through the trees](https://art.atarijunge.de/through-the-trees/)
 - [Form](https://art.atarijunge.de/form/)
-- [Selfie](https://art.atarijunge.de/selfie-2/)
 
 👨‍💻 **Tech blog:**
 
