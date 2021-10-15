@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Das Wort für Welt ist Wald – Ursula K. Le Guin](https://journal.kevingimbel.de/2021/10/15/das-wort-fuer-welt-ist-wald-ursula-k-le-guin/)
 - [Neonschwarz – Einzelfall](https://journal.kevingimbel.de/2021/09/24/neonschwarz-einzelfall/)
 - [Kalipo – String Me Along (feat. Ira Atari)](https://journal.kevingimbel.de/2021/09/24/kalipo-string-me-along-feat-ira-atari/)
 - [How Arkane Studios Designed Prey – Noclip Documentary](https://journal.kevingimbel.de/2021/09/16/how-arkane-studios-designed-prey-noclip-documentary/)
 - [Lana Del Rey – Arcadia](https://journal.kevingimbel.de/2021/09/10/lana-del-rey-arcadia/)
-- [The Cure – A Forest (Live 1992)](https://journal.kevingimbel.de/2021/09/09/the-cure-a-forest-live-1992/)
 
 ## 🌱 My latest projects
 
