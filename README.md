@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Amaranth](https://art.atarijunge.de/amaranth/)
 - [Fasanerie](https://art.atarijunge.de/fasanerie/)
 - [Preset: HDR-VIN-CEN](https://art.atarijunge.de/preset-hdr-vin-cen/)
 - [Nordfriedhof](https://art.atarijunge.de/nordfriedhof/)
 - [Angel](https://art.atarijunge.de/angel/)
-- [Spiderweb](https://art.atarijunge.de/spiderweb/)
 
 👨‍💻 **Tech blog:**
 
