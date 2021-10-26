@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Can’t resit a reflective surface](https://art.atarijunge.de/cant-resit-a-reflective-surface/)
 - [Home](https://art.atarijunge.de/home/)
 - [Theater](https://art.atarijunge.de/theater/)
 - [It’s me!](https://art.atarijunge.de/its-me/)
 - [‽](https://art.atarijunge.de/%e2%80%bd/)
-- [Amaranth](https://art.atarijunge.de/amaranth/)
 
 👨‍💻 **Tech blog:**
 
