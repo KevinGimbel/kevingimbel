@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Analog Selfie #2](https://art.atarijunge.de/analog-selfie-2/)
+- [Analog Selfie #1](https://art.atarijunge.de/analog-selfie-1/)
 - [Birds](https://art.atarijunge.de/birds/)
 - [Even more analog flowers](https://art.atarijunge.de/even-more-analog-flowers/)
 - [Can’t resit a reflective surface](https://art.atarijunge.de/cant-resit-a-reflective-surface/)
-- [Home](https://art.atarijunge.de/home/)
-- [Theater](https://art.atarijunge.de/theater/)
 
 👨‍💻 **Tech blog:**
 
