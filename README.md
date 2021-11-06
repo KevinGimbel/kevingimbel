@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Now what I wanted](https://art.atarijunge.de/now-what-i-wanted/)
 - [Forklift](https://art.atarijunge.de/forklift/)
 - [Goat](https://art.atarijunge.de/goat/)
 - [Analog Selfie #2](https://art.atarijunge.de/analog-selfie-2/)
 - [Analog Selfie #1](https://art.atarijunge.de/analog-selfie-1/)
-- [Birds](https://art.atarijunge.de/birds/)
 
 👨‍💻 **Tech blog:**
 
