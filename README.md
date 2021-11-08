@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Phantasialand](https://journal.kevingimbel.de/2021/11/08/phantasialand/)
 - [Einsatz der Waffen – Iain Banks](https://journal.kevingimbel.de/2021/10/28/einsatz-der-waffen-iain-banks/)
 - [Das Wort für Welt ist Wald – Ursula K. Le Guin](https://journal.kevingimbel.de/2021/10/15/das-wort-fuer-welt-ist-wald-ursula-k-le-guin/)
 - [Neonschwarz – Einzelfall](https://journal.kevingimbel.de/2021/09/24/neonschwarz-einzelfall/)
 - [Kalipo – String Me Along (feat. Ira Atari)](https://journal.kevingimbel.de/2021/09/24/kalipo-string-me-along-feat-ira-atari/)
-- [How Arkane Studios Designed Prey – Noclip Documentary](https://journal.kevingimbel.de/2021/09/16/how-arkane-studios-designed-prey-noclip-documentary/)
 
 ## 🌱 My latest projects
 
