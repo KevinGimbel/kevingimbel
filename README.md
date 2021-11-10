@@ -37,6 +37,7 @@ I'm currently...
 
 ## 🌱 My latest projects
 
+- [KevinGimbel/lightscreen](https://github.com/KevinGimbel/lightscreen) - 🤷
 - [KevinGimbel/blog-terraform-validation-example](https://github.com/KevinGimbel/blog-terraform-validation-example) - Part of my blog post &#34;Validating variables in terraform&#34;
 - [KevinGimbel/eleventy-plugin-mermaid](https://github.com/KevinGimbel/eleventy-plugin-mermaid) - Integrate Mermaid with eleventy (11ty)
 - [KevinGimbel/eleventy-plugin-emoji-rating](https://github.com/KevinGimbel/eleventy-plugin-emoji-rating) - Display accessible ratings with emojis
@@ -46,5 +47,4 @@ I'm currently...
 - [KevinGimbel/traefik-plugin-header](https://github.com/KevinGimbel/traefik-plugin-header) - Playing around with Traefik Plugins
 - [KevinGimbel/rust-blog-code](https://github.com/KevinGimbel/rust-blog-code) - Code examples used in Blog Posts on https://kevingimbel.de/blog
 - [KevinGimbel/ansible-role-apache](https://github.com/KevinGimbel/ansible-role-apache) - Small and opinionated Apache 2.x Ansible role 
-- [KevinGimbel/passt](https://github.com/KevinGimbel/passt) - Rust CLI and library to generate good-enough random strings and passwords.
 
