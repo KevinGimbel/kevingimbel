@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [In frame](https://art.atarijunge.de/in-frame/)
 - [New and old](https://art.atarijunge.de/new-and-old/)
 - [Church](https://art.atarijunge.de/church/)
 - [Trampeltiere](https://art.atarijunge.de/trampeltiere/)
 - [Not what I wanted](https://art.atarijunge.de/not-what-i-wanted/)
-- [Forklift](https://art.atarijunge.de/forklift/)
 
 👨‍💻 **Tech blog:**
 
