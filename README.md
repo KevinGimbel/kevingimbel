@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Autumn tree](https://art.atarijunge.de/autumn-tree/)
 - [Reflections](https://art.atarijunge.de/reflections/)
 - [In frame](https://art.atarijunge.de/in-frame/)
 - [New and old](https://art.atarijunge.de/new-and-old/)
 - [Church](https://art.atarijunge.de/church/)
-- [Trampeltiere](https://art.atarijunge.de/trampeltiere/)
 
 👨‍💻 **Tech blog:**
 
