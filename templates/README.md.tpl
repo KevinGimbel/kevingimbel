@@ -1,10 +1,10 @@
 # Hello! Hallo! ¡Hola!
 
 I'm currently...
-- 👨‍💻 a DevOps Engineer [@synoa](https://synoa.de)
-- 🗞 blogging on [kevingimbel.de](https://kevingimbel.de) and [journal.kevingimbel.de](https://journal.kevingimbel.de)
-- ⚙️ learning [Rust](https://rust-lang.org) by [building stuff](https://github.com/KevinGimbel?tab=repositories&q=&type=&language=rust)
-- 📚 Reading ["Ein Geschenk der Kultur"](https://www.goodreads.com/book/show/1502709.Ein_Geschenk_der_Kultur) by Iain Banks
+- 👨‍💻 a Senior DevOps Engineer [@synoa](https://synoa.de)
+- 🗞 blogging about everything I like on [das-we.blog](https://das-we.blog)
+- ⚙️ Sometimes blog on [kevingimbel.de](https://kevingimbel.de/blog/) about DevOps, Rust, and Go
+- 📚 Reading ["Unendlichkeit"](https://www.goodreads.com/book/show/1452886.Unendlichkeit) by Alastair Reynolds
 - 🧘‍♂️ getting into Yoga
 
 ## 🗞 The last things I published
