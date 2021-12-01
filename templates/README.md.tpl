@@ -22,7 +22,7 @@ I'm currently...
 {{- end}}
 
 😌 **Personal blog:**
-{{range (rss "https://journal.kevingimbel.de/feed/" 5) }}
+{{range (rss "https://das-we.blog/feed/" 5) }}
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
 
