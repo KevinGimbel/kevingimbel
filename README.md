@@ -37,6 +37,7 @@ I'm currently...
 
 ## 🌱 My latest projects
 
+- [KevinGimbel/aoc2021](https://github.com/KevinGimbel/aoc2021) - Advent of Code 2021
 - [KevinGimbel/lightscreen](https://github.com/KevinGimbel/lightscreen) - 🤷
 - [KevinGimbel/blog-terraform-validation-example](https://github.com/KevinGimbel/blog-terraform-validation-example) - Part of my blog post &#34;Validating variables in terraform&#34;
 - [KevinGimbel/eleventy-plugin-mermaid](https://github.com/KevinGimbel/eleventy-plugin-mermaid) - Integrate Mermaid with eleventy (11ty)
@@ -46,5 +47,4 @@ I'm currently...
 - [KevinGimbel/blog-patch-example](https://github.com/KevinGimbel/blog-patch-example) - Part of https://kevingimbel.de/blog/2020/12/apply-a-patch-from-a-github-pr/
 - [KevinGimbel/traefik-plugin-header](https://github.com/KevinGimbel/traefik-plugin-header) - Playing around with Traefik Plugins
 - [KevinGimbel/rust-blog-code](https://github.com/KevinGimbel/rust-blog-code) - Code examples used in Blog Posts on https://kevingimbel.de/blog
-- [KevinGimbel/ansible-role-apache](https://github.com/KevinGimbel/ansible-role-apache) - Small and opinionated Apache 2.x Ansible role 
 
