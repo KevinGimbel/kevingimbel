@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Spotify Wrapped 2021](https://das-we.blog/2021/12/01/spotify-wrapped-2021/)
 - [Elden Ring Network Test](https://das-we.blog/2021/11/30/elden-ring-network-test/)
 - [Skyrim 10th Anniversary Concert](https://das-we.blog/2021/11/17/skyrim-10th-anniversary-concert/)
 - [Phantasialand](https://das-we.blog/2021/11/08/phantasialand/)
 - [Einsatz der Waffen – Iain Banks](https://das-we.blog/2021/10/28/einsatz-der-waffen-iain-banks/)
-- [Das Wort für Welt ist Wald – Ursula K. Le Guin](https://das-we.blog/2021/10/15/das-wort-fuer-welt-ist-wald-ursula-k-le-guin/)
 
 ## 🌱 My latest projects
 
