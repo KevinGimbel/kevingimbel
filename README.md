@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
-- [Skyrim 10th Anniversary Concert](https://journal.kevingimbel.de/2021/11/17/skyrim-10th-anniversary-concert/)
-- [Phantasialand](https://journal.kevingimbel.de/2021/11/08/phantasialand/)
-- [Einsatz der Waffen – Iain Banks](https://journal.kevingimbel.de/2021/10/28/einsatz-der-waffen-iain-banks/)
-- [Das Wort für Welt ist Wald – Ursula K. Le Guin](https://journal.kevingimbel.de/2021/10/15/das-wort-fuer-welt-ist-wald-ursula-k-le-guin/)
-- [Neonschwarz – Einzelfall](https://journal.kevingimbel.de/2021/09/24/neonschwarz-einzelfall/)
+- [Elden Ring Network Test](https://das-we.blog/2021/11/30/elden-ring-network-test/)
+- [Skyrim 10th Anniversary Concert](https://das-we.blog/2021/11/17/skyrim-10th-anniversary-concert/)
+- [Phantasialand](https://das-we.blog/2021/11/08/phantasialand/)
+- [Einsatz der Waffen – Iain Banks](https://das-we.blog/2021/10/28/einsatz-der-waffen-iain-banks/)
+- [Das Wort für Welt ist Wald – Ursula K. Le Guin](https://das-we.blog/2021/10/15/das-wort-fuer-welt-ist-wald-ursula-k-le-guin/)
 
 ## 🌱 My latest projects
 
