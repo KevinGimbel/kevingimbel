@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Analog flowers](https://art.atarijunge.de/analog-flowers/)
+- [mistakes were made #1](https://art.atarijunge.de/mistakes-were-made-1/)
 - [Reflection](https://art.atarijunge.de/reflection/)
 - [First scans](https://art.atarijunge.de/first-scans/)
 - [Tiny orange hearts](https://art.atarijunge.de/tiny-orange-hearts/)
-- [Old building](https://art.atarijunge.de/old-building/)
-- [Autumn tree](https://art.atarijunge.de/autumn-tree/)
 
 👨‍💻 **Tech blog:**
 
