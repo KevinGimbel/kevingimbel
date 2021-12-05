@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Yellow van](https://art.atarijunge.de/yellow-van/)
 - [Ferris wheel](https://art.atarijunge.de/ferris-wheel/)
 - [Analog flowers](https://art.atarijunge.de/analog-flowers/)
 - [mistakes were made #1](https://art.atarijunge.de/mistakes-were-made-1/)
 - [Reflection](https://art.atarijunge.de/reflection/)
-- [First scans](https://art.atarijunge.de/first-scans/)
 
 👨‍💻 **Tech blog:**
 
