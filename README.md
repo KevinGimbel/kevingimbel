@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Roses](https://art.atarijunge.de/roses/)
 - [Looking up](https://art.atarijunge.de/looking-up-3/)
 - [Konica C35 EF3](https://art.atarijunge.de/konica-c35-ef3/)
 - [Red](https://art.atarijunge.de/red/)
 - [Architecture and birds](https://art.atarijunge.de/architecture-and-birds/)
-- [Yellow van](https://art.atarijunge.de/yellow-van/)
 
 👨‍💻 **Tech blog:**
 
