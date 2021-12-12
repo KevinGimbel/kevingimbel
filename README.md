@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Preset: Kodak Gold 200](https://art.atarijunge.de/preset-kodak-gold-200/)
+- [Neighbourhood 2](https://art.atarijunge.de/neighbourhood-2/)
+- [Neighbourhood](https://art.atarijunge.de/neighbourhood/)
 - [Roses](https://art.atarijunge.de/roses/)
 - [Looking up](https://art.atarijunge.de/looking-up-3/)
-- [Konica C35 EF3](https://art.atarijunge.de/konica-c35-ef3/)
-- [Red](https://art.atarijunge.de/red/)
-- [Architecture and birds](https://art.atarijunge.de/architecture-and-birds/)
 
 👨‍💻 **Tech blog:**
 
