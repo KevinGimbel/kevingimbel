@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [In flight](https://art.atarijunge.de/in-flight/)
 - [Preset: Kodak Gold 200](https://art.atarijunge.de/preset-kodak-gold-200/)
 - [Neighbourhood 2](https://art.atarijunge.de/neighbourhood-2/)
 - [Neighbourhood](https://art.atarijunge.de/neighbourhood/)
 - [Roses](https://art.atarijunge.de/roses/)
-- [Looking up](https://art.atarijunge.de/looking-up-3/)
 
 👨‍💻 **Tech blog:**
 
