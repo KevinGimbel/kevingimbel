@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Weihnachtskaffee](https://das-we.blog/2021/12/17/weihnachtskaffee/)
 - [Die Sache mit Cyberpunk 2077 ist,](https://das-we.blog/2021/12/05/die-sache-mit-cyberpunk-2077-ist/)
 - [Meine Spotify Top 100 (2021)](https://das-we.blog/2021/12/03/meine-spotify-top-100-2021/)
 - [Spotify Wrapped 2021](https://das-we.blog/2021/12/01/spotify-wrapped-2021/)
 - [Elden Ring Network Test](https://das-we.blog/2021/11/30/elden-ring-network-test/)
-- [Skyrim 10th Anniversary Concert](https://das-we.blog/2021/11/17/skyrim-10th-anniversary-concert/)
 
 ## 🌱 My latest projects
 
