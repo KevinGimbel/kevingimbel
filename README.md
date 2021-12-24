@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Bus Selfie](https://art.atarijunge.de/bus-selfie/)
 - [Double selfie](https://art.atarijunge.de/double-selfie/)
 - [Bicycles for rent](https://art.atarijunge.de/bicycles-for-rent/)
 - [Autumn vibes](https://art.atarijunge.de/autumn-vibes/)
 - [In flight](https://art.atarijunge.de/in-flight/)
-- [Preset: Kodak Gold 200](https://art.atarijunge.de/preset-kodak-gold-200/)
 
 👨‍💻 **Tech blog:**
 
