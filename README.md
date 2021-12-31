@@ -21,11 +21,11 @@ I'm currently...
 
 👨‍💻 **Tech blog:**
 
+- [Replace git URLs in Gitlab CI](https://kevingimbel.de/blog/2021/12/replace-git-ur-ls-in-gitlab-ci/)
 - [Proxy websocket connections with Apache2](https://kevingimbel.de/blog/2021/06/proxy-websocket-connections-with-apache2/)
 - [Validating variables in terraform](https://kevingimbel.de/blog/2021/06/validating-variables-in-terraform/)
 - [Darken and Lighten colors with CSS](https://kevingimbel.de/blog/2021/06/darken-and-lighten-colors-with-css/)
 - [First steps with Traefik 2](https://kevingimbel.de/blog/2021/05/first-steps-with-traefik-2/)
-- [Gotcha: Dots in /etc/sudoers.d filenames](https://kevingimbel.de/blog/2021/05/gotcha-dots-in-etc-sudoers-d-filenames/)
 
 😌 **Personal blog:**
 
