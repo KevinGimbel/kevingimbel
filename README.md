@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Shadows](https://art.atarijunge.de/shadows-2/)
 - [Shadows](https://art.atarijunge.de/shadows/)
 - [Selfie](https://art.atarijunge.de/selfie-3/)
 - [School](https://art.atarijunge.de/school/)
 - [Bus Selfie](https://art.atarijunge.de/bus-selfie/)
-- [Double selfie](https://art.atarijunge.de/double-selfie/)
 
 👨‍💻 **Tech blog:**
 
