@@ -13,19 +13,19 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Thinking](https://art.atarijunge.de/thinking/)
 - [Selfie again](https://art.atarijunge.de/selfie-again/)
 - [Shadows](https://art.atarijunge.de/shadows-2/)
 - [Shadows](https://art.atarijunge.de/shadows/)
 - [Selfie](https://art.atarijunge.de/selfie-3/)
-- [School](https://art.atarijunge.de/school/)
 
 👨‍💻 **Tech blog:**
 
+- [How to extend and reuse configs in Gitlab CI](https://kevingimbel.de/blog/2022/01/how-to-extend-and-reuse-configs-in-gitlab-ci/)
 - [Replace git URLs in Gitlab CI](https://kevingimbel.de/blog/2021/12/replace-git-ur-ls-in-gitlab-ci/)
 - [Proxy websocket connections with Apache2](https://kevingimbel.de/blog/2021/06/proxy-websocket-connections-with-apache2/)
 - [Validating variables in terraform](https://kevingimbel.de/blog/2021/06/validating-variables-in-terraform/)
 - [Darken and Lighten colors with CSS](https://kevingimbel.de/blog/2021/06/darken-and-lighten-colors-with-css/)
-- [First steps with Traefik 2](https://kevingimbel.de/blog/2021/05/first-steps-with-traefik-2/)
 
 😌 **Personal blog:**
 
