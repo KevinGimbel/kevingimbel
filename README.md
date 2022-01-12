@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Grimes – Player Of Games](https://das-we.blog/2022/01/12/grimes-player-of-games/)
 - [PJ Harvey – Dress](https://das-we.blog/2022/01/03/pj-harvey-dress/)
 - [Jedi: Fallen Order](https://das-we.blog/2022/01/02/jedi-fallen-order/)
 - [2021 oder auch: 2020 die Zweite?](https://das-we.blog/2021/12/28/2021-oder-auch-2020-die-zweite/)
 - [Donut County](https://das-we.blog/2021/12/26/donut-county/)
-- [Weihnachtskaffee](https://das-we.blog/2021/12/17/weihnachtskaffee/)
 
 ## 🌱 My latest projects
 
