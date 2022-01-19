@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Train tracks](https://art.atarijunge.de/train-tracks/)
 - [IDK](https://art.atarijunge.de/idk/)
 - [Train station](https://art.atarijunge.de/train-station/)
 - [Thinking](https://art.atarijunge.de/thinking/)
 - [Selfie again](https://art.atarijunge.de/selfie-again/)
-- [Shadows](https://art.atarijunge.de/shadows-2/)
 
 👨‍💻 **Tech blog:**
 
