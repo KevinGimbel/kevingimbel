@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Squirrel 🐿](https://art.atarijunge.de/squirrel-%f0%9f%90%bf/)
 - [Home is where the Öltanks are](https://art.atarijunge.de/home-is-where-the-oltanks-are/)
 - [Shattered](https://art.atarijunge.de/shattered/)
 - [Train tracks](https://art.atarijunge.de/train-tracks/)
 - [IDK](https://art.atarijunge.de/idk/)
-- [Train station](https://art.atarijunge.de/train-station/)
 
 👨‍💻 **Tech blog:**
 
