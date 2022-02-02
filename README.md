@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Gender Reveal Party](https://das-we.blog/2022/02/02/gender-reveal-party/)
 - [Wie ich mich in Hollow Knight verliebte](https://das-we.blog/2022/01/31/wie-ich-mich-in-hollow-knight-verliebte/)
 - [Grimes – Player Of Games](https://das-we.blog/2022/01/12/grimes-player-of-games/)
 - [PJ Harvey – Dress](https://das-we.blog/2022/01/03/pj-harvey-dress/)
 - [Jedi: Fallen Order](https://das-we.blog/2022/01/02/jedi-fallen-order/)
-- [2021 oder auch: 2020 die Zweite?](https://das-we.blog/2021/12/28/2021-oder-auch-2020-die-zweite/)
 
 ## 🌱 My latest projects
 
