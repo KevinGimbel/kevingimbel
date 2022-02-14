@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Selfie](https://art.atarijunge.de/selfie-4/)
 - [X](https://art.atarijunge.de/x/)
 - [Licher](https://art.atarijunge.de/licher/)
 - [Friday walk](https://art.atarijunge.de/friday-walk/)
 - [Squirrel 🐿](https://art.atarijunge.de/squirrel-%f0%9f%90%bf/)
-- [Home is where the Öltanks are](https://art.atarijunge.de/home-is-where-the-oltanks-are/)
 
 👨‍💻 **Tech blog:**
 
