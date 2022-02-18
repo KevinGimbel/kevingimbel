@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [VEGAN](https://art.atarijunge.de/vegan/)
 - [Kodak Gold 200 pushed to ISO 800](https://art.atarijunge.de/kodak-gold-200-pushed-to-iso-800/)
 - [Selfie](https://art.atarijunge.de/selfie-4/)
 - [X](https://art.atarijunge.de/x/)
 - [Licher](https://art.atarijunge.de/licher/)
-- [Friday walk](https://art.atarijunge.de/friday-walk/)
 
 👨‍💻 **Tech blog:**
 
