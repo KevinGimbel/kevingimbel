@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
-- [VEGAN](https://art.atarijunge.de/vegan/)
-- [Kodak Gold 200 pushed to ISO 800](https://art.atarijunge.de/kodak-gold-200-pushed-to-iso-800/)
-- [Selfie](https://art.atarijunge.de/selfie-4/)
-- [X](https://art.atarijunge.de/x/)
-- [Licher](https://art.atarijunge.de/licher/)
+- [VEGAN](https://art.atarijunge.de/2022/02/vegan/)
+- [Kodak Gold 200 pushed to ISO 800](https://art.atarijunge.de/2022/02/kodak-gold-200-pushed-to-iso-800/)
+- [Selfie](https://art.atarijunge.de/2022/02/selfie-4/)
+- [X](https://art.atarijunge.de/2022/02/x/)
+- [Licher](https://art.atarijunge.de/2022/02/licher/)
 
 👨‍💻 **Tech blog:**
 
