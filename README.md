@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [The day my camera skipped half a roll](https://art.atarijunge.de/2022/04/the-day-my-camera-skipped-half-a-roll/)
 - [Selfies with flowers](https://art.atarijunge.de/2022/03/selfies-with-flowers/)
 - [Update on the Konica Big Mini](https://art.atarijunge.de/2022/03/update-on-the-konica-big-mini/)
 - [Caffenol #2](https://art.atarijunge.de/2022/03/caffenol-2/)
 - [Konica Big Mini](https://art.atarijunge.de/2022/03/konica-big-mini/)
-- [Caffenol #1](https://art.atarijunge.de/2022/03/caffenol-1/)
 
 👨‍💻 **Tech blog:**
 
