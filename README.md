@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [A guide to developing black and white film with instant coffee (aka Caffenol)](https://art.atarijunge.de/2022/04/a-guide-to-developing-black-and-white-film-with-instant-coffee-aka-caffenol/)
 - [The day my camera skipped half a roll](https://art.atarijunge.de/2022/04/the-day-my-camera-skipped-half-a-roll/)
 - [Fomapan 400 developed in Caffenol](https://art.atarijunge.de/2022/03/fomapan-400-developed-in-caffenol/)
 - [Selfies with flowers](https://art.atarijunge.de/2022/03/selfies-with-flowers/)
 - [Update on the Konica Big Mini](https://art.atarijunge.de/2022/03/update-on-the-konica-big-mini/)
-- [Caffenol #2](https://art.atarijunge.de/2022/03/caffenol-2/)
 
 👨‍💻 **Tech blog:**
 
