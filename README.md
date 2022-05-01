@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Meet the camera: Revue 400 SE](https://art.atarijunge.de/2022/04/meet-the-camera-revue-400-se/)
 - [Shooting 120 film on a camera from the 1930s](https://art.atarijunge.de/2022/04/shooting-120-film-on-a-camera-from-the-1930s/)
 - [Easter in the park](https://art.atarijunge.de/2022/04/easter-in-the-park/)
 - [Shooting digital with restrictions](https://art.atarijunge.de/2022/04/shooting-digital-with-restrictions/)
 - [A guide to developing black and white film with instant coffee (aka Caffenol)](https://art.atarijunge.de/2022/04/a-guide-to-developing-black-and-white-film-with-instant-coffee-aka-caffenol/)
-- [The day my camera skipped half a roll](https://art.atarijunge.de/2022/04/the-day-my-camera-skipped-half-a-roll/)
 
 👨‍💻 **Tech blog:**
 
