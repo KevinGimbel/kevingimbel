@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Portrait of me](https://art.atarijunge.de/2022/05/portrait-of-me/)
 - [Using Konica AR lenses on my Canon EOS 1000D](https://art.atarijunge.de/2022/05/using-konica-ar-lenses-on-my-canon-eos-1000d/)
 - [Meet the camera: Revue 400 SE](https://art.atarijunge.de/2022/04/meet-the-camera-revue-400-se/)
 - [Shooting 120 film on a camera from the 1930s](https://art.atarijunge.de/2022/04/shooting-120-film-on-a-camera-from-the-1930s/)
 - [Easter in the park](https://art.atarijunge.de/2022/04/easter-in-the-park/)
-- [Shooting digital with restrictions](https://art.atarijunge.de/2022/04/shooting-digital-with-restrictions/)
 
 👨‍💻 **Tech blog:**
 
