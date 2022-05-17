@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Pro Gamer Moment #EldenRing](https://das-we.blog/2022/05/17/pro-gamer-moment-eldenring/)
 - [Test](https://das-we.blog/2022/04/27/test/)
 - [Wet Leg: Tiny Desk (Home) Concert](https://das-we.blog/2022/04/21/wet-leg-tiny-desk-home-concert/)
 - [IDLES – Full Concert Live at KEXP](https://das-we.blog/2022/04/05/idles-full-concert-live-at-kexp/)
 - [ELDEN RING – Rise, Tarnished | Official Launch Trailer](https://das-we.blog/2022/02/22/elden-ring-rise-tarnished-official-launch-trailer/)
-- [Story Test](https://das-we.blog/2022/02/14/story-test/)
 
 ## 🌱 My latest projects
 
