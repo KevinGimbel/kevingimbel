@@ -13,11 +13,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [Testing yet another Konica FS-1](https://art.atarijunge.de/2022/05/testing-yet-another-konica-fs-1/)
 - [Random city shots](https://art.atarijunge.de/2022/05/random-city-shots/)
 - [Broken mirror selfies](https://art.atarijunge.de/2022/05/broken-mirror-selfies/)
 - [Revue 6×6 aka Seagull 4a](https://art.atarijunge.de/2022/05/revue-6x6-aka-seagull-4a/)
 - [Portrait of me](https://art.atarijunge.de/2022/05/portrait-of-me/)
-- [Using Konica AR lenses on my Canon EOS 1000D](https://art.atarijunge.de/2022/05/using-konica-ar-lenses-on-my-canon-eos-1000d/)
 
 👨‍💻 **Tech blog:**
 
