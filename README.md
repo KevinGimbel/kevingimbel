@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [DARK (Netflix)](https://das-we.blog/2022/05/29/dark-netflix/)
 - [Drum &amp; Bass on  the Bike BERLIN](https://das-we.blog/2022/05/24/drum-bass-on-the-bike-berlin/)
 - [Pro Gamer Moment #EldenRing](https://das-we.blog/2022/05/17/pro-gamer-moment-eldenring/)
 - [Test](https://das-we.blog/2022/04/27/test/)
 - [Wet Leg: Tiny Desk (Home) Concert](https://das-we.blog/2022/04/21/wet-leg-tiny-desk-home-concert/)
-- [IDLES – Full Concert Live at KEXP](https://das-we.blog/2022/04/05/idles-full-concert-live-at-kexp/)
 
 ## 🌱 My latest projects
 
