@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [IDLES – Tempelhof Sounds Festival 2022](https://das-we.blog/2022/06/24/idles-tempelhof-sounds-festival-2022/)
 - [STARFIELD: Official Gameplay Reveal](https://das-we.blog/2022/06/13/starfield-official-gameplay-reveal/)
 - [Trailer STAR WARS Jedi: Survivor](https://das-we.blog/2022/05/30/trailer-star-wars-jedi-survivor/)
 - [DARK (Netflix)](https://das-we.blog/2022/05/29/dark-netflix/)
 - [Drum &amp; Bass on  the Bike BERLIN](https://das-we.blog/2022/05/24/drum-bass-on-the-bike-berlin/)
-- [Pro Gamer Moment #EldenRing](https://das-we.blog/2022/05/17/pro-gamer-moment-eldenring/)
 
 ## 🌱 My latest projects
 
