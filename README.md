@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Sophoulla – To Watch You Go (Jintyhouse homemade sessions)](https://das-we.blog/2022/09/02/sophoulla-to-watch-you-go-jintyhouse-homemade-sessions/)
 - [Hitman 3 Developers React to 6 SECOND Speedrun (and more)](https://das-we.blog/2022/08/29/hitman-3-developers-react-to-6-second-speedrun-and-more/)
 - [Wet Leg – La Route du Rock  (@ARTE Concert)](https://das-we.blog/2022/08/29/wet-leg-la-route-du-rock-arte-concert/)
 - [Atomic Heart – Official Combat Trailer (gamescom 2022)](https://das-we.blog/2022/08/25/atomic-heart-official-combat-trailer-gamescom-2022/)
 - [SOFI TUKKER – Awoo (feat. Betta Lemme) (Live)](https://das-we.blog/2022/08/22/sofi-tukker-awoo-feat-betta-lemme-live/)
-- [Haim performs Fleetwood Mac’s „Oh Well“ live at T in the Park](https://das-we.blog/2022/08/18/haim-performs-fleetwood-macs-oh-well-live-at-t-in-the-park/)
 
 ## 🌱 My latest projects
 
