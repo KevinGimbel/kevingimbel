@@ -29,11 +29,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Unendlichkeit – Alastair Reynolds](https://das-we.blog/2022/09/18/unendlichkeit-alastair-reynolds/)
 - [The Legend of Zelda: Tears of the Kingdom (Release Trailer)](https://das-we.blog/2022/09/14/the-legend-of-zelda-tears-of-the-kingdom-release-trailer/)
 - [Sophoulla – To Watch You Go (Jintyhouse homemade sessions)](https://das-we.blog/2022/09/02/sophoulla-to-watch-you-go-jintyhouse-homemade-sessions/)
 - [Hitman 3 Developers React to 6 SECOND Speedrun (and more)](https://das-we.blog/2022/08/29/hitman-3-developers-react-to-6-second-speedrun-and-more/)
 - [Wet Leg – La Route du Rock  (@ARTE Concert)](https://das-we.blog/2022/08/29/wet-leg-la-route-du-rock-arte-concert/)
-- [Atomic Heart – Official Combat Trailer (gamescom 2022)](https://das-we.blog/2022/08/25/atomic-heart-official-combat-trailer-gamescom-2022/)
 
 ## 🌱 My latest projects
 
