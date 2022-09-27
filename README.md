@@ -3,13 +3,11 @@
 I'm currently...
 - 👨‍💻 a Senior DevOps Engineer [@synoa](https://synoa.de)
 - 🗞 blogging about everything I like on [das-we.blog](https://das-we.blog)
-- ⚙️ Sometimes blog on [kevingimbel.de](https://kevingimbel.de/blog/) about DevOps, Rust, and Go
+- 📸 sharing my photography on [art.atarijunge.de](https://art.atarijunge.de)
 - 📚 Reading ["Unendlichkeit"](https://www.goodreads.com/book/show/1452886.Unendlichkeit) by Alastair Reynolds
 - 🧘‍♂️ getting into Yoga
 
 ## 🗞 The last things I published
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/atarijunge)
 
 📸 **Photography and Art blog:**
 
