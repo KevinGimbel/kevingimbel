@@ -27,11 +27,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Thrasher Vacation: Germany](https://das-we.blog/2022/10/18/thrasher-vacation-germany/)
 - [Wet Leg – Full Performance (Live on KEXP)](https://das-we.blog/2022/09/27/wet-leg-full-performance-live-on-kexp/)
 - [Cyberpunk: Edgerunners](https://das-we.blog/2022/09/20/cyberpunk-edgerunners/)
 - [Unendlichkeit – Alastair Reynolds](https://das-we.blog/2022/09/18/unendlichkeit-alastair-reynolds/)
 - [The Legend of Zelda: Tears of the Kingdom (Release Trailer)](https://das-we.blog/2022/09/14/the-legend-of-zelda-tears-of-the-kingdom-release-trailer/)
-- [Sophoulla – To Watch You Go (Jintyhouse homemade sessions)](https://das-we.blog/2022/09/02/sophoulla-to-watch-you-go-jintyhouse-homemade-sessions/)
 
 ## 🌱 My latest projects
 
