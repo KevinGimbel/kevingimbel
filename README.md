@@ -4,7 +4,7 @@ I'm currently...
 - 👨‍💻 a Senior DevOps Engineer [@synoa](https://synoa.de)
 - 🗞 blogging about everything I like on [das-we.blog](https://das-we.blog)
 - 📸 sharing my photography on [art.atarijunge.de](https://art.atarijunge.de)
-- 📚 Reading ["Unendlichkeit"](https://www.goodreads.com/book/show/1452886.Unendlichkeit) by Alastair Reynolds
+- 📚 Reading ["Chasm City"](https://www.goodreads.com/book/show/89185.Chasm_City) by Alastair Reynolds
 - 🧘‍♂️ getting into Yoga
 
 ## 🗞 The last things I published
