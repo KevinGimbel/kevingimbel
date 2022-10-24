@@ -27,11 +27,11 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Taylor Swift: NPR Music Tiny Desk Concert](https://das-we.blog/2022/10/24/taylor-swift-npr-music-tiny-desk-concert/)
 - [Taylor Swift – Anti-Hero (Official Music Video)](https://das-we.blog/2022/10/22/taylor-swift-anti-hero-official-music-video/)
 - [Thrasher Vacation: Germany](https://das-we.blog/2022/10/18/thrasher-vacation-germany/)
 - [Wet Leg – Full Performance (Live on KEXP)](https://das-we.blog/2022/09/27/wet-leg-full-performance-live-on-kexp/)
 - [Cyberpunk: Edgerunners](https://das-we.blog/2022/09/20/cyberpunk-edgerunners/)
-- [Unendlichkeit – Alastair Reynolds](https://das-we.blog/2022/09/18/unendlichkeit-alastair-reynolds/)
 
 ## 🌱 My latest projects
 
