@@ -11,11 +11,11 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [SLOW](https://art.atarijunge.de/2022/11/slow/)
 - [24HourProject 2022](https://art.atarijunge.de/2022/09/24hourproject-2022/)
 - [Lunch break walk](https://art.atarijunge.de/2022/06/lunch-break-walk/)
 - [A small update on the Big Mini](https://art.atarijunge.de/2022/06/a-small-update-on-the-big-mini/)
 - [One of my pictures was chosen by Lomography.de as “Foto Der Woche”](https://art.atarijunge.de/2022/05/one-of-my-pictures-was-chosen-by-lomography-de-as-foto-der-woche/)
-- [I swear I know how to spool film](https://art.atarijunge.de/2022/05/i-swear-i-know-how-to-spool-film/)
 
 👨‍💻 **Tech blog:**
 
