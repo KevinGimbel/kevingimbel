@@ -10,17 +10,12 @@ I'm currently...
 ## 🗞 The last things I published
 
 📸 **Photography and Art blog:**
-{{range (rss "https://art.atarijunge.de/feed/" 5) }}
-- [{{.Title}}]({{.URL}}) 
-{{- end}}
-
-👨‍💻 **Tech blog:**
-{{range (rss "https://kevingimbel.de/feed.xml" 5) }}
+{{range (rss "https://art.atarijunge.de/feed/" 10) }}
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
 
 😌 **Personal blog:**
-{{range (rss "https://das-we.blog/feed/" 5) }}
+{{range (rss "https://das-we.blog/feed/" 10) }}
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
 
