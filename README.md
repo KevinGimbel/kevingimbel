@@ -16,14 +16,11 @@ I'm currently...
 - [Lunch break walk](https://art.atarijunge.de/2022/06/lunch-break-walk/)
 - [A small update on the Big Mini](https://art.atarijunge.de/2022/06/a-small-update-on-the-big-mini/)
 - [One of my pictures was chosen by Lomography.de as “Foto Der Woche”](https://art.atarijunge.de/2022/05/one-of-my-pictures-was-chosen-by-lomography-de-as-foto-der-woche/)
-
-👨‍💻 **Tech blog:**
-
-- [How to extend and reuse configs in Gitlab CI](https://kevingimbel.de/blog/2022/01/how-to-extend-and-reuse-configs-in-gitlab-ci/)
-- [Replace git URLs in Gitlab CI](https://kevingimbel.de/blog/2021/12/replace-git-ur-ls-in-gitlab-ci/)
-- [Proxy websocket connections with Apache2](https://kevingimbel.de/blog/2021/06/proxy-websocket-connections-with-apache2/)
-- [Validating variables in terraform](https://kevingimbel.de/blog/2021/06/validating-variables-in-terraform/)
-- [Darken and Lighten colors with CSS](https://kevingimbel.de/blog/2021/06/darken-and-lighten-colors-with-css/)
+- [I swear I know how to spool film](https://art.atarijunge.de/2022/05/i-swear-i-know-how-to-spool-film/)
+- [Testing yet another Konica FS-1](https://art.atarijunge.de/2022/05/testing-yet-another-konica-fs-1/)
+- [Random city shots](https://art.atarijunge.de/2022/05/random-city-shots/)
+- [Broken mirror selfies](https://art.atarijunge.de/2022/05/broken-mirror-selfies/)
+- [Revue 6×6 aka Seagull 4a](https://art.atarijunge.de/2022/05/revue-6x6-aka-seagull-4a/)
 
 😌 **Personal blog:**
 
@@ -32,6 +29,11 @@ I'm currently...
 - [Taylor Swift – Anti-Hero (Official Music Video)](https://das-we.blog/2022/10/22/taylor-swift-anti-hero-official-music-video/)
 - [Thrasher Vacation: Germany](https://das-we.blog/2022/10/18/thrasher-vacation-germany/)
 - [Wet Leg – Full Performance (Live on KEXP)](https://das-we.blog/2022/09/27/wet-leg-full-performance-live-on-kexp/)
+- [Cyberpunk: Edgerunners](https://das-we.blog/2022/09/20/cyberpunk-edgerunners/)
+- [Unendlichkeit – Alastair Reynolds](https://das-we.blog/2022/09/18/unendlichkeit-alastair-reynolds/)
+- [The Legend of Zelda: Tears of the Kingdom (Release Trailer)](https://das-we.blog/2022/09/14/the-legend-of-zelda-tears-of-the-kingdom-release-trailer/)
+- [Sophoulla – To Watch You Go (Jintyhouse homemade sessions)](https://das-we.blog/2022/09/02/sophoulla-to-watch-you-go-jintyhouse-homemade-sessions/)
+- [Hitman 3 Developers React to 6 SECOND Speedrun (and more)](https://das-we.blog/2022/08/29/hitman-3-developers-react-to-6-second-speedrun-and-more/)
 
 ## 🌱 My latest projects
 
