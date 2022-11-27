@@ -24,6 +24,7 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [DUNE: Part One](https://das-we.blog/2022/11/27/dune-part-one/)
 - [The Sandman (Netflix)](https://das-we.blog/2022/11/20/the-sandman-netflix/)
 - [Kraftklub – So schön (feat. Blond)](https://das-we.blog/2022/11/13/kraftklub-so-schoen-feat-blond/)
 - [Taylor Swift: NPR Music Tiny Desk Concert](https://das-we.blog/2022/10/24/taylor-swift-npr-music-tiny-desk-concert/)
@@ -33,7 +34,6 @@ I'm currently...
 - [Cyberpunk: Edgerunners](https://das-we.blog/2022/09/20/cyberpunk-edgerunners/)
 - [Unendlichkeit – Alastair Reynolds](https://das-we.blog/2022/09/18/unendlichkeit-alastair-reynolds/)
 - [The Legend of Zelda: Tears of the Kingdom (Release Trailer)](https://das-we.blog/2022/09/14/the-legend-of-zelda-tears-of-the-kingdom-release-trailer/)
-- [Sophoulla – To Watch You Go (Jintyhouse homemade sessions)](https://das-we.blog/2022/09/02/sophoulla-to-watch-you-go-jintyhouse-homemade-sessions/)
 
 ## 🌱 My latest projects
 
