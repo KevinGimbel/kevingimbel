@@ -40,11 +40,11 @@ I'm currently...
 - [KevinGimbel/aoc2021](https://github.com/KevinGimbel/aoc2021) - Advent of Code 2021
 - [KevinGimbel/lightscreen](https://github.com/KevinGimbel/lightscreen) - 🤷
 - [KevinGimbel/blog-terraform-validation-example](https://github.com/KevinGimbel/blog-terraform-validation-example) - Part of my blog post &#34;Validating variables in terraform&#34;
+- [KevinGimbel/kevin.gimbel.dev](https://github.com/KevinGimbel/kevin.gimbel.dev) - Source code for https://kevin.gimbel.dev/ops/
 - [KevinGimbel/eleventy-plugin-mermaid](https://github.com/KevinGimbel/eleventy-plugin-mermaid) - Integrate Mermaid with eleventy (11ty)
 - [KevinGimbel/eleventy-plugin-emoji-rating](https://github.com/KevinGimbel/eleventy-plugin-emoji-rating) - Display accessible ratings with emojis
 - [KevinGimbel/eleventy-plugin-codepen](https://github.com/KevinGimbel/eleventy-plugin-codepen) - Plugin that provides a custom shortcode for embedding CodePen.io pens
 - [KevinGimbel/eleventy-plugin-caniuse](https://github.com/KevinGimbel/eleventy-plugin-caniuse) - 11ty plugin that allows you to include caniuse.com embeds
 - [KevinGimbel/blog-patch-example](https://github.com/KevinGimbel/blog-patch-example) - Part of https://kevingimbel.de/blog/2020/12/apply-a-patch-from-a-github-pr/
 - [KevinGimbel/traefik-plugin-header](https://github.com/KevinGimbel/traefik-plugin-header) - Playing around with Traefik Plugins
-- [KevinGimbel/rust-blog-code](https://github.com/KevinGimbel/rust-blog-code) - Code examples used in Blog Posts on https://kevingimbel.de/blog
 
