@@ -24,6 +24,7 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Hobo Johnson &amp; The LoveMakers (Tiny Desk Concert)](https://das-we.blog/2022/11/30/hobo-johnson-the-lovemakers-tiny-desk-concert/)
 - [DUNE: Part One](https://das-we.blog/2022/11/27/dune-part-one/)
 - [The Sandman (Netflix)](https://das-we.blog/2022/11/20/the-sandman-netflix/)
 - [Kraftklub – So schön (feat. Blond)](https://das-we.blog/2022/11/13/kraftklub-so-schoen-feat-blond/)
@@ -33,7 +34,6 @@ I'm currently...
 - [Wet Leg – Full Performance (Live on KEXP)](https://das-we.blog/2022/09/27/wet-leg-full-performance-live-on-kexp/)
 - [Cyberpunk: Edgerunners](https://das-we.blog/2022/09/20/cyberpunk-edgerunners/)
 - [Unendlichkeit – Alastair Reynolds](https://das-we.blog/2022/09/18/unendlichkeit-alastair-reynolds/)
-- [The Legend of Zelda: Tears of the Kingdom (Release Trailer)](https://das-we.blog/2022/09/14/the-legend-of-zelda-tears-of-the-kingdom-release-trailer/)
 
 ## 🌱 My latest projects
 
