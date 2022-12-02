@@ -4,10 +4,16 @@ I'm currently...
 - 👨‍💻 a Senior DevOps Engineer [@synoa](https://synoa.de)
 - 🗞 blogging about everything I like on [das-we.blog](https://das-we.blog)
 - 📸 sharing my photography on [art.atarijunge.de](https://art.atarijunge.de)
-- 📚 Reading ["Chasm City"](https://www.goodreads.com/book/show/89185.Chasm_City) by Alastair Reynolds
-- 🧘‍♂️ getting into Yoga
+- 📚 reading ["Chasm City"](https://www.goodreads.com/book/show/89185.Chasm_City) by Alastair Reynolds
+- 🎲 playing a lot of Pen & Paper
 
 ## 🗞 The last things I published
+
+🧑‍💻 **Tech blog:**
+
+- [Publishing and building a static website on GitHub Pages](https://kevingimbel.de/blog/2022/12/publishing-and-building-a-static-website-on-github-pages/)
+- [Back to basics: WordPress!](https://kevingimbel.de/blog/2022/11/back-to-basics-wordpress/)
+- [Hello, world!](https://kevingimbel.de/blog/2022/11/hello-world/)
 
 📸 **Photography and Art blog:**
 
@@ -24,6 +30,7 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Rammstein – Adieu (Official Video)](https://das-we.blog/2022/12/02/rammstein-adieu-official-video/)
 - [Salvatore Ganacci – Take Me To America](https://das-we.blog/2022/12/01/salvatore-ganacci-take-me-to-america/)
 - [Hobo Johnson &amp; The LoveMakers (Tiny Desk Concert)](https://das-we.blog/2022/11/30/hobo-johnson-the-lovemakers-tiny-desk-concert/)
 - [DUNE: Part One](https://das-we.blog/2022/11/27/dune-part-one/)
@@ -33,7 +40,6 @@ I'm currently...
 - [Taylor Swift – Anti-Hero (Official Music Video)](https://das-we.blog/2022/10/22/taylor-swift-anti-hero-official-music-video/)
 - [Thrasher Vacation: Germany](https://das-we.blog/2022/10/18/thrasher-vacation-germany/)
 - [Wet Leg – Full Performance (Live on KEXP)](https://das-we.blog/2022/09/27/wet-leg-full-performance-live-on-kexp/)
-- [Cyberpunk: Edgerunners](https://das-we.blog/2022/09/20/cyberpunk-edgerunners/)
 
 ## 🌱 My latest projects
 
