@@ -17,6 +17,7 @@ I'm currently...
 
 📸 **Photography and Art blog:**
 
+- [A bunch of selfies on pushed film](https://art.atarijunge.de/2022/12/a-bunch-of-selfies-on-pushed-film/)
 - [A day at the Südfriedhof](https://art.atarijunge.de/2022/12/a-day-at-the-sudfriedhof/)
 - [SLOW](https://art.atarijunge.de/2022/11/slow/)
 - [24HourProject 2022](https://art.atarijunge.de/2022/09/24hourproject-2022/)
@@ -26,7 +27,6 @@ I'm currently...
 - [I swear I know how to spool film](https://art.atarijunge.de/2022/05/i-swear-i-know-how-to-spool-film/)
 - [Testing yet another Konica FS-1](https://art.atarijunge.de/2022/05/testing-yet-another-konica-fs-1/)
 - [Random city shots](https://art.atarijunge.de/2022/05/random-city-shots/)
-- [Broken mirror selfies](https://art.atarijunge.de/2022/05/broken-mirror-selfies/)
 
 😌 **Personal blog:**
 
