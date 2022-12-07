@@ -20,7 +20,7 @@ I'm currently...
 {{- end}}
 
 😌 **Personal blog:**
-{{range (rss "https://das-we.blog/feed/" 10) }}
+{{range (rss "https://nerdcultu.re/feed/" 10) }}
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
 
