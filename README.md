@@ -30,16 +30,16 @@ I'm currently...
 
 😌 **Personal blog:**
 
-- [„Eureka!“ – Sci-Fi Fantasy Short Film (starring Karen Gillan)](https://das-we.blog/2022/12/06/eureka-sci-fi-fantasy-short-film-starring-karen-gillan/)
-- [Marc Rebillet – Your New Morning Alarm](https://das-we.blog/2022/12/02/marc-rebillet-your-new-morning-alarm/)
-- [Rammstein – Adieu (Official Video)](https://das-we.blog/2022/12/02/rammstein-adieu-official-video/)
-- [Salvatore Ganacci – Take Me To America](https://das-we.blog/2022/12/01/salvatore-ganacci-take-me-to-america/)
-- [Hobo Johnson &amp; The LoveMakers (Tiny Desk Concert)](https://das-we.blog/2022/11/30/hobo-johnson-the-lovemakers-tiny-desk-concert/)
-- [DUNE: Part One](https://das-we.blog/2022/11/27/dune-part-one/)
-- [The Sandman (Netflix)](https://das-we.blog/2022/11/20/the-sandman-netflix/)
-- [Kraftklub – So schön (feat. Blond)](https://das-we.blog/2022/11/13/kraftklub-so-schoen-feat-blond/)
-- [Taylor Swift: NPR Music Tiny Desk Concert](https://das-we.blog/2022/10/24/taylor-swift-npr-music-tiny-desk-concert/)
-- [Taylor Swift – Anti-Hero (Official Music Video)](https://das-we.blog/2022/10/22/taylor-swift-anti-hero-official-music-video/)
+- [“Eureka!” – Sci-Fi Fantasy Short Film (starring Karen Gillan)](https://nerdcultu.re/2022/12/06/eureka-sci-fi-fantasy-short-film-starring-karen-gillan/)
+- [Marc Rebillet – Your New Morning Alarm](https://nerdcultu.re/2022/12/02/marc-rebillet-your-new-morning-alarm/)
+- [Rammstein – Adieu (Official Video)](https://nerdcultu.re/2022/12/02/rammstein-adieu-official-video/)
+- [Salvatore Ganacci – Take Me To America](https://nerdcultu.re/2022/12/01/salvatore-ganacci-take-me-to-america/)
+- [Hobo Johnson &amp; The LoveMakers (Tiny Desk Concert)](https://nerdcultu.re/2022/11/30/hobo-johnson-the-lovemakers-tiny-desk-concert/)
+- [DUNE: Part One](https://nerdcultu.re/2022/11/27/dune-part-one/)
+- [The Sandman (Netflix)](https://nerdcultu.re/2022/11/20/the-sandman-netflix/)
+- [Kraftklub – So schön (feat. Blond)](https://nerdcultu.re/2022/11/13/kraftklub-so-schoen-feat-blond/)
+- [Taylor Swift: NPR Music Tiny Desk Concert](https://nerdcultu.re/2022/10/24/taylor-swift-npr-music-tiny-desk-concert/)
+- [Taylor Swift – Anti-Hero (Official Music Video)](https://nerdcultu.re/2022/10/22/taylor-swift-anti-hero-official-music-video/)
 
 ## 🌱 My latest projects
 
