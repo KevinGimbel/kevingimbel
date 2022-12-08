@@ -30,7 +30,7 @@ I'm currently...
 
 😌 **Personal blog:**
 
-- [das-we.blog ist jetzt nerdcultu.re](https://nerdcultu.re/2022/12/07/das-we-blog-ist-jetzt-nerdcultu-re/)
+- [nerdcultu.re ist jetzt nerdcultu.re](https://nerdcultu.re/2022/12/07/das-we-blog-ist-jetzt-nerdcultu-re/)
 - [“Eureka!” – Sci-Fi Fantasy Short Film (starring Karen Gillan)](https://nerdcultu.re/2022/12/06/eureka-sci-fi-fantasy-short-film-starring-karen-gillan/)
 - [Marc Rebillet – Your New Morning Alarm](https://nerdcultu.re/2022/12/02/marc-rebillet-your-new-morning-alarm/)
 - [Rammstein – Adieu (Official Video)](https://nerdcultu.re/2022/12/02/rammstein-adieu-official-video/)
