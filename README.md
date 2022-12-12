@@ -30,6 +30,7 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [ARMORED CORE VI FIRES OF RUBICON – Reveal Trailer](https://nerdcultu.re/2022/12/12/armored-core-vi-fires-of-rubicon-reveal-trailer/)
 - [nerdcultu.re ist jetzt nerdcultu.re](https://nerdcultu.re/2022/12/07/das-we-blog-ist-jetzt-nerdcultu-re/)
 - [“Eureka!” – Sci-Fi Fantasy Short Film (starring Karen Gillan)](https://nerdcultu.re/2022/12/06/eureka-sci-fi-fantasy-short-film-starring-karen-gillan/)
 - [Marc Rebillet – Your New Morning Alarm](https://nerdcultu.re/2022/12/02/marc-rebillet-your-new-morning-alarm/)
@@ -39,7 +40,6 @@ I'm currently...
 - [DUNE: Part One](https://nerdcultu.re/2022/11/27/dune-part-one/)
 - [The Sandman (Netflix)](https://nerdcultu.re/2022/11/20/the-sandman-netflix/)
 - [Kraftklub – So schön (feat. Blond)](https://nerdcultu.re/2022/11/13/kraftklub-so-schoen-feat-blond/)
-- [Taylor Swift: NPR Music Tiny Desk Concert](https://nerdcultu.re/2022/10/24/taylor-swift-npr-music-tiny-desk-concert/)
 
 ## 🌱 My latest projects
 
