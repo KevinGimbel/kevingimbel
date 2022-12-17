@@ -33,7 +33,7 @@ I'm currently...
 - [High On Life](https://nerdcultu.re/2022/12/16/high-on-life/)
 - [Falling For Christmas (Netflix)](https://nerdcultu.re/2022/12/16/falling-for-christmas-netflix/)
 - [ARMORED CORE VI FIRES OF RUBICON – Reveal Trailer](https://nerdcultu.re/2022/12/12/armored-core-vi-fires-of-rubicon-reveal-trailer/)
-- [nerdcultu.re ist jetzt nerdcultu.re](https://nerdcultu.re/2022/12/07/das-we-blog-ist-jetzt-nerdcultu-re/)
+- [das-we.blog ist jetzt nerdcultu.re](https://nerdcultu.re/2022/12/07/das-we-blog-ist-jetzt-nerdcultu-re/)
 - [“Eureka!” – Sci-Fi Fantasy Short Film (starring Karen Gillan)](https://nerdcultu.re/2022/12/06/eureka-sci-fi-fantasy-short-film-starring-karen-gillan/)
 - [Marc Rebillet – Your New Morning Alarm](https://nerdcultu.re/2022/12/02/marc-rebillet-your-new-morning-alarm/)
 - [Rammstein – Adieu (Official Video)](https://nerdcultu.re/2022/12/02/rammstein-adieu-official-video/)
