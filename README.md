@@ -30,6 +30,7 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Wednesday](https://nerdcultu.re/2022/12/20/wednesday/)
 - [High On Life](https://nerdcultu.re/2022/12/16/high-on-life/)
 - [Falling For Christmas (Netflix)](https://nerdcultu.re/2022/12/16/falling-for-christmas-netflix/)
 - [ARMORED CORE VI FIRES OF RUBICON – Reveal Trailer](https://nerdcultu.re/2022/12/12/armored-core-vi-fires-of-rubicon-reveal-trailer/)
@@ -39,7 +40,6 @@ I'm currently...
 - [Rammstein – Adieu (Official Video)](https://nerdcultu.re/2022/12/02/rammstein-adieu-official-video/)
 - [Salvatore Ganacci – Take Me To America](https://nerdcultu.re/2022/12/01/salvatore-ganacci-take-me-to-america/)
 - [Hobo Johnson &amp; The LoveMakers (Tiny Desk Concert)](https://nerdcultu.re/2022/11/30/hobo-johnson-the-lovemakers-tiny-desk-concert/)
-- [DUNE: Part One](https://nerdcultu.re/2022/11/27/dune-part-one/)
 
 ## 🌱 My latest projects
 
