@@ -30,6 +30,7 @@ I'm currently...
 
 😌 **Personal blog:**
 
+- [Chasm City – Alastair Reynolds](https://nerdcultu.re/2022/12/31/chasm-city-alastair-reynolds/)
 - [Wednesday](https://nerdcultu.re/2022/12/20/wednesday/)
 - [High On Life](https://nerdcultu.re/2022/12/16/high-on-life/)
 - [Falling For Christmas (Netflix)](https://nerdcultu.re/2022/12/16/falling-for-christmas-netflix/)
@@ -39,7 +40,6 @@ I'm currently...
 - [Marc Rebillet – Your New Morning Alarm](https://nerdcultu.re/2022/12/02/marc-rebillet-your-new-morning-alarm/)
 - [Rammstein – Adieu (Official Video)](https://nerdcultu.re/2022/12/02/rammstein-adieu-official-video/)
 - [Salvatore Ganacci – Take Me To America](https://nerdcultu.re/2022/12/01/salvatore-ganacci-take-me-to-america/)
-- [Hobo Johnson &amp; The LoveMakers (Tiny Desk Concert)](https://nerdcultu.re/2022/11/30/hobo-johnson-the-lovemakers-tiny-desk-concert/)
 
 ## 🌱 My latest projects
 
