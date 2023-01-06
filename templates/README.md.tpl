@@ -4,7 +4,7 @@ I'm currently...
 - 👨‍💻 a Senior DevOps Engineer [@synoa](https://synoa.de)
 - 🗞 blogging about everything I like on [nerdcultu.re](https://nerdcultu.re)
 - 📸 sharing my photography on [art.atarijunge.de](https://art.atarijunge.de)
-- 📚 reading ["Chasm City"](https://www.goodreads.com/book/show/89185.Chasm_City) by Alastair Reynolds
+- 📚 reading "Die Arche" by Alastair Reynolds
 - 🎲 playing a lot of Pen & Paper
 
 ## 🗞 The last things I published
