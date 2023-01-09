@@ -7,6 +7,8 @@ I'm currently...
 - 📚 reading "Die Arche" by Alastair Reynolds
 - 🎲 playing a lot of Pen & Paper
 
+If you want to contact me feel free to hit me up on the fediverse at [@KevinGimbel@fosstodon.org](https://fosstodon.org/@KevinGimbel)!
+
 ## 🗞 The last things I published
 
 🧑‍💻 **Tech blog:**
