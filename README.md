@@ -33,6 +33,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Metro: Last Light](https://nerdcultu.re/2023/01/15/metro-last-light/)
 - [Chasm City – Alastair Reynolds](https://nerdcultu.re/2022/12/31/chasm-city-alastair-reynolds/)
 - [Wednesday](https://nerdcultu.re/2022/12/20/wednesday/)
 - [High On Life](https://nerdcultu.re/2022/12/16/high-on-life/)
@@ -42,7 +43,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [“Eureka!” – Sci-Fi Fantasy Short Film (starring Karen Gillan)](https://nerdcultu.re/2022/12/06/eureka-sci-fi-fantasy-short-film-starring-karen-gillan/)
 - [Marc Rebillet – Your New Morning Alarm](https://nerdcultu.re/2022/12/02/marc-rebillet-your-new-morning-alarm/)
 - [Rammstein – Adieu (Official Video)](https://nerdcultu.re/2022/12/02/rammstein-adieu-official-video/)
-- [Salvatore Ganacci – Take Me To America](https://nerdcultu.re/2022/12/01/salvatore-ganacci-take-me-to-america/)
 
 ## 🌱 My latest projects
 
