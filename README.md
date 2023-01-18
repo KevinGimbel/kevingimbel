@@ -17,6 +17,11 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Publishing and building a static website on GitHub Pages](https://kevingimbel.de/blog/2022/12/publishing-and-building-a-static-website-on-github-pages/)
 - [Back to basics: WordPress!](https://kevingimbel.de/blog/2022/11/back-to-basics-wordpress/)
 - [Hello, world!](https://kevingimbel.de/blog/2022/11/hello-world/)
+- [How to extend and reuse configs in Gitlab CI](https://kevingimbel.de/blog/2022/11/how-to-extend-and-reuse-configs-in-gitlab-ci/)
+- [Replace git URLs in Gitlab CI](https://kevingimbel.de/blog/2021/12/replace-git-urls-in-gitlab-ci/)
+- [Proxy websocket connections with Apache2](https://kevingimbel.de/blog/2021/06/proxy-websocket-connections-with-apache2/)
+- [Validating variables in terraform](https://kevingimbel.de/blog/2021/06/validating-variables-in-terraform/)
+- [Darken and Lighten colors with CSS](https://kevingimbel.de/blog/2021/06/darken-and-lighten-colors-with-css/)
 
 📸 **Photography and Art blog:**
 
