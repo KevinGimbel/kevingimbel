@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Knives Out: Mord ist Familiensache](https://nerdcultu.re/2023/01/30/knives-out-mord-ist-familiensache/)
 - [Untitled Earth Sim 64 (Short Film)](https://nerdcultu.re/2023/01/24/untitled-earth-sim-64-short-film/)
 - [Metro: Last Light](https://nerdcultu.re/2023/01/15/metro-last-light/)
 - [Chasm City – Alastair Reynolds](https://nerdcultu.re/2022/12/31/chasm-city-alastair-reynolds/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [ARMORED CORE VI FIRES OF RUBICON – Reveal Trailer](https://nerdcultu.re/2022/12/12/armored-core-vi-fires-of-rubicon-reveal-trailer/)
 - [das-we.blog ist jetzt nerdcultu.re](https://nerdcultu.re/2022/12/07/das-we-blog-ist-jetzt-nerdcultu-re/)
 - [“Eureka!” – Sci-Fi Fantasy Short Film (starring Karen Gillan)](https://nerdcultu.re/2022/12/06/eureka-sci-fi-fantasy-short-film-starring-karen-gillan/)
-- [Marc Rebillet – Your New Morning Alarm](https://nerdcultu.re/2022/12/02/marc-rebillet-your-new-morning-alarm/)
 
 ## 🌱 My latest projects
 
