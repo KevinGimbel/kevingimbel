@@ -39,6 +39,8 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [The Legend of Zelda: Tears of the Kingdom – Official Trailer #2](https://nerdcultu.re/2023/02/09/the-legend-of-zelda-tears-of-the-kingdom-official-trailer-2/)
+- [Nintendo Direct: Game Boy &amp; Game Boy Advance on Nintendo Switch](https://nerdcultu.re/2023/02/09/nintendo-direct-game-boy-game-boy-advance-on-nintendo-switch/)
 - [Refused – New Noise](https://nerdcultu.re/2023/02/01/refused-new-noise/)
 - [Knives Out: Mord ist Familiensache](https://nerdcultu.re/2023/01/30/knives-out-mord-ist-familiensache/)
 - [Untitled Earth Sim 64 (Short Film)](https://nerdcultu.re/2023/01/24/untitled-earth-sim-64-short-film/)
@@ -47,8 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Wednesday](https://nerdcultu.re/2022/12/20/wednesday/)
 - [High On Life](https://nerdcultu.re/2022/12/16/high-on-life/)
 - [Falling For Christmas (Netflix)](https://nerdcultu.re/2022/12/16/falling-for-christmas-netflix/)
-- [ARMORED CORE VI FIRES OF RUBICON – Reveal Trailer](https://nerdcultu.re/2022/12/12/armored-core-vi-fires-of-rubicon-reveal-trailer/)
-- [das-we.blog ist jetzt nerdcultu.re](https://nerdcultu.re/2022/12/07/das-we-blog-ist-jetzt-nerdcultu-re/)
 
 ## 🌱 My latest projects
 
