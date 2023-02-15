@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Michael Scott in Mass Effect](https://nerdcultu.re/2023/02/15/michael-scott-in-mass-effect/)
 - [Alastair Reynolds – Die Arche](https://nerdcultu.re/2023/02/15/alastair-reynolds-die-arche/)
 - [The Legend of Zelda: Tears of the Kingdom – Official Trailer #2](https://nerdcultu.re/2023/02/09/the-legend-of-zelda-tears-of-the-kingdom-official-trailer-2/)
 - [Nintendo Direct: Game Boy &amp; Game Boy Advance on Nintendo Switch](https://nerdcultu.re/2023/02/09/nintendo-direct-game-boy-game-boy-advance-on-nintendo-switch/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Metro: Last Light](https://nerdcultu.re/2023/01/15/metro-last-light/)
 - [Chasm City – Alastair Reynolds](https://nerdcultu.re/2022/12/31/chasm-city-alastair-reynolds/)
 - [Wednesday](https://nerdcultu.re/2022/12/20/wednesday/)
-- [High On Life](https://nerdcultu.re/2022/12/16/high-on-life/)
 
 ## 🌱 My latest projects
 
