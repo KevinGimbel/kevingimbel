@@ -4,8 +4,8 @@ I'm currently...
 - 👨‍💻 a Senior DevOps Engineer [@synoa](https://synoa.de)
 - 🗞 blogging about everything I like on [nerdcultu.re](https://nerdcultu.re)
 - 📸 sharing my photography on [art.atarijunge.de](https://art.atarijunge.de)
-- 📚 reading "Die Arche" by Alastair Reynolds
-- 🎲 playing a lot of Pen & Paper
+
+You can find out more on [kevingimbel.de/now/](https://kevingimbel.de/now/)
 
 If you want to contact me feel free to hit me up on the fediverse at [@KevinGimbel@fosstodon.org](https://fosstodon.org/@KevinGimbel)!
 
