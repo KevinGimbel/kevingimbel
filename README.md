@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Unpinned dependencies just broke my plugin](https://kevingimbel.de/blog/2023/02/unpinned-dependencies-just-broke-my-plugin/)
 - [TIL: One-line list manipulation in Python](https://kevingimbel.de/blog/2023/01/til-one-line-list-manipulation-in-python/)
 - [Publishing and building a static website on GitHub Pages](https://kevingimbel.de/blog/2022/12/publishing-and-building-a-static-website-on-github-pages/)
 - [Back to basics: WordPress!](https://kevingimbel.de/blog/2022/11/back-to-basics-wordpress/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Proxy websocket connections with Apache2](https://kevingimbel.de/blog/2021/06/proxy-websocket-connections-with-apache2/)
 - [Validating variables in terraform](https://kevingimbel.de/blog/2021/06/validating-variables-in-terraform/)
 - [Darken and Lighten colors with CSS](https://kevingimbel.de/blog/2021/06/darken-and-lighten-colors-with-css/)
-- [First steps with Traefik 2](https://kevingimbel.de/blog/2021/05/first-steps-with-traefik-2/)
 
 📸 **Photography and Art blog:**
 
