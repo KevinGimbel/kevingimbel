@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [girl in red – i wanna be your girlfriend (Glastonbury 2022)](https://nerdcultu.re/2023/03/08/girl-in-red-i-wanna-be-your-girlfriend-glastonbury-2022/)
 - [Metro: Exodus](https://nerdcultu.re/2023/02/16/metro-exodus/)
 - [2020: Part 2](https://nerdcultu.re/2023/02/16/2020-part-2/)
 - [Michael Scott in Mass Effect](https://nerdcultu.re/2023/02/15/michael-scott-in-mass-effect/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Refused – New Noise](https://nerdcultu.re/2023/02/01/refused-new-noise/)
 - [Knives Out: Mord ist Familiensache](https://nerdcultu.re/2023/01/30/knives-out-mord-ist-familiensache/)
 - [Untitled Earth Sim 64 (Short Film)](https://nerdcultu.re/2023/01/24/untitled-earth-sim-64-short-film/)
-- [Metro: Last Light](https://nerdcultu.re/2023/01/15/metro-last-light/)
 
 ## 🌱 My latest projects
 
