@@ -53,7 +53,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 ## 🌱 My latest projects
 
 - [KevinGimbel/aoc2021](https://github.com/KevinGimbel/aoc2021) - Advent of Code 2021
-- [KevinGimbel/lightscreen](https://github.com/KevinGimbel/lightscreen) - 🤷
+- [KevinGimbel/lightscreen](https://github.com/KevinGimbel/lightscreen) - A simple reading light 💡
 - [KevinGimbel/blog-terraform-validation-example](https://github.com/KevinGimbel/blog-terraform-validation-example) - Part of my blog post &#34;Validating variables in terraform&#34;
 - [KevinGimbel/kevin.gimbel.dev](https://github.com/KevinGimbel/kevin.gimbel.dev) - Source code for https://kevin.gimbel.dev/ops/
 - [KevinGimbel/eleventy-plugin-mermaid](https://github.com/KevinGimbel/eleventy-plugin-mermaid) - Integrate Mermaid with eleventy (11ty)
