@@ -26,6 +26,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 📸 **Photography and Art blog:**
 
+- [Some recent street snaps](https://art.atarijunge.de/2023/03/some-recent-street-snaps/)
 - [A cold walk in the park](https://art.atarijunge.de/2022/12/a-cold-walk-in-the-park/)
 - [A bunch of selfies on pushed film](https://art.atarijunge.de/2022/12/a-bunch-of-selfies-on-pushed-film/)
 - [A day at the Südfriedhof](https://art.atarijunge.de/2022/12/a-day-at-the-sudfriedhof/)
@@ -35,7 +36,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [A small update on the Big Mini](https://art.atarijunge.de/2022/06/a-small-update-on-the-big-mini/)
 - [One of my pictures was chosen by Lomography.de as “Foto Der Woche”](https://art.atarijunge.de/2022/05/one-of-my-pictures-was-chosen-by-lomography-de-as-foto-der-woche/)
 - [I swear I know how to spool film](https://art.atarijunge.de/2022/05/i-swear-i-know-how-to-spool-film/)
-- [Testing yet another Konica FS-1](https://art.atarijunge.de/2022/05/testing-yet-another-konica-fs-1/)
 
 😌 **Personal blog:**
 
