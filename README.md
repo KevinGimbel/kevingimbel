@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Was kann Kernfusion? | Terra X](https://nerdcultu.re/2023/03/15/was-kann-kernfusion-terra-x/)
 - [Werden wir von Pilzen regiert? | 42 – Die Antwort auf fast alles | ARTE](https://nerdcultu.re/2023/03/15/werden-wir-von-pilzen-regiert-42-die-antwort-auf-fast-alles-arte/)
 - [STARFIELD: Official Launch Date Announcement](https://nerdcultu.re/2023/03/08/starfield-official-launch-date-announcement/)
 - [girl in red – i wanna be your girlfriend (Glastonbury 2022)](https://nerdcultu.re/2023/03/08/girl-in-red-i-wanna-be-your-girlfriend-glastonbury-2022/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Alastair Reynolds – Die Arche](https://nerdcultu.re/2023/02/15/alastair-reynolds-die-arche/)
 - [The Legend of Zelda: Tears of the Kingdom – Official Trailer #2](https://nerdcultu.re/2023/02/09/the-legend-of-zelda-tears-of-the-kingdom-official-trailer-2/)
 - [Nintendo Direct: Game Boy &amp; Game Boy Advance on Nintendo Switch](https://nerdcultu.re/2023/02/09/nintendo-direct-game-boy-game-boy-advance-on-nintendo-switch/)
-- [Refused – New Noise](https://nerdcultu.re/2023/02/01/refused-new-noise/)
 
 ## 🌱 My latest projects
 
