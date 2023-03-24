@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Venjent – open the door…](https://nerdcultu.re/2023/03/24/venjent-open-the-door/)
 - [Atlas Fallen – “Rise from Drust” Gameplay Reveal Trailer](https://nerdcultu.re/2023/03/15/atlas-fallen-rise-from-drust-gameplay-reveal-trailer/)
 - [Was kann Kernfusion? | Terra X](https://nerdcultu.re/2023/03/15/was-kann-kernfusion-terra-x/)
 - [Werden wir von Pilzen regiert? | 42 – Die Antwort auf fast alles | ARTE](https://nerdcultu.re/2023/03/15/werden-wir-von-pilzen-regiert-42-die-antwort-auf-fast-alles-arte/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [2020: Part 2](https://nerdcultu.re/2023/02/16/2020-part-2/)
 - [Michael Scott in Mass Effect](https://nerdcultu.re/2023/02/15/michael-scott-in-mass-effect/)
 - [Alastair Reynolds – Die Arche](https://nerdcultu.re/2023/02/15/alastair-reynolds-die-arche/)
-- [The Legend of Zelda: Tears of the Kingdom – Official Trailer #2](https://nerdcultu.re/2023/02/09/the-legend-of-zelda-tears-of-the-kingdom-official-trailer-2/)
 
 ## 🌱 My latest projects
 
