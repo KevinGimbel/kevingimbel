@@ -40,7 +40,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 😌 **Personal blog:**
 
 - [Venjent – open the door…](https://nerdcultu.re/2023/03/24/venjent-open-the-door/)
-- [Atlas Fallen – “Rise from Drust” Gameplay Reveal Trailer](https://nerdcultu.re/2023/03/15/atlas-fallen-rise-from-drust-gameplay-reveal-trailer/)
+- [Atlas Fallen – “Rise from Dust” Gameplay Reveal Trailer](https://nerdcultu.re/2023/03/15/atlas-fallen-rise-from-drust-gameplay-reveal-trailer/)
 - [Was kann Kernfusion? | Terra X](https://nerdcultu.re/2023/03/15/was-kann-kernfusion-terra-x/)
 - [Werden wir von Pilzen regiert? | 42 – Die Antwort auf fast alles | ARTE](https://nerdcultu.re/2023/03/15/werden-wir-von-pilzen-regiert-42-die-antwort-auf-fast-alles-arte/)
 - [STARFIELD: Official Launch Date Announcement](https://nerdcultu.re/2023/03/08/starfield-official-launch-date-announcement/)
