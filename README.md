@@ -1,7 +1,7 @@
 # Hello! Hallo! ¡Hola!
 
 I'm currently...
-- 👨‍💻 a Senior DevOps Engineer [@synoa](https://synoa.de)
+- 👨‍💻 a DevOps Engineer at [AOE](https://aoe.com)
 - 🗞 blogging about everything I like on [nerdcultu.re](https://nerdcultu.re)
 - 📸 sharing my photography on [art.atarijunge.de](https://art.atarijunge.de)
 
