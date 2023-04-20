@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [TIL: multiple git-identities on one machine](https://kevingimbel.de/blog/2023/04/til-multiple-git-identities-on-one-machine/)
 - [Setting up a MacBook from scratch for the first time in 8 years](https://kevingimbel.de/blog/2023/04/setting-up-a-macbook-from-scratch-for-the-first-time-in-8-years/)
 - [A new chapter](https://kevingimbel.de/blog/2023/04/a-new-chapter/)
 - [Unpinned dependencies just broke my plugin](https://kevingimbel.de/blog/2023/02/unpinned-dependencies-just-broke-my-plugin/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Hello, world!](https://kevingimbel.de/blog/2022/11/hello-world/)
 - [How to extend and reuse configs in Gitlab CI](https://kevingimbel.de/blog/2022/11/how-to-extend-and-reuse-configs-in-gitlab-ci/)
 - [Replace git URLs in Gitlab CI](https://kevingimbel.de/blog/2021/12/replace-git-urls-in-gitlab-ci/)
-- [Proxy websocket connections with Apache2](https://kevingimbel.de/blog/2021/06/proxy-websocket-connections-with-apache2/)
 
 📸 **Photography and Art blog:**
 
