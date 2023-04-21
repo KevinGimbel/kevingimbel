@@ -26,12 +26,12 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
 
-🔭 **Latest releases I've contributed to**
+## 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-⭐ **Recent Stars**
+## ⭐ Recent Stars
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
