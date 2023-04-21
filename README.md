@@ -50,12 +50,12 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Michael Scott in Mass Effect](https://nerdcultu.re/2023/02/15/michael-scott-in-mass-effect/)
 - [Alastair Reynolds – Die Arche](https://nerdcultu.re/2023/02/15/alastair-reynolds-die-arche/)
 
-🔭 **Latest releases I've contributed to**
+## 🔭 Latest releases I've contributed to
 
 - [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v3.0.0](https://github.com/KevinGimbel/mktoc/releases/tag/v3.0.0), 4 days ago) - 🦀 Markdown Table of Content generator
 - [metrue/fx](https://github.com/metrue/fx) ([0.9.48-alpha.d91a7a0](https://github.com/metrue/fx/releases/tag/0.9.48-alpha.d91a7a0), 2 years ago) - A Function as a Service tool makes a function as a  container-based service in seconds.
 
-⭐ **Recent Stars**
+## ⭐ Recent Stars
 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 days ago)
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵 (3 days ago)
