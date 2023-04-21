@@ -57,6 +57,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [AOEpeople/lambda_token_auth](https://github.com/AOEpeople/lambda_token_auth) - Small Lambda function which performs a Aws:Sts:AssumeRole based on the presented JWT-Token (today)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 days ago)
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵 (3 days ago)
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (3 days ago)
@@ -66,5 +67,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (1 week ago)
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.  (2 weeks ago)
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (2 weeks ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (2 weeks ago)
 
