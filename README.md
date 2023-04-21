@@ -50,16 +50,21 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Michael Scott in Mass Effect](https://nerdcultu.re/2023/02/15/michael-scott-in-mass-effect/)
 - [Alastair Reynolds – Die Arche](https://nerdcultu.re/2023/02/15/alastair-reynolds-die-arche/)
 
-## 🌱 My latest projects
+🔭 **Latest releases I've contributed to**
 
-- [KevinGimbel/aoc2021](https://github.com/KevinGimbel/aoc2021) - Advent of Code 2021
-- [KevinGimbel/lightscreen](https://github.com/KevinGimbel/lightscreen) - A simple reading light 💡
-- [KevinGimbel/blog-terraform-validation-example](https://github.com/KevinGimbel/blog-terraform-validation-example) - Part of my blog post &#34;Validating variables in terraform&#34;
-- [KevinGimbel/kevin.gimbel.dev](https://github.com/KevinGimbel/kevin.gimbel.dev) - Source code for https://kevin.gimbel.dev/ops/
-- [KevinGimbel/eleventy-plugin-mermaid](https://github.com/KevinGimbel/eleventy-plugin-mermaid) - Integrate Mermaid with eleventy (11ty)
-- [KevinGimbel/eleventy-plugin-emoji-rating](https://github.com/KevinGimbel/eleventy-plugin-emoji-rating) - Display accessible ratings with emojis
-- [KevinGimbel/eleventy-plugin-codepen](https://github.com/KevinGimbel/eleventy-plugin-codepen) - Plugin that provides a custom shortcode for embedding CodePen.io pens
-- [KevinGimbel/eleventy-plugin-caniuse](https://github.com/KevinGimbel/eleventy-plugin-caniuse) - 11ty plugin that allows you to include caniuse.com embeds
-- [KevinGimbel/blog-patch-example](https://github.com/KevinGimbel/blog-patch-example) - Part of https://kevingimbel.de/blog/2020/12/apply-a-patch-from-a-github-pr/
-- [KevinGimbel/traefik-plugin-header](https://github.com/KevinGimbel/traefik-plugin-header) - Playing around with Traefik Plugins
+- [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v3.0.0](https://github.com/KevinGimbel/mktoc/releases/tag/v3.0.0), 4 days ago) - 🦀 Markdown Table of Content generator
+- [metrue/fx](https://github.com/metrue/fx) ([0.9.48-alpha.d91a7a0](https://github.com/metrue/fx/releases/tag/0.9.48-alpha.d91a7a0), 2 years ago) - A Function as a Service tool makes a function as a  container-based service in seconds.
+
+⭐ **Recent Stars**
+
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 days ago)
+- [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵 (3 days ago)
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (3 days ago)
+- [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) - GitHub Action for building and uploading Rust binary to GitHub Releases. (4 days ago)
+- [responsible-ai-collaborative/aiid](https://github.com/responsible-ai-collaborative/aiid) -  (1 week ago)
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 week ago)
+- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (1 week ago)
+- [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.  (2 weeks ago)
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (2 weeks ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (2 weeks ago)
 
