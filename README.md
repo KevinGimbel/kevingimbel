@@ -52,16 +52,16 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## 🔭 Latest releases I've contributed to
 
-- [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v3.0.0](https://github.com/KevinGimbel/mktoc/releases/tag/v3.0.0), 4 days ago) - 🦀 Markdown Table of Content generator
+- [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v3.0.0](https://github.com/KevinGimbel/mktoc/releases/tag/v3.0.0), 5 days ago) - 🦀 Markdown Table of Content generator
 - [metrue/fx](https://github.com/metrue/fx) ([0.9.48-alpha.d91a7a0](https://github.com/metrue/fx/releases/tag/0.9.48-alpha.d91a7a0), 2 years ago) - A Function as a Service tool makes a function as a  container-based service in seconds.
 
 ## ⭐ Recent Stars
 
-- [AOEpeople/lambda_token_auth](https://github.com/AOEpeople/lambda_token_auth) - Small Lambda function which performs a Aws:Sts:AssumeRole based on the presented JWT-Token (today)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 days ago)
-- [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵 (3 days ago)
-- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (3 days ago)
-- [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) - GitHub Action for building and uploading Rust binary to GitHub Releases. (4 days ago)
+- [AOEpeople/lambda_token_auth](https://github.com/AOEpeople/lambda_token_auth) - Small Lambda function which performs a Aws:Sts:AssumeRole based on the presented JWT-Token (1 day ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 days ago)
+- [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵 (4 days ago)
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (4 days ago)
+- [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) - GitHub Action for building and uploading Rust binary to GitHub Releases. (5 days ago)
 - [responsible-ai-collaborative/aiid](https://github.com/responsible-ai-collaborative/aiid) -  (1 week ago)
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 week ago)
 - [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (1 week ago)
