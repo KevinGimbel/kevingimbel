@@ -52,19 +52,19 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## 🔭 Latest releases I've contributed to
 
-- [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v3.0.0](https://github.com/KevinGimbel/mktoc/releases/tag/v3.0.0), 1 week ago) - 🦀 Markdown Table of Content generator
-- [metrue/fx](https://github.com/metrue/fx) ([0.9.48-alpha.d91a7a0](https://github.com/metrue/fx/releases/tag/0.9.48-alpha.d91a7a0), 2 years ago) - A Function as a Service tool makes a function as a  container-based service in seconds.
+- [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v3.0.0](https://github.com/KevinGimbel/mktoc/releases/tag/v3.0.0)) - 🦀 Markdown Table of Content generator
+- [metrue/fx](https://github.com/metrue/fx) ([0.9.48-alpha.d91a7a0](https://github.com/metrue/fx/releases/tag/0.9.48-alpha.d91a7a0)) - A Function as a Service tool makes a function as a  container-based service in seconds.
 
 ## ⭐ Recent Stars
 
-- [AOEpeople/lambda_token_auth](https://github.com/AOEpeople/lambda_token_auth) - Small Lambda function which performs a Aws:Sts:AssumeRole based on the presented JWT-Token (3 days ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (5 days ago)
-- [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵 (6 days ago)
-- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application (6 days ago)
-- [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) - GitHub Action for building and uploading Rust binary to GitHub Releases. (1 week ago)
-- [responsible-ai-collaborative/aiid](https://github.com/responsible-ai-collaborative/aiid) -  (1 week ago)
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster (1 week ago)
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API (1 week ago)
-- [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.  (2 weeks ago)
-- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money. (2 weeks ago)
+- [AOEpeople/lambda_token_auth](https://github.com/AOEpeople/lambda_token_auth) - Small Lambda function which performs a Aws:Sts:AssumeRole based on the presented JWT-Token
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+- [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
+- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
+- [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) - GitHub Action for building and uploading Rust binary to GitHub Releases.
+- [responsible-ai-collaborative/aiid](https://github.com/responsible-ai-collaborative/aiid) - 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
+- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
+- [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 
