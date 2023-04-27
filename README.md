@@ -52,7 +52,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## 🔭 Latest releases I've contributed to
 
-- [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v3.1.0](https://github.com/KevinGimbel/mktoc/releases/tag/v3.1.0)) - 🦀 Markdown Table of Content generator
+- [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v3.2.0](https://github.com/KevinGimbel/mktoc/releases/tag/v3.2.0)) - 🦀 Markdown Table of Content generator
 - [metrue/fx](https://github.com/metrue/fx) ([0.9.48-alpha.d91a7a0](https://github.com/metrue/fx/releases/tag/0.9.48-alpha.d91a7a0)) - A Function as a Service tool makes a function as a  container-based service in seconds.
 
 ## ⭐ Recent Stars
