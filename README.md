@@ -58,6 +58,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [AOEpeople/lambda_token_auth](https://github.com/AOEpeople/lambda_token_auth) - Small Lambda function which performs a Aws:Sts:AssumeRole based on the presented JWT-Token
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
@@ -67,5 +68,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. 
-- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 
