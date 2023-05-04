@@ -58,6 +58,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [AOEpeople/lambda_token_auth](https://github.com/AOEpeople/lambda_token_auth) - Small Lambda function which performs a Aws:Sts:AssumeRole based on the presented JWT-Token
@@ -67,5 +68,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [taiki-e/upload-rust-binary-action](https://github.com/taiki-e/upload-rust-binary-action) - GitHub Action for building and uploading Rust binary to GitHub Releases.
 - [responsible-ai-collaborative/aiid](https://github.com/responsible-ai-collaborative/aiid) - 
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [google/deps.dev](https://github.com/google/deps.dev) - Resources for the deps.dev API
 
