@@ -22,7 +22,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Back to basics: WordPress!](https://kevingimbel.de/blog/2022/11/back-to-basics-wordpress/)
 - [Hello, world!](https://kevingimbel.de/blog/2022/11/hello-world/)
 - [How to extend and reuse configs in Gitlab CI](https://kevingimbel.de/blog/2022/11/how-to-extend-and-reuse-configs-in-gitlab-ci/)
-- [Replace git URLs in Gitlab CI](https://kevingimbel.de/blog/2021/12/replace-git-urls-in-gitlab-ci/)
+- [TIL: Replace git URLs in Gitlab CI](https://kevingimbel.de/blog/2021/12/replace-git-urls-in-gitlab-ci/)
 
 📸 **Photography and Art blog:**
 
