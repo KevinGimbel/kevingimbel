@@ -58,6 +58,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
@@ -67,5 +68,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [AOEpeople/lambda_token_auth](https://github.com/AOEpeople/lambda_token_auth) - Small Lambda function which performs a Aws:Sts:AssumeRole based on the presented JWT-Token
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux 🐧🎵
-- [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 
