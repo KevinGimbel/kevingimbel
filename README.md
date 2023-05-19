@@ -58,6 +58,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [NERDDISCO/nerddis.co](https://github.com/NERDDISCO/nerddis.co) - Website for NERDDISCO. 
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4.
@@ -67,5 +68,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
 - [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 - [AOEpeople/lambda_token_auth](https://github.com/AOEpeople/lambda_token_auth) - Small Lambda function which performs a Aws:Sts:AssumeRole based on the presented JWT-Token
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 
