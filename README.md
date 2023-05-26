@@ -58,6 +58,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust 🦀
 - [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 - [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
 - [NERDDISCO/nerddis.co](https://github.com/NERDDISCO/nerddis.co) - Website for NERDDISCO. 
@@ -67,5 +68,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
-- [serenity-rs/serenity](https://github.com/serenity-rs/serenity) - A Rust library for the Discord API.
 
