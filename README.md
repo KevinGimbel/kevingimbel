@@ -65,7 +65,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Deploy Rust apps with a single Cargo command
+- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build &amp; ship backends without writing any infrastructure files.
 - [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
 - [opencost/opencost](https://github.com/opencost/opencost) - Cross-cloud cost allocation models for Kubernetes workloads
 
