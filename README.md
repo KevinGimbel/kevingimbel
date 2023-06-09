@@ -52,12 +52,14 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## 🔭 Latest releases I've contributed to
 
+- [containers/netavark](https://github.com/containers/netavark) ([v1.5.1](https://github.com/containers/netavark/releases/tag/v1.5.1)) - Container network stack
 - [KevinGimbel/ndice](https://github.com/KevinGimbel/ndice) ([v1.0.0](https://github.com/KevinGimbel/ndice/releases/tag/v1.0.0)) - They see me rollin&#39;, they hatin&#39; 
 - [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v3.2.0](https://github.com/KevinGimbel/mktoc/releases/tag/v3.2.0)) - 🦀 Markdown Table of Content generator
 - [metrue/fx](https://github.com/metrue/fx) ([0.9.48-alpha.d91a7a0](https://github.com/metrue/fx/releases/tag/0.9.48-alpha.d91a7a0)) - A Function as a Service tool makes a function as a  container-based service in seconds.
 
 ## ⭐ Recent Stars
 
+- [ChrisMacNaughton/vault-rs](https://github.com/ChrisMacNaughton/vault-rs) - 
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust 🦀
@@ -67,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-- [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build &amp; ship backends without writing any infrastructure files.
 
