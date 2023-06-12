@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Offenbarung – Alastair Reynolds](https://nerdcultu.re/2023/06/12/offenbarung-alastair-reynolds/)
 - [Kurt Cobain – Song 2 (AI Cover)](https://nerdcultu.re/2023/05/19/kurt-cobain-song-2-ai-cover/)
 - [Venjent – open the door…](https://nerdcultu.re/2023/03/24/venjent-open-the-door/)
 - [Atlas Fallen – “Rise from Dust” Gameplay Reveal Trailer](https://nerdcultu.re/2023/03/15/atlas-fallen-rise-from-drust-gameplay-reveal-trailer/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [girl in red – i wanna be your girlfriend (Glastonbury 2022)](https://nerdcultu.re/2023/03/08/girl-in-red-i-wanna-be-your-girlfriend-glastonbury-2022/)
 - [Metro: Exodus](https://nerdcultu.re/2023/02/16/metro-exodus/)
 - [2020: Part 2](https://nerdcultu.re/2023/02/16/2020-part-2/)
-- [Michael Scott in Mass Effect](https://nerdcultu.re/2023/02/15/michael-scott-in-mass-effect/)
 
 ## 🔭 Latest releases I've contributed to
 
