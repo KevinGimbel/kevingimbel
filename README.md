@@ -59,7 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
-- [AOEpeople/desk-compass](https://github.com/AOEpeople/desk-compass) - *&#34;Where&#39;s my desk?&#34;* - Search no more: Manage your floor plan and space layout; Keep track of item locations; Collaborate to maximize overview for your office, event location or lecture rooms. Written in NestJS and Svelte.
+- [AOEpeople/desk-compass](https://github.com/AOEpeople/desk-compass) - &#34;Where&#39;s my desk?&#34; - Search no more: Manage your floor plan and space layout; Keep track of item locations; Collaborate to maximize overview for your office, event location or lecture rooms. Written in NestJS and Svelte.
 - [ChrisMacNaughton/vault-rs](https://github.com/ChrisMacNaughton/vault-rs) - 
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
