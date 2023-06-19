@@ -61,7 +61,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 - [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍 
-- [AOEpeople/desk-compass](https://github.com/AOEpeople/desk-compass) - &#34;Where&#39;s my desk?&#34; - Search no more: Manage your floor plan and space layout; Keep track of item locations; Collaborate to maximize overview for your office, event location or lecture rooms. Written in NestJS and Svelte.
+- [AOEpeople/desk-compass](https://github.com/AOEpeople/desk-compass) - &#34;Where&#39;s my desk?&#34; - Search no more: Manage your floor plan and space layout; Keep track of item locations; Collaborate to maximize overview for your office, event location or lecture rooms. Written with NestJS, Svelte and Leaflet.
 - [ChrisMacNaughton/vault-rs](https://github.com/ChrisMacNaughton/vault-rs) - 
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
