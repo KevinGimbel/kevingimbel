@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [javierbyte/brutalita](https://github.com/javierbyte/brutalita) - Brutalita is an experimental font and font editor, edit in your browser and download OTF.
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
 - [StarpTech/k-andy](https://github.com/StarpTech/k-andy) - Low cost Kubernetes stack for startups, prototypes, and playgrounds on Hetzner Cloud.
 - [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust 🦀
-- [raphlinus/pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - 
 
