@@ -26,6 +26,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 📸 **Photography and Art blog:**
 
+- [Plants at the Zoo](https://art.atarijunge.de/2023/06/plants-at-the-zoo/)
 - [i 🤍 u](https://art.atarijunge.de/2023/03/i-%f0%9f%a4%8d-u/)
 - [Some recent street snaps](https://art.atarijunge.de/2023/03/some-recent-street-snaps/)
 - [A cold walk in the park](https://art.atarijunge.de/2022/12/a-cold-walk-in-the-park/)
@@ -35,7 +36,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [24HourProject 2022](https://art.atarijunge.de/2022/09/24hourproject-2022/)
 - [Lunch break walk](https://art.atarijunge.de/2022/06/lunch-break-walk/)
 - [A small update on the Big Mini](https://art.atarijunge.de/2022/06/a-small-update-on-the-big-mini/)
-- [One of my pictures was chosen by Lomography.de as “Foto Der Woche”](https://art.atarijunge.de/2022/05/one-of-my-pictures-was-chosen-by-lomography-de-as-foto-der-woche/)
 
 😌 **Personal blog:**
 
