@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Automatic – Automaton](https://nerdcultu.re/2023/07/10/automatic-automaton/)
 - [Offenbarung – Alastair Reynolds](https://nerdcultu.re/2023/06/12/offenbarung-alastair-reynolds/)
 - [Kurt Cobain – Song 2 (AI Cover)](https://nerdcultu.re/2023/05/19/kurt-cobain-song-2-ai-cover/)
 - [Venjent – open the door…](https://nerdcultu.re/2023/03/24/venjent-open-the-door/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [STARFIELD: Official Launch Date Announcement](https://nerdcultu.re/2023/03/08/starfield-official-launch-date-announcement/)
 - [girl in red – i wanna be your girlfriend (Glastonbury 2022)](https://nerdcultu.re/2023/03/08/girl-in-red-i-wanna-be-your-girlfriend-glastonbury-2022/)
 - [Metro: Exodus](https://nerdcultu.re/2023/02/16/metro-exodus/)
-- [2020: Part 2](https://nerdcultu.re/2023/02/16/2020-part-2/)
 
 ## 🔭 Latest releases I've contributed to
 
