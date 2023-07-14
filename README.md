@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [HeroicKatora/oxide-auth](https://github.com/HeroicKatora/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.
 - [javierbyte/brutalita](https://github.com/javierbyte/brutalita) - Brutalita is an experimental font and font editor, edit in your browser and download OTF.
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
 - [StarpTech/k-andy](https://github.com/StarpTech/k-andy) - Low cost Kubernetes stack for startups, prototypes, and playgrounds on Hetzner Cloud.
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [ChrisMacNaughton/vault-rs](https://github.com/ChrisMacNaughton/vault-rs) - 
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-- [mgrachev/update-informer](https://github.com/mgrachev/update-informer) - Update informer for CLI applications written in Rust 🦀
 
