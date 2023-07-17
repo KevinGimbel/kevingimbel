@@ -59,6 +59,8 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [HeroicKatora/oxide-auth](https://github.com/HeroicKatora/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.
 - [javierbyte/brutalita](https://github.com/javierbyte/brutalita) - Brutalita is an experimental font and font editor, edit in your browser and download OTF.
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
@@ -67,6 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍 
 - [AOEpeople/desk-compass](https://github.com/AOEpeople/desk-compass) - &#34;Where&#39;s my desk?&#34; - Search no more: Manage your floor plan and space layout; Keep track of item locations; Collaborate to maximize overview for your office, event location or lecture rooms. Written with NestJS, Svelte and Leaflet.
 - [ChrisMacNaughton/vault-rs](https://github.com/ChrisMacNaughton/vault-rs) - 
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
-- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 
