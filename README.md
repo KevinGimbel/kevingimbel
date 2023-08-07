@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [WOOL – Hugh Howey](https://nerdcultu.re/2023/08/07/wool-hugh-howey/)
 - [Ape and Essence – Aldous Huxley](https://nerdcultu.re/2023/07/31/ape-and-essence-aldous-huxley/)
 - [Automatic – Automaton](https://nerdcultu.re/2023/07/10/automatic-automaton/)
 - [Offenbarung – Alastair Reynolds](https://nerdcultu.re/2023/06/12/offenbarung-alastair-reynolds/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Was kann Kernfusion? | Terra X](https://nerdcultu.re/2023/03/15/was-kann-kernfusion-terra-x/)
 - [Werden wir von Pilzen regiert? | 42 – Die Antwort auf fast alles | ARTE](https://nerdcultu.re/2023/03/15/werden-wir-von-pilzen-regiert-42-die-antwort-auf-fast-alles-arte/)
 - [STARFIELD: Official Launch Date Announcement](https://nerdcultu.re/2023/03/08/starfield-official-launch-date-announcement/)
-- [girl in red – i wanna be your girlfriend (Glastonbury 2022)](https://nerdcultu.re/2023/03/08/girl-in-red-i-wanna-be-your-girlfriend-glastonbury-2022/)
 
 ## 🔭 Latest releases I've contributed to
 
