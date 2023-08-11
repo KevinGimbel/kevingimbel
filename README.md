@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [First Shift: Legacy – Hugh Howey](https://nerdcultu.re/2023/08/11/first-shift-legacy-hugh-howey/)
 - [WOOL – Hugh Howey](https://nerdcultu.re/2023/08/07/wool-hugh-howey/)
 - [Ape and Essence – Aldous Huxley](https://nerdcultu.re/2023/07/31/ape-and-essence-aldous-huxley/)
 - [Automatic – Automaton](https://nerdcultu.re/2023/07/10/automatic-automaton/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Atlas Fallen – “Rise from Dust” Gameplay Reveal Trailer](https://nerdcultu.re/2023/03/15/atlas-fallen-rise-from-drust-gameplay-reveal-trailer/)
 - [Was kann Kernfusion? | Terra X](https://nerdcultu.re/2023/03/15/was-kann-kernfusion-terra-x/)
 - [Werden wir von Pilzen regiert? | 42 – Die Antwort auf fast alles | ARTE](https://nerdcultu.re/2023/03/15/werden-wir-von-pilzen-regiert-42-die-antwort-auf-fast-alles-arte/)
-- [STARFIELD: Official Launch Date Announcement](https://nerdcultu.re/2023/03/08/starfield-official-launch-date-announcement/)
 
 ## 🔭 Latest releases I've contributed to
 
