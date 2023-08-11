@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [TodePond/C](https://github.com/TodePond/C) - perfect programming language
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [HeroicKatora/oxide-auth](https://github.com/HeroicKatora/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 - [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍 
 - [AOEpeople/desk-compass](https://github.com/AOEpeople/desk-compass) - &#34;Where&#39;s my desk?&#34; - Search no more: Manage your floor plan and space layout; Keep track of item locations; Collaborate to maximize overview for your office, event location or lecture rooms. Written with NestJS, Svelte and Leaflet.
-- [ChrisMacNaughton/vault-rs](https://github.com/ChrisMacNaughton/vault-rs) - 
 
