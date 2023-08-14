@@ -59,6 +59,8 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.  
+- [p4ddy1/gbemulator](https://github.com/p4ddy1/gbemulator) - Gameboy Emulator in Rust
 - [TodePond/C](https://github.com/TodePond/C) - perfect programming language
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
@@ -67,6 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
 - [StarpTech/k-andy](https://github.com/StarpTech/k-andy) - Low cost Kubernetes stack for startups, prototypes, and playgrounds on Hetzner Cloud.
 - [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
-- [saschagrunert/webapp.rs](https://github.com/saschagrunert/webapp.rs) - A web application completely written in Rust. 🌍 
-- [AOEpeople/desk-compass](https://github.com/AOEpeople/desk-compass) - &#34;Where&#39;s my desk?&#34; - Search no more: Manage your floor plan and space layout; Keep track of item locations; Collaborate to maximize overview for your office, event location or lecture rooms. Written with NestJS, Svelte and Leaflet.
 
