@@ -46,7 +46,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Offenbarung – Alastair Reynolds](https://nerdcultu.re/2023/06/12/offenbarung-alastair-reynolds/)
 - [Kurt Cobain – Song 2 (AI Cover)](https://nerdcultu.re/2023/05/19/kurt-cobain-song-2-ai-cover/)
 - [Venjent – open the door…](https://nerdcultu.re/2023/03/24/venjent-open-the-door/)
-- [Atlas Fallen – “Rise from Dust” Gameplay Reveal Trailer](https://nerdcultu.re/2023/03/15/atlas-fallen-rise-from-drust-gameplay-reveal-trailer/)
+- [Atlas Fallen – „Rise from Dust“ Gameplay Reveal Trailer](https://nerdcultu.re/2023/03/15/atlas-fallen-rise-from-drust-gameplay-reveal-trailer/)
 - [Was kann Kernfusion? | Terra X](https://nerdcultu.re/2023/03/15/was-kann-kernfusion-terra-x/)
 - [Werden wir von Pilzen regiert? | 42 – Die Antwort auf fast alles | ARTE](https://nerdcultu.re/2023/03/15/werden-wir-von-pilzen-regiert-42-die-antwort-auf-fast-alles-arte/)
 
