@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.  
 - [p4ddy1/gbemulator](https://github.com/p4ddy1/gbemulator) - Gameboy Emulator in Rust
 - [TodePond/C](https://github.com/TodePond/C) - perfect programming language
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [javierbyte/brutalita](https://github.com/javierbyte/brutalita) - Brutalita is an experimental font and font editor, edit in your browser and download OTF.
 - [kube-hetzner/terraform-hcloud-kube-hetzner](https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner) - Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!
 - [StarpTech/k-andy](https://github.com/StarpTech/k-andy) - Low cost Kubernetes stack for startups, prototypes, and playgrounds on Hetzner Cloud.
-- [cashapp/hermit](https://github.com/cashapp/hermit) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 
