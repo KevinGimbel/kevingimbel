@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [TIL: named return parameters in Go](https://kevingimbel.de/blog/2023/08/til-named-return-parameters-in-go/)
 - [Building for the web, with Rust and WebAssembly](https://kevingimbel.de/blog/2023/07/building-for-the-web-with-rust-and-webassembly/)
 - [TIL: multiple git-identities on one machine](https://kevingimbel.de/blog/2023/04/til-multiple-git-identities-on-one-machine/)
 - [Setting up a MacBook from scratch for the first time in 8 years](https://kevingimbel.de/blog/2023/04/setting-up-a-macbook-from-scratch-for-the-first-time-in-8-years/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Publishing and building a static website on GitHub Pages](https://kevingimbel.de/blog/2022/12/publishing-and-building-a-static-website-on-github-pages/)
 - [Back to basics: WordPress!](https://kevingimbel.de/blog/2022/11/back-to-basics-wordpress/)
 - [Hello, world!](https://kevingimbel.de/blog/2022/11/hello-world/)
-- [How to extend and reuse configs in Gitlab CI](https://kevingimbel.de/blog/2022/11/how-to-extend-and-reuse-configs-in-gitlab-ci/)
 
 📸 **Photography and Art blog:**
 
