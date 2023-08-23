@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Second Shift: Order – Hugh Howey](https://nerdcultu.re/2023/08/23/second-shift-order-hugh-howey/)
 - [Cyberpunk 2077 2.0 Update &amp; Phantom Liberty](https://nerdcultu.re/2023/08/23/cyberpunk-2077-2-0-update-phantom-liberty/)
 - [First Shift: Legacy – Hugh Howey](https://nerdcultu.re/2023/08/11/first-shift-legacy-hugh-howey/)
 - [WOOL – Hugh Howey](https://nerdcultu.re/2023/08/07/wool-hugh-howey/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Kurt Cobain – Song 2 (AI Cover)](https://nerdcultu.re/2023/05/19/kurt-cobain-song-2-ai-cover/)
 - [Venjent – open the door…](https://nerdcultu.re/2023/03/24/venjent-open-the-door/)
 - [Atlas Fallen – „Rise from Dust“ Gameplay Reveal Trailer](https://nerdcultu.re/2023/03/15/atlas-fallen-rise-from-drust-gameplay-reveal-trailer/)
-- [Was kann Kernfusion? | Terra X](https://nerdcultu.re/2023/03/15/was-kann-kernfusion-terra-x/)
 
 ## 🔭 Latest releases I've contributed to
 
