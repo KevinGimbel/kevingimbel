@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Power Of Rausch – Oliver Koletzki, Nagel, hr-Sinfonieorchester](https://nerdcultu.re/2023/08/29/power-of-rausch-oliver-koletzki-nagel-hr-sinfonieorchester/)
 - [Third Shift: Pact – Hugh Howey](https://nerdcultu.re/2023/08/29/third-shift-pact-hugh-howey/)
 - [The Colour Out of Space – H. P. Lovecraft](https://nerdcultu.re/2023/08/29/the-colour-out-of-space-h-p-lovecraft/)
 - [Second Shift: Order – Hugh Howey](https://nerdcultu.re/2023/08/23/second-shift-order-hugh-howey/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Ape and Essence – Aldous Huxley](https://nerdcultu.re/2023/07/31/ape-and-essence-aldous-huxley/)
 - [Automatic – Automaton](https://nerdcultu.re/2023/07/10/automatic-automaton/)
 - [Offenbarung – Alastair Reynolds](https://nerdcultu.re/2023/06/12/offenbarung-alastair-reynolds/)
-- [Kurt Cobain – Song 2 (AI Cover)](https://nerdcultu.re/2023/05/19/kurt-cobain-song-2-ai-cover/)
 
 ## 🔭 Latest releases I've contributed to
 
