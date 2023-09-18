@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [rlane/oort3](https://github.com/rlane/oort3) - A space fleet programming game
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust
 - [freesewing/freesewing](https://github.com/freesewing/freesewing) - Freesewing&#39;s monorepo holding all our NPM packages, including our core library
 - [withoutboats/heck](https://github.com/withoutboats/heck) - oh heck, a case conversion library
-- [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 
