@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [TIL: scale down a Kubernetes DaemonSet](https://kevingimbel.de/blog/2023/09/til-scale-down-a-kubernetes-daemonset/)
 - [TIL: Run a script on every k8s Node using  a DaemonSet](https://kevingimbel.de/blog/2023/09/til-run-a-script-on-every-k8s-node-using-a-daemonset/)
 - [TIL: named return parameters in Go](https://kevingimbel.de/blog/2023/08/til-named-return-parameters-in-go/)
 - [Building for the web, with Rust and WebAssembly](https://kevingimbel.de/blog/2023/07/building-for-the-web-with-rust-and-webassembly/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Unpinned dependencies just broke my plugin](https://kevingimbel.de/blog/2023/02/unpinned-dependencies-just-broke-my-plugin/)
 - [TIL: One-line list manipulation in Python](https://kevingimbel.de/blog/2023/01/til-one-line-list-manipulation-in-python/)
 - [Publishing and building a static website on GitHub Pages](https://kevingimbel.de/blog/2022/12/publishing-and-building-a-static-website-on-github-pages/)
-- [Back to basics: WordPress!](https://kevingimbel.de/blog/2022/11/back-to-basics-wordpress/)
 
 📸 **Photography and Art blog:**
 
