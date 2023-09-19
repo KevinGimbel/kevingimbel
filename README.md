@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Cypress Hill: Tiny Desk Concert](https://nerdcultu.re/2023/09/19/cypress-hill-tiny-desk-concert/)
 - [Bomb Rush Cyberfunk](https://nerdcultu.re/2023/08/30/bomb-rush-cyberfunk/)
 - [Power Of Rausch – Oliver Koletzki, Nagel, hr-Sinfonieorchester](https://nerdcultu.re/2023/08/29/power-of-rausch-oliver-koletzki-nagel-hr-sinfonieorchester/)
 - [Third Shift: Pact – Hugh Howey](https://nerdcultu.re/2023/08/29/third-shift-pact-hugh-howey/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [First Shift: Legacy – Hugh Howey](https://nerdcultu.re/2023/08/11/first-shift-legacy-hugh-howey/)
 - [WOOL – Hugh Howey](https://nerdcultu.re/2023/08/07/wool-hugh-howey/)
 - [Ape and Essence – Aldous Huxley](https://nerdcultu.re/2023/07/31/ape-and-essence-aldous-huxley/)
-- [Automatic – Automaton](https://nerdcultu.re/2023/07/10/automatic-automaton/)
 
 ## 🔭 Latest releases I've contributed to
 
