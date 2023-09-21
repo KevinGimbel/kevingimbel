@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [RE: The OpenTofu fork is now available!](https://kevingimbel.de/blog/2023/09/re-the-opentofu-fork-is-now-available/)
 - [TIL: scale down a Kubernetes DaemonSet](https://kevingimbel.de/blog/2023/09/til-scale-down-a-kubernetes-daemonset/)
 - [TIL: Run a script on every k8s Node using  a DaemonSet](https://kevingimbel.de/blog/2023/09/til-run-a-script-on-every-k8s-node-using-a-daemonset/)
 - [TIL: named return parameters in Go](https://kevingimbel.de/blog/2023/08/til-named-return-parameters-in-go/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [A new chapter](https://kevingimbel.de/blog/2023/04/a-new-chapter/)
 - [Unpinned dependencies just broke my plugin](https://kevingimbel.de/blog/2023/02/unpinned-dependencies-just-broke-my-plugin/)
 - [TIL: One-line list manipulation in Python](https://kevingimbel.de/blog/2023/01/til-one-line-list-manipulation-in-python/)
-- [Publishing and building a static website on GitHub Pages](https://kevingimbel.de/blog/2022/12/publishing-and-building-a-static-website-on-github-pages/)
 
 📸 **Photography and Art blog:**
 
@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono &amp; Sans is a variable font family for code &amp; UI
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [rlane/oort3](https://github.com/rlane/oort3) - A space fleet programming game
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [Ruddle/Fomos](https://github.com/Ruddle/Fomos) - Experimental OS, built with rust
-- [freesewing/freesewing](https://github.com/freesewing/freesewing) - Freesewing&#39;s monorepo holding all our NPM packages, including our core library
 
