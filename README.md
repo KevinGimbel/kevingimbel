@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Integrating WordPress Posts with 11ty](https://kevingimbel.de/blog/2023/11/integrating-wordpress-posts-with-11ty/)
 - [RE: Announcing Rust 1.73.0](https://kevingimbel.de/blog/2023/10/re-announcing-rust-1-73-0/)
 - [RE: The OpenTofu fork is now available!](https://kevingimbel.de/blog/2023/09/re-the-opentofu-fork-is-now-available/)
 - [TIL: scale down a Kubernetes DaemonSet](https://kevingimbel.de/blog/2023/09/til-scale-down-a-kubernetes-daemonset/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [TIL: multiple git-identities on one machine](https://kevingimbel.de/blog/2023/04/til-multiple-git-identities-on-one-machine/)
 - [Setting up a MacBook from scratch for the first time in 8 years](https://kevingimbel.de/blog/2023/04/setting-up-a-macbook-from-scratch-for-the-first-time-in-8-years/)
 - [A new chapter](https://kevingimbel.de/blog/2023/04/a-new-chapter/)
-- [Unpinned dependencies just broke my plugin](https://kevingimbel.de/blog/2023/02/unpinned-dependencies-just-broke-my-plugin/)
 
 📸 **Photography and Art blog:**
 
