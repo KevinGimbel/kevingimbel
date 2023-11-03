@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [hteumeuleu/hocus-focus](https://github.com/hteumeuleu/hocus-focus) - A keyboard navigation horror game.
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono &amp; Sans is a variable font family for code &amp; UI
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
 - [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode/VSCodium
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
-- [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 
