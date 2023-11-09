@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [hteumeuleu/hocus-focus](https://github.com/hteumeuleu/hocus-focus) - A keyboard navigation horror game.
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
-- [catppuccin/vscode](https://github.com/catppuccin/vscode) - 🦌 Soothing pastel theme for VSCode/VSCodium
 
