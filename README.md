@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [bank-vaults/vault-secrets-webhook](https://github.com/bank-vaults/vault-secrets-webhook) - A Kubernetes mutating webhook that makes direct secret injection into Pods possible. 
 - [muan/site](https://github.com/muan/site) - My personal site ✌🏼.
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist) - 📦 shippable application packaging for Rust
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [hteumeuleu/hocus-focus](https://github.com/hteumeuleu/hocus-focus) - A keyboard navigation horror game.
 - [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono &amp; Sans is a variable font family for code &amp; UI
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [rlane/oort3](https://github.com/rlane/oort3) - A space fleet programming game
 
