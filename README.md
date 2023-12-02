@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Altered Carbon (TV Series)](https://nerdcultu.re/2023/12/02/altered-carbon-tv-series/)
 - [Chase &amp; Status | Boiler Room: London](https://nerdcultu.re/2023/10/20/chase-status-boiler-room-london/)
 - [Cypress Hill: Tiny Desk Concert](https://nerdcultu.re/2023/09/19/cypress-hill-tiny-desk-concert/)
 - [Bomb Rush Cyberfunk](https://nerdcultu.re/2023/08/30/bomb-rush-cyberfunk/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Second Shift: Order – Hugh Howey](https://nerdcultu.re/2023/08/23/second-shift-order-hugh-howey/)
 - [Cyberpunk 2077 2.0 Update &amp; Phantom Liberty](https://nerdcultu.re/2023/08/23/cyberpunk-2077-2-0-update-phantom-liberty/)
 - [First Shift: Legacy – Hugh Howey](https://nerdcultu.re/2023/08/11/first-shift-legacy-hugh-howey/)
-- [WOOL – Hugh Howey](https://nerdcultu.re/2023/08/07/wool-hugh-howey/)
 
 ## 🔭 Latest releases I've contributed to
 
