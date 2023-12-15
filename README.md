@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [katydecorah/read-action](https://github.com/katydecorah/read-action) - 📚 A GitHub action to track books you read in a JSON file
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [bank-vaults/vault-secrets-webhook](https://github.com/bank-vaults/vault-secrets-webhook) - A Kubernetes mutating webhook that makes direct secret injection into Pods possible. 
 - [muan/site](https://github.com/muan/site) - My personal site ✌🏼.
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
 - [hteumeuleu/hocus-focus](https://github.com/hteumeuleu/hocus-focus) - A keyboard navigation horror game.
-- [arrowtype/recursive](https://github.com/arrowtype/recursive) - Recursive Mono &amp; Sans is a variable font family for code &amp; UI
 
