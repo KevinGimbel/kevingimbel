@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [We Are All Completely Beside Ourselves – Karen Joy Fowler](https://nerdcultu.re/2023/12/19/we-are-all-completely-beside-ourselves-karen-joy-fowler/)
 - [GTA6 (Trailer 1)](https://nerdcultu.re/2023/12/06/gta6-trailer-1/)
 - [Altered Carbon (TV Series)](https://nerdcultu.re/2023/12/02/altered-carbon-tv-series/)
 - [Chase &amp; Status | Boiler Room: London](https://nerdcultu.re/2023/10/20/chase-status-boiler-room-london/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Third Shift: Pact – Hugh Howey](https://nerdcultu.re/2023/08/29/third-shift-pact-hugh-howey/)
 - [The Colour Out of Space – H. P. Lovecraft](https://nerdcultu.re/2023/08/29/the-colour-out-of-space-h-p-lovecraft/)
 - [Second Shift: Order – Hugh Howey](https://nerdcultu.re/2023/08/23/second-shift-order-hugh-howey/)
-- [Cyberpunk 2077 2.0 Update &amp; Phantom Liberty](https://nerdcultu.re/2023/08/23/cyberpunk-2077-2-0-update-phantom-liberty/)
 
 ## 🔭 Latest releases I've contributed to
 
