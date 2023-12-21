@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Eleventy 3.0.0-alpha.2](https://kevingimbel.de/blog/2023/12/eleventy-3-0-0-alpha-2/)
 - [Week 2: Christmas Party](https://kevingimbel.de/blog/2023/12/week-2-christmas-party/)
 - [Week 1: Off call](https://kevingimbel.de/blog/2023/12/week-1-off-call/)
 - [TIL: Why there is /bin and /usr/bin, /lib and /usr/lib, etc on Unix systems](https://kevingimbel.de/blog/2023/11/til-why-there-is-bin-and-usr-bin-lib-and-usr-lib-on-unix-systems/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [TIL: scale down a Kubernetes DaemonSet](https://kevingimbel.de/blog/2023/09/til-scale-down-a-kubernetes-daemonset/)
 - [TIL: Run a script on every k8s Node using  a DaemonSet](https://kevingimbel.de/blog/2023/09/til-run-a-script-on-every-k8s-node-using-a-daemonset/)
 - [TIL: named return parameters in Go](https://kevingimbel.de/blog/2023/08/til-named-return-parameters-in-go/)
-- [Building for the web, with Rust and WebAssembly](https://kevingimbel.de/blog/2023/07/building-for-the-web-with-rust-and-webassembly/)
 
 📸 **Photography and Art blog:**
 
