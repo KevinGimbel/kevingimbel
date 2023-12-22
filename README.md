@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Week 3: More sleep](https://kevingimbel.de/blog/2023/12/week-3-more-sleep/)
 - [Eleventy 3.0.0-alpha.2](https://kevingimbel.de/blog/2023/12/eleventy-3-0-0-alpha-2/)
 - [Week 2: Christmas Party](https://kevingimbel.de/blog/2023/12/week-2-christmas-party/)
 - [Week 1: Off call](https://kevingimbel.de/blog/2023/12/week-1-off-call/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [RE: The OpenTofu fork is now available!](https://kevingimbel.de/blog/2023/09/re-the-opentofu-fork-is-now-available/)
 - [TIL: scale down a Kubernetes DaemonSet](https://kevingimbel.de/blog/2023/09/til-scale-down-a-kubernetes-daemonset/)
 - [TIL: Run a script on every k8s Node using  a DaemonSet](https://kevingimbel.de/blog/2023/09/til-run-a-script-on-every-k8s-node-using-a-daemonset/)
-- [TIL: named return parameters in Go](https://kevingimbel.de/blog/2023/08/til-named-return-parameters-in-go/)
 
 📸 **Photography and Art blog:**
 
