@@ -39,6 +39,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Galactic North – Alastair Reynolds](https://nerdcultu.re/2023/12/28/galactic-north-alastair-reynolds/)
 - [End User – Alastair Reynolds](https://nerdcultu.re/2023/12/28/end-user-alastair-reynolds/)
 - [We Are All Completely Beside Ourselves – Karen Joy Fowler](https://nerdcultu.re/2023/12/19/we-are-all-completely-beside-ourselves-karen-joy-fowler/)
 - [GTA6 (Trailer 1)](https://nerdcultu.re/2023/12/06/gta6-trailer-1/)
@@ -48,7 +49,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Bomb Rush Cyberfunk](https://nerdcultu.re/2023/08/30/bomb-rush-cyberfunk/)
 - [Power Of Rausch – Oliver Koletzki, Nagel, hr-Sinfonieorchester](https://nerdcultu.re/2023/08/29/power-of-rausch-oliver-koletzki-nagel-hr-sinfonieorchester/)
 - [Third Shift: Pact – Hugh Howey](https://nerdcultu.re/2023/08/29/third-shift-pact-hugh-howey/)
-- [The Colour Out of Space – H. P. Lovecraft](https://nerdcultu.re/2023/08/29/the-colour-out-of-space-h-p-lovecraft/)
 
 ## 🔭 Latest releases I've contributed to
 
