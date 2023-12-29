@@ -39,16 +39,16 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 😌 **Personal blog:**
 
+- [Detonation Boulevard – Alastair Reynolds](https://nerdcultu.re/2023/12/29/detonation-boulevard-alastair-reynolds-2/)
+- [Detonation Boulevard – Alastair Reynolds](https://nerdcultu.re/2023/12/29/detonation-boulevard-alastair-reynolds/)
+- [The Sphinx – Edgar Allan Poe](https://nerdcultu.re/2023/12/29/the-sphinx-edgar-allan-poe/)
+- [The Thousand-and-Second Tale of Scheherazade – Edgar Allan Poe](https://nerdcultu.re/2023/12/29/the-thousand-and-second-tale-of-scheherazade-edgar-allan-poe/)
 - [Galactic North – Alastair Reynolds](https://nerdcultu.re/2023/12/28/galactic-north-alastair-reynolds/)
 - [End User – Alastair Reynolds](https://nerdcultu.re/2023/12/28/end-user-alastair-reynolds/)
 - [We Are All Completely Beside Ourselves – Karen Joy Fowler](https://nerdcultu.re/2023/12/19/we-are-all-completely-beside-ourselves-karen-joy-fowler/)
 - [GTA6 (Trailer 1)](https://nerdcultu.re/2023/12/06/gta6-trailer-1/)
 - [Altered Carbon (TV Series)](https://nerdcultu.re/2023/12/02/altered-carbon-tv-series/)
 - [Chase &amp; Status | Boiler Room: London](https://nerdcultu.re/2023/10/20/chase-status-boiler-room-london/)
-- [Cypress Hill: Tiny Desk Concert](https://nerdcultu.re/2023/09/19/cypress-hill-tiny-desk-concert/)
-- [Bomb Rush Cyberfunk](https://nerdcultu.re/2023/08/30/bomb-rush-cyberfunk/)
-- [Power Of Rausch – Oliver Koletzki, Nagel, hr-Sinfonieorchester](https://nerdcultu.re/2023/08/29/power-of-rausch-oliver-koletzki-nagel-hr-sinfonieorchester/)
-- [Third Shift: Pact – Hugh Howey](https://nerdcultu.re/2023/08/29/third-shift-pact-hugh-howey/)
 
 ## 🔭 Latest releases I've contributed to
 
