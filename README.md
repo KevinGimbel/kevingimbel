@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [TIL: k9s plugins](https://kevingimbel.de/blog/2024/01/til-k9s-plugins/)
 - [Week 4: Food-coma and a Raspberry Pi](https://kevingimbel.de/blog/2023/12/week-4-food-coma-and-a-raspberry-pi/)
 - [Week 3: More sleep](https://kevingimbel.de/blog/2023/12/week-3-more-sleep/)
 - [Eleventy 3.0.0-alpha.2](https://kevingimbel.de/blog/2023/12/eleventy-3-0-0-alpha-2/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Integrating WordPress Posts with 11ty](https://kevingimbel.de/blog/2023/11/integrating-wordpress-posts-with-11ty/)
 - [RE: Announcing Rust 1.73.0](https://kevingimbel.de/blog/2023/10/re-announcing-rust-1-73-0/)
 - [RE: The OpenTofu fork is now available!](https://kevingimbel.de/blog/2023/09/re-the-opentofu-fork-is-now-available/)
-- [TIL: scale down a Kubernetes DaemonSet](https://kevingimbel.de/blog/2023/09/til-scale-down-a-kubernetes-daemonset/)
 
 📸 **Photography and Art blog:**
 
@@ -59,6 +59,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## ⭐ Recent Stars
 
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [katydecorah/read-action](https://github.com/katydecorah/read-action) - 📚 A GitHub action to track books you read in a JSON file
 - [tweetback/tweetback](https://github.com/tweetback/tweetback) - Take ownership of your Twitter data and get your tweets back
 - [bank-vaults/vault-secrets-webhook](https://github.com/bank-vaults/vault-secrets-webhook) - A Kubernetes mutating webhook that makes direct secret injection into Pods possible. 
@@ -68,5 +69,4 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv) - 🦀 Find the minimum supported Rust version (MSRV) for your project
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [cilium/tetragon](https://github.com/cilium/tetragon) - eBPF-based Security Observability and Runtime Enforcement
-- [hteumeuleu/hocus-focus](https://github.com/hteumeuleu/hocus-focus) - A keyboard navigation horror game.
 
