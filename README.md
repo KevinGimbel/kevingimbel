@@ -13,6 +13,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Week 6: Sports!](https://kevingimbel.de/blog/2024/01/week-6-sports/)
 - [Week 5: Back in the office and Open Source](https://kevingimbel.de/blog/2024/01/week-5-back-in-the-office-and-open-source/)
 - [TIL: k9s plugins](https://kevingimbel.de/blog/2024/01/til-k9s-plugins/)
 - [Week 4: Food-coma and a Raspberry Pi](https://kevingimbel.de/blog/2023/12/week-4-food-coma-and-a-raspberry-pi/)
@@ -22,7 +23,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Week 1: Off call](https://kevingimbel.de/blog/2023/12/week-1-off-call/)
 - [TIL: Why there is /bin and /usr/bin, /lib and /usr/lib, etc on Unix systems](https://kevingimbel.de/blog/2023/11/til-why-there-is-bin-and-usr-bin-lib-and-usr-lib-on-unix-systems/)
 - [Integrating WordPress Posts with 11ty](https://kevingimbel.de/blog/2023/11/integrating-wordpress-posts-with-11ty/)
-- [RE: Announcing Rust 1.73.0](https://kevingimbel.de/blog/2023/10/re-announcing-rust-1-73-0/)
 
 📸 **Photography and Art blog:**
 
