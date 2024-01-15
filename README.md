@@ -2,7 +2,6 @@
 
 I'm currently...
 - 👨‍💻 a DevOps Engineer at [AOE](https://aoe.com)
-- 🗞 blogging about everything I like on [nerdcultu.re](https://nerdcultu.re)
 - 📸 sharing my photography on [art.atarijunge.de](https://art.atarijunge.de)
 
 You can find out more on [kevingimbel.de/now/](https://kevingimbel.de/now/)
@@ -36,19 +35,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [SLOW](https://art.atarijunge.de/2022/11/slow/)
 - [24HourProject 2022](https://art.atarijunge.de/2022/09/24hourproject-2022/)
 - [Lunch break walk](https://art.atarijunge.de/2022/06/lunch-break-walk/)
-
-😌 **Personal blog:**
-
-- [Das war also 2023](https://nerdcultu.re/2024/01/03/das-war-also-2023/)
-- [Detonation Boulevard – Alastair Reynolds](https://nerdcultu.re/2023/12/29/detonation-boulevard-alastair-reynolds-2/)
-- [The Sphinx – Edgar Allan Poe](https://nerdcultu.re/2023/12/29/the-sphinx-edgar-allan-poe/)
-- [The Thousand-and-Second Tale of Scheherazade – Edgar Allan Poe](https://nerdcultu.re/2023/12/29/the-thousand-and-second-tale-of-scheherazade-edgar-allan-poe/)
-- [Galactic North – Alastair Reynolds](https://nerdcultu.re/2023/12/28/galactic-north-alastair-reynolds/)
-- [End User – Alastair Reynolds](https://nerdcultu.re/2023/12/28/end-user-alastair-reynolds/)
-- [We Are All Completely Beside Ourselves – Karen Joy Fowler](https://nerdcultu.re/2023/12/19/we-are-all-completely-beside-ourselves-karen-joy-fowler/)
-- [GTA6 (Trailer 1)](https://nerdcultu.re/2023/12/06/gta6-trailer-1/)
-- [Altered Carbon (TV Series)](https://nerdcultu.re/2023/12/02/altered-carbon-tv-series/)
-- [Chase &amp; Status | Boiler Room: London](https://nerdcultu.re/2023/10/20/chase-status-boiler-room-london/)
 
 ## 🔭 Latest releases I've contributed to
 
