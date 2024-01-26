@@ -12,6 +12,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Week 8: Table tennis](https://kevingimbel.de/blog/2024/01/week-8-table-tennis/)
 - [Week 7: Sleep mask](https://kevingimbel.de/blog/2024/01/week-7-sleep-mask/)
 - [Week 6: Sports!](https://kevingimbel.de/blog/2024/01/week-6-sports/)
 - [Week 5: Back in the office and Open Source](https://kevingimbel.de/blog/2024/01/week-5-back-in-the-office-and-open-source/)
@@ -21,7 +22,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Eleventy 3.0.0-alpha.2](https://kevingimbel.de/blog/2023/12/eleventy-3-0-0-alpha-2/)
 - [Week 2: Christmas Party](https://kevingimbel.de/blog/2023/12/week-2-christmas-party/)
 - [Week 1: Off call](https://kevingimbel.de/blog/2023/12/week-1-off-call/)
-- [TIL: Why there is /bin and /usr/bin, /lib and /usr/lib, etc on Unix systems](https://kevingimbel.de/blog/2023/11/til-why-there-is-bin-and-usr-bin-lib-and-usr-lib-on-unix-systems/)
 
 📸 **Photography and Art blog:**
 
