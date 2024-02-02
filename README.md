@@ -12,6 +12,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Week 9: Muskelkater](https://kevingimbel.de/blog/2024/02/week-9-muskelkater/)
 - [Week 8: Table tennis](https://kevingimbel.de/blog/2024/01/week-8-table-tennis/)
 - [Week 7: Sleep mask](https://kevingimbel.de/blog/2024/01/week-7-sleep-mask/)
 - [Week 6: Sports!](https://kevingimbel.de/blog/2024/01/week-6-sports/)
@@ -21,7 +22,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Week 3: More sleep](https://kevingimbel.de/blog/2023/12/week-3-more-sleep/)
 - [Eleventy 3.0.0-alpha.2](https://kevingimbel.de/blog/2023/12/eleventy-3-0-0-alpha-2/)
 - [Week 2: Christmas Party](https://kevingimbel.de/blog/2023/12/week-2-christmas-party/)
-- [Week 1: Off call](https://kevingimbel.de/blog/2023/12/week-1-off-call/)
 
 📸 **Photography and Art blog:**
 
