@@ -38,7 +38,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 ## 🔭 Latest releases I've contributed to
 
-- [containers/netavark](https://github.com/containers/netavark) ([v1.10.2](https://github.com/containers/netavark/releases/tag/v1.10.2)) - Container network stack
+- [containers/netavark](https://github.com/containers/netavark) ([v1.10.3](https://github.com/containers/netavark/releases/tag/v1.10.3)) - Container network stack
 - [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v4.0.0](https://github.com/KevinGimbel/mktoc/releases/tag/v4.0.0)) - 🦀 Markdown Table of Content generator
 - [KevinGimbel/ndice](https://github.com/KevinGimbel/ndice) ([v1.0.0](https://github.com/KevinGimbel/ndice/releases/tag/v1.0.0)) - They see me rollin&#39;, they hatin&#39; 
 - [metrue/fx](https://github.com/metrue/fx) ([0.9.48-alpha.d91a7a0](https://github.com/metrue/fx/releases/tag/0.9.48-alpha.d91a7a0)) - A Function as a Service tool makes a function as a  container-based service in seconds.
