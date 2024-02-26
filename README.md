@@ -12,6 +12,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Week 12: Depression, winter, and grey skies](https://kevingimbel.de/blog/2024/02/week-12-depression-winter-and-grey-skies/)
 - [Week 11: DS2 and home office](https://kevingimbel.de/blog/2024/02/week-11-ds2-and-home-office/)
 - [Week 10: Video Games and no table tennis](https://kevingimbel.de/blog/2024/02/week-10-video-games-and-no-table-tennis/)
 - [Week 9: Muskelkater](https://kevingimbel.de/blog/2024/02/week-9-muskelkater/)
@@ -21,7 +22,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Week 5: Back in the office and Open Source](https://kevingimbel.de/blog/2024/01/week-5-back-in-the-office-and-open-source/)
 - [TIL: k9s plugins](https://kevingimbel.de/blog/2024/01/til-k9s-plugins/)
 - [Week 4: Food-coma and a Raspberry Pi](https://kevingimbel.de/blog/2023/12/week-4-food-coma-and-a-raspberry-pi/)
-- [Week 3: More sleep](https://kevingimbel.de/blog/2023/12/week-3-more-sleep/)
 
 📸 **Photography and Art blog:**
 
