@@ -12,6 +12,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Week 13: Kubernetes 101, Dark Souls, and Circe](https://kevingimbel.de/blog/2024/02/week-13-kubernetes-101-dark-souls-and-circe/)
 - [Where to put things?](https://kevingimbel.de/blog/2024/02/where-to-put-things/)
 - [Week 12: Depression, winter, and grey skies](https://kevingimbel.de/blog/2024/02/week-12-depression-winter-and-grey-skies/)
 - [Week 11: DS2 and home office](https://kevingimbel.de/blog/2024/02/week-11-ds2-and-home-office/)
@@ -21,7 +22,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Week 7: Sleep mask](https://kevingimbel.de/blog/2024/01/week-7-sleep-mask/)
 - [Week 6: Sports!](https://kevingimbel.de/blog/2024/01/week-6-sports/)
 - [Week 5: Back in the office and Open Source](https://kevingimbel.de/blog/2024/01/week-5-back-in-the-office-and-open-source/)
-- [TIL: k9s plugins](https://kevingimbel.de/blog/2024/01/til-k9s-plugins/)
 
 📸 **Photography and Art blog:**
 
