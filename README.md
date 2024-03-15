@@ -12,6 +12,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [On shrimp 🦐](https://kevingimbel.de/blog/2024/03/on-shrimp-%f0%9f%a6%90/)
 - [I moved all my photo posts to this website](https://kevingimbel.de/blog/2024/03/i-moved-all-my-photo-posts-to-this-website/)
 - [I don’t like Python](https://kevingimbel.de/blog/2024/03/i-dont-like-python/)
 - [A little hiccup](https://kevingimbel.de/blog/2024/03/a-little-hiccup/)
@@ -21,7 +22,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [Where to put things?](https://kevingimbel.de/blog/2024/02/where-to-put-things/)
 - [Week 12: Depression, winter, and grey skies](https://kevingimbel.de/blog/2024/02/week-12-depression-winter-and-grey-skies/)
 - [Week 11: DS2 and home office](https://kevingimbel.de/blog/2024/02/week-11-ds2-and-home-office/)
-- [Week 10: Video Games and no table tennis](https://kevingimbel.de/blog/2024/02/week-10-video-games-and-no-table-tennis/)
 
 📸 **Photography and Art blog:**
 
