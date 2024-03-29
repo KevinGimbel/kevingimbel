@@ -12,6 +12,7 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 
 🧑‍💻 **Tech blog:**
 
+- [Week 17: Home, Home, and the Library](https://kevingimbel.de/blog/2024/03/week-17-home-home-and-the-library/)
 - [A sunny Monday in the park](https://kevingimbel.de/blog/2024/03/a-sunny-monday-in-the-park/)
 - [Week 16: Travels, old books, and gifts!](https://kevingimbel.de/blog/2024/03/week-16-travels-old-books-and-gifts/)
 - [Week 15: Photos, Foundation, and fun!](https://kevingimbel.de/blog/2024/03/week-15-photos-foundation-and-fun/)
@@ -21,7 +22,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [A little hiccup](https://kevingimbel.de/blog/2024/03/a-little-hiccup/)
 - [Week 14: New server who dis?](https://kevingimbel.de/blog/2024/03/week-14-new-server-who-dis/)
 - [RE: Hacking Terraform State for Privilege Escalation](https://kevingimbel.de/blog/2024/03/re-hacking-terraform-state-for-privilege-escalation/)
-- [Week 13: Kubernetes 101, Dark Souls, and Circe](https://kevingimbel.de/blog/2024/02/week-13-kubernetes-101-dark-souls-and-circe/)
 
 📸 **Photography and Art blog:**
 
