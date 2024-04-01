@@ -2,15 +2,15 @@
 
 I'm currently...
 - 👨‍💻 a DevOps Engineer at [AOE](https://aoe.com)
-- 📸 sharing my photography on [art.atarijunge.de](https://art.atarijunge.de)
+- 📸 sharing my photography on [kevingimbel.de](https://kevingimbel.de/photography)
 
 You can find out more on [kevingimbel.de/now/](https://kevingimbel.de/now/)
 
-If you want to contact me feel free to hit me up on the fediverse at [@KevinGimbel@fosstodon.org](https://fosstodon.org/@KevinGimbel)!
+If you want to contact to me, feel free to hit me up on the fediverse at [@KevinGimbel@fosstodon.org](https://fosstodon.org/@KevinGimbel), on [Bluesky @kevin.gimbel.dev](https://bsky.app/profile/kevin.gimbel.dev) or on [LinkedIn](https://www.linkedin.com/in/kevingimbel/)!
 
 ## 🗞 The last things I published
 
-🧑‍💻 **Tech blog:**
+🧑‍💻 **Blog:**
 
 - [Week 17: Home, Home, and the Library](https://kevingimbel.de/blog/2024/03/week-17-home-home-and-the-library/)
 - [A sunny Monday in the park](https://kevingimbel.de/blog/2024/03/a-sunny-monday-in-the-park/)
@@ -22,19 +22,6 @@ If you want to contact me feel free to hit me up on the fediverse at [@KevinGimb
 - [A little hiccup](https://kevingimbel.de/blog/2024/03/a-little-hiccup/)
 - [Week 14: New server who dis?](https://kevingimbel.de/blog/2024/03/week-14-new-server-who-dis/)
 - [RE: Hacking Terraform State for Privilege Escalation](https://kevingimbel.de/blog/2024/03/re-hacking-terraform-state-for-privilege-escalation/)
-
-📸 **Photography and Art blog:**
-
-- [Beautiful Rhine landscapes](https://art.atarijunge.de/2023/07/beautiful-rhine-landscapes/)
-- [Plants at the Zoo](https://art.atarijunge.de/2023/06/plants-at-the-zoo/)
-- [i 🤍 u](https://art.atarijunge.de/2023/03/i-%f0%9f%a4%8d-u/)
-- [Some recent street snaps](https://art.atarijunge.de/2023/03/some-recent-street-snaps/)
-- [A cold walk in the park](https://art.atarijunge.de/2022/12/a-cold-walk-in-the-park/)
-- [A bunch of selfies on pushed film](https://art.atarijunge.de/2022/12/a-bunch-of-selfies-on-pushed-film/)
-- [A day at the Südfriedhof](https://art.atarijunge.de/2022/12/a-day-at-the-sudfriedhof/)
-- [SLOW](https://art.atarijunge.de/2022/11/slow/)
-- [24HourProject 2022](https://art.atarijunge.de/2022/09/24hourproject-2022/)
-- [Lunch break walk](https://art.atarijunge.de/2022/06/lunch-break-walk/)
 
 ## 🔭 Latest releases I've contributed to
 
