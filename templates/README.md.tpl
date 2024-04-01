@@ -2,21 +2,16 @@
 
 I'm currently...
 - 👨‍💻 a DevOps Engineer at [AOE](https://aoe.com)
-- 📸 sharing my photography on [art.atarijunge.de](https://art.atarijunge.de)
+- 📸 sharing my photography on [kevingimbel.de](https://kevingimbel.de/photography)
 
 You can find out more on [kevingimbel.de/now/](https://kevingimbel.de/now/)
 
-If you want to contact me feel free to hit me up on the fediverse at [@KevinGimbel@fosstodon.org](https://fosstodon.org/@KevinGimbel)!
+If you want to contact to me, feel free to hit me up on the fediverse at [@KevinGimbel@fosstodon.org](https://fosstodon.org/@KevinGimbel), on [Bluesky @kevin.gimbel.dev](https://bsky.app/profile/kevin.gimbel.dev) or on [LinkedIn](https://www.linkedin.com/in/kevingimbel/)!
 
 ## 🗞 The last things I published
 
-🧑‍💻 **Tech blog:**
+🧑‍💻 **Blog:**
 {{range (rss "https://kevingimbel.de/feed/" 10) }}
-- [{{.Title}}]({{.URL}}) 
-{{- end}}
-
-📸 **Photography and Art blog:**
-{{range (rss "https://art.atarijunge.de/feed/" 10) }}
 - [{{.Title}}]({{.URL}}) 
 {{- end}}
 
