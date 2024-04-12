@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [What we should learn from the xz backdoor](https://kevingimbel.de/blog/2024/04/what-we-should-learn-from-the-xz-backdoor/)
 - [Week 18: After vacation comes…](https://kevingimbel.de/blog/2024/04/week-18-after-vacation-comes/)
 - [Week 17: Home, Home, and the Library](https://kevingimbel.de/blog/2024/03/week-17-home-home-and-the-library/)
 - [A sunny Monday in the park](https://kevingimbel.de/blog/2024/03/a-sunny-monday-in-the-park/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [I moved all my photo posts to this website](https://kevingimbel.de/blog/2024/03/i-moved-all-my-photo-posts-to-this-website/)
 - [I don’t like Python](https://kevingimbel.de/blog/2024/03/i-dont-like-python/)
 - [A little hiccup](https://kevingimbel.de/blog/2024/03/a-little-hiccup/)
-- [Week 14: New server who dis?](https://kevingimbel.de/blog/2024/03/week-14-new-server-who-dis/)
 
 ## 🔭 Latest releases I've contributed to
 
