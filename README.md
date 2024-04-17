@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [RE: You’re a Blogger, Not an Essayist](https://kevingimbel.de/blog/2024/04/re-youre-a-blogger-not-an-essayist/)
 - [Oh no my gpg key expired (like every year)](https://kevingimbel.de/blog/2024/04/oh-no-my-gpg-key-expired-like-every-year/)
 - [Week 19: Fallout](https://kevingimbel.de/blog/2024/04/week-19-fallout/)
 - [What we should learn from the xz backdoor](https://kevingimbel.de/blog/2024/04/what-we-should-learn-from-the-xz-backdoor/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 16: Travels, old books, and gifts!](https://kevingimbel.de/blog/2024/03/week-16-travels-old-books-and-gifts/)
 - [Week 15: Photos, Foundation, and fun!](https://kevingimbel.de/blog/2024/03/week-15-photos-foundation-and-fun/)
 - [On shrimp 🦐](https://kevingimbel.de/blog/2024/03/on-shrimp-%f0%9f%a6%90/)
-- [I moved all my photo posts to this website](https://kevingimbel.de/blog/2024/03/i-moved-all-my-photo-posts-to-this-website/)
 
 ## 🔭 Latest releases I've contributed to
 
