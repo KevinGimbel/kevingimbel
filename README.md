@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [RE: Get ready for OpenTofu 1.7.0-beta1](https://kevingimbel.de/blog/2024/04/re-get-ready-for-opentofu-1-7-0-beta1/)
 - [RE: You’re a Blogger, Not an Essayist](https://kevingimbel.de/blog/2024/04/re-youre-a-blogger-not-an-essayist/)
 - [Oh no my gpg key expired (like every year)](https://kevingimbel.de/blog/2024/04/oh-no-my-gpg-key-expired-like-every-year/)
 - [Week 19: Fallout](https://kevingimbel.de/blog/2024/04/week-19-fallout/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [A sunny Monday in the park](https://kevingimbel.de/blog/2024/03/a-sunny-monday-in-the-park/)
 - [Week 16: Travels, old books, and gifts!](https://kevingimbel.de/blog/2024/03/week-16-travels-old-books-and-gifts/)
 - [Week 15: Photos, Foundation, and fun!](https://kevingimbel.de/blog/2024/03/week-15-photos-foundation-and-fun/)
-- [On shrimp 🦐](https://kevingimbel.de/blog/2024/03/on-shrimp-%f0%9f%a6%90/)
 
 ## 🔭 Latest releases I've contributed to
 
