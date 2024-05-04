@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 22: Gegend](https://kevingimbel.de/blog/2024/05/week-22-gegend/)
 - [Week 21: Kubernetes!](https://kevingimbel.de/blog/2024/04/week-21-kubernetes/)
 - [Week 20: ?](https://kevingimbel.de/blog/2024/04/week-20/)
 - [RE: Get ready for OpenTofu 1.7.0-beta1](https://kevingimbel.de/blog/2024/04/re-get-ready-for-opentofu-1-7-0-beta1/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [What we should learn from the xz backdoor](https://kevingimbel.de/blog/2024/04/what-we-should-learn-from-the-xz-backdoor/)
 - [Week 18: After vacation comes…](https://kevingimbel.de/blog/2024/04/week-18-after-vacation-comes/)
 - [Week 17: Home, Home, and the Library](https://kevingimbel.de/blog/2024/03/week-17-home-home-and-the-library/)
-- [A sunny Monday in the park](https://kevingimbel.de/blog/2024/03/a-sunny-monday-in-the-park/)
 
 ## 🔭 Latest releases I've contributed to
 
