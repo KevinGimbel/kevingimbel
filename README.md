@@ -27,7 +27,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 - [containers/netavark](https://github.com/containers/netavark) ([v1.10.3](https://github.com/containers/netavark/releases/tag/v1.10.3)) - Container network stack
 - [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v4.0.0](https://github.com/KevinGimbel/mktoc/releases/tag/v4.0.0)) - 🦀 Markdown Table of Content generator
-- [KevinGimbel/ndice](https://github.com/KevinGimbel/ndice) ([v1.0.0](https://github.com/KevinGimbel/ndice/releases/tag/v1.0.0)) - They see me rollin&#39;, they hatin&#39; 
 
 ## ⭐ Recent Stars
 
