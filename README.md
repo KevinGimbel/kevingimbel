@@ -30,6 +30,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [vmfunc/cargo-buttplug](https://github.com/vmfunc/cargo-buttplug) -  ensuring positive reinforcement during long, tiring code sessions~
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -39,5 +40,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [voc/plugin.video.media-ccc-de](https://github.com/voc/plugin.video.media-ccc-de) - Kodi plugin for https://media.ccc.de/
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 
