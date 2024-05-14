@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [RE: Heat Death of the Internet](https://kevingimbel.de/blog/2024/05/re-heat-death-of-the-internet/)
 - [Week 23: Containers!](https://kevingimbel.de/blog/2024/05/week-23-containers/)
 - [I’ll be speaking at Container Days Hamburg in September](https://kevingimbel.de/blog/2024/05/ill-be-speaking-at-container-days-hamburg-in-september/)
 - [Week 22: Gegend](https://kevingimbel.de/blog/2024/05/week-22-gegend/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [RE: You’re a Blogger, Not an Essayist](https://kevingimbel.de/blog/2024/04/re-youre-a-blogger-not-an-essayist/)
 - [Oh no my gpg key expired (like every year)](https://kevingimbel.de/blog/2024/04/oh-no-my-gpg-key-expired-like-every-year/)
 - [Week 19: Fallout](https://kevingimbel.de/blog/2024/04/week-19-fallout/)
-- [What we should learn from the xz backdoor](https://kevingimbel.de/blog/2024/04/what-we-should-learn-from-the-xz-backdoor/)
 
 ## 🔭 Latest releases I've contributed to
 
