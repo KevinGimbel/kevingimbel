@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Slop Slop Slop!](https://kevingimbel.de/blog/2024/05/slop-slop-slop/)
 - [RE: Heat Death of the Internet](https://kevingimbel.de/blog/2024/05/re-heat-death-of-the-internet/)
 - [Week 23: Containers!](https://kevingimbel.de/blog/2024/05/week-23-containers/)
 - [I’ll be speaking at Container Days Hamburg in September](https://kevingimbel.de/blog/2024/05/ill-be-speaking-at-container-days-hamburg-in-september/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [RE: Get ready for OpenTofu 1.7.0-beta1](https://kevingimbel.de/blog/2024/04/re-get-ready-for-opentofu-1-7-0-beta1/)
 - [RE: You’re a Blogger, Not an Essayist](https://kevingimbel.de/blog/2024/04/re-youre-a-blogger-not-an-essayist/)
 - [Oh no my gpg key expired (like every year)](https://kevingimbel.de/blog/2024/04/oh-no-my-gpg-key-expired-like-every-year/)
-- [Week 19: Fallout](https://kevingimbel.de/blog/2024/04/week-19-fallout/)
 
 ## 🔭 Latest releases I've contributed to
 
@@ -30,6 +30,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [vmfunc/cargo-buttplug](https://github.com/vmfunc/cargo-buttplug) -  ensuring positive reinforcement during long, tiring code sessions~
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -39,5 +40,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
 - [voc/plugin.video.media-ccc-de](https://github.com/voc/plugin.video.media-ccc-de) - Kodi plugin for https://media.ccc.de/
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
