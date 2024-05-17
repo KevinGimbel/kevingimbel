@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 24: Drafts](https://kevingimbel.de/blog/2024/05/week-24-drafts/)
 - [Slop Slop Slop!](https://kevingimbel.de/blog/2024/05/slop-slop-slop/)
 - [RE: Heat Death of the Internet](https://kevingimbel.de/blog/2024/05/re-heat-death-of-the-internet/)
 - [Week 23: Containers!](https://kevingimbel.de/blog/2024/05/week-23-containers/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 20: ?](https://kevingimbel.de/blog/2024/04/week-20/)
 - [RE: Get ready for OpenTofu 1.7.0-beta1](https://kevingimbel.de/blog/2024/04/re-get-ready-for-opentofu-1-7-0-beta1/)
 - [RE: You’re a Blogger, Not an Essayist](https://kevingimbel.de/blog/2024/04/re-youre-a-blogger-not-an-essayist/)
-- [Oh no my gpg key expired (like every year)](https://kevingimbel.de/blog/2024/04/oh-no-my-gpg-key-expired-like-every-year/)
 
 ## 🔭 Latest releases I've contributed to
 
