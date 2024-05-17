@@ -30,6 +30,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust.
 - [blib-la/captain](https://github.com/blib-la/captain) - Your all-in-one platform to build and use AI apps effortlessly on your own computer.
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [vmfunc/cargo-buttplug](https://github.com/vmfunc/cargo-buttplug) -  ensuring positive reinforcement during long, tiring code sessions~
@@ -39,5 +40,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [pojntfx/skysweeper](https://github.com/pojntfx/skysweeper) - Automatically delete your old skeets from Bluesky.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
-- [voc/plugin.video.media-ccc-de](https://github.com/voc/plugin.video.media-ccc-de) - Kodi plugin for https://media.ccc.de/
 
