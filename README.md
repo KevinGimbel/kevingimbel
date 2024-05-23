@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Regexle #9](https://kevingimbel.de/blog/2024/05/regexle-9/)
 - [Regexle #8](https://kevingimbel.de/blog/2024/05/regexle-8/)
 - [Week 24: Drafts](https://kevingimbel.de/blog/2024/05/week-24-drafts/)
 - [Slop Slop Slop!](https://kevingimbel.de/blog/2024/05/slop-slop-slop/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 22: Gegend](https://kevingimbel.de/blog/2024/05/week-22-gegend/)
 - [Week 21: Kubernetes!](https://kevingimbel.de/blog/2024/04/week-21-kubernetes/)
 - [Week 20: ?](https://kevingimbel.de/blog/2024/04/week-20/)
-- [RE: Get ready for OpenTofu 1.7.0-beta1](https://kevingimbel.de/blog/2024/04/re-get-ready-for-opentofu-1-7-0-beta1/)
 
 ## 🔭 Latest releases I've contributed to
 
