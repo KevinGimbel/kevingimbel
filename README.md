@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 25: Board games and nose piercings](https://kevingimbel.de/blog/2024/05/week-25-board-games-and-nose-piercings/)
 - [Regexle #9](https://kevingimbel.de/blog/2024/05/regexle-9/)
 - [Regexle #8](https://kevingimbel.de/blog/2024/05/regexle-8/)
 - [Week 24: Drafts](https://kevingimbel.de/blog/2024/05/week-24-drafts/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [I’ll be speaking at Container Days Hamburg in September](https://kevingimbel.de/blog/2024/05/ill-be-speaking-at-container-days-hamburg-in-september/)
 - [Week 22: Gegend](https://kevingimbel.de/blog/2024/05/week-22-gegend/)
 - [Week 21: Kubernetes!](https://kevingimbel.de/blog/2024/04/week-21-kubernetes/)
-- [Week 20: ?](https://kevingimbel.de/blog/2024/04/week-20/)
 
 ## 🔭 Latest releases I've contributed to
 
@@ -31,7 +31,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 ## ⭐ Recent Stars
 
 - [olivvybee/neobread](https://github.com/olivvybee/neobread) - A set of bread emojis.
-- [blib-la/captain](https://github.com/blib-la/captain) - Your all-in-one platform to build and use AI apps effortlessly on your own computer.
+- [blib-la/captain](https://github.com/blib-la/captain) - Give your computer an AI Brain
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [vmfunc/cargo-buttplug](https://github.com/vmfunc/cargo-buttplug) -  ensuring positive reinforcement during long, tiring code sessions~
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
