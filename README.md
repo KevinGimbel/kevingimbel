@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [RE: Cloudflare took down our website after trying to force us to pay 120k$ within 24h](https://kevingimbel.de/blog/2024/05/re-cloudflare-took-down-our-website-after-trying-to-force-us-to-pay-120k-within-24h/)
 - [Week 25: Board games and nose piercings](https://kevingimbel.de/blog/2024/05/week-25-board-games-and-nose-piercings/)
 - [Regexle #9](https://kevingimbel.de/blog/2024/05/regexle-9/)
 - [Regexle #8](https://kevingimbel.de/blog/2024/05/regexle-8/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 23: Containers!](https://kevingimbel.de/blog/2024/05/week-23-containers/)
 - [I’ll be speaking at Container Days Hamburg in September](https://kevingimbel.de/blog/2024/05/ill-be-speaking-at-container-days-hamburg-in-september/)
 - [Week 22: Gegend](https://kevingimbel.de/blog/2024/05/week-22-gegend/)
-- [Week 21: Kubernetes!](https://kevingimbel.de/blog/2024/04/week-21-kubernetes/)
 
 ## 🔭 Latest releases I've contributed to
 
