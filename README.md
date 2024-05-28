@@ -30,6 +30,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [chr15m/rogule.com](https://github.com/chr15m/rogule.com) - A dungeon a day keeps the Balrog away
 - [olivvybee/neobread](https://github.com/olivvybee/neobread) - A set of bread emojis.
 - [blib-la/captain](https://github.com/blib-la/captain) - Give your computer an AI Brain
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
@@ -39,5 +40,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [pojntfx/skysweeper](https://github.com/pojntfx/skysweeper) - Automatically delete your old skeets from Bluesky.
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [messense/homebrew-macos-cross-toolchains](https://github.com/messense/homebrew-macos-cross-toolchains) - macOS cross compiler toolchains
 
