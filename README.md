@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 26: Pride and photos](https://kevingimbel.de/blog/2024/05/week-26-pride-and-photos/)
 - [RE: Trust](https://kevingimbel.de/blog/2024/05/re-trust/)
 - [RE: Why blog anonymous](https://kevingimbel.de/blog/2024/05/re-why-blog-anonymous/)
 - [RE: Cloudflare took down our website after trying to force us to pay 120k$ within 24h](https://kevingimbel.de/blog/2024/05/re-cloudflare-took-down-our-website-after-trying-to-force-us-to-pay-120k-within-24h/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 24: Drafts](https://kevingimbel.de/blog/2024/05/week-24-drafts/)
 - [Slop Slop Slop!](https://kevingimbel.de/blog/2024/05/slop-slop-slop/)
 - [RE: Heat Death of the Internet](https://kevingimbel.de/blog/2024/05/re-heat-death-of-the-internet/)
-- [Week 23: Containers!](https://kevingimbel.de/blog/2024/05/week-23-containers/)
 
 ## 🔭 Latest releases I've contributed to
 
