@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 27: nix](https://kevingimbel.de/blog/2024/06/week-27-nix/)
 - [10 years of Kubernetes](https://kevingimbel.de/blog/2024/06/10-years-of-kubernetes/)
 - [RE: Operation Overload](https://kevingimbel.de/blog/2024/06/re-operation-overload/)
 - [Week 26: Pride and photos](https://kevingimbel.de/blog/2024/05/week-26-pride-and-photos/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 25: Board games and nose piercings](https://kevingimbel.de/blog/2024/05/week-25-board-games-and-nose-piercings/)
 - [Regexle #9](https://kevingimbel.de/blog/2024/05/regexle-9/)
 - [Regexle #8](https://kevingimbel.de/blog/2024/05/regexle-8/)
-- [Week 24: Drafts](https://kevingimbel.de/blog/2024/05/week-24-drafts/)
 
 ## 🔭 Latest releases I've contributed to
 
