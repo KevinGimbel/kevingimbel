@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [RE: The Justice Department Took Down the 911 S5 Botnet](https://kevingimbel.de/blog/2024/06/re-the-justice-department-took-down-the-911-s5-botnet/)
 - [Week 27: nix](https://kevingimbel.de/blog/2024/06/week-27-nix/)
 - [10 years of Kubernetes](https://kevingimbel.de/blog/2024/06/10-years-of-kubernetes/)
 - [RE: Operation Overload](https://kevingimbel.de/blog/2024/06/re-operation-overload/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [RE: Cloudflare took down our website after trying to force us to pay 120k$ within 24h](https://kevingimbel.de/blog/2024/05/re-cloudflare-took-down-our-website-after-trying-to-force-us-to-pay-120k-within-24h/)
 - [Week 25: Board games and nose piercings](https://kevingimbel.de/blog/2024/05/week-25-board-games-and-nose-piercings/)
 - [Regexle #9](https://kevingimbel.de/blog/2024/05/regexle-9/)
-- [Regexle #8](https://kevingimbel.de/blog/2024/05/regexle-8/)
 
 ## 🔭 Latest releases I've contributed to
 
