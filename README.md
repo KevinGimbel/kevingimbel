@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [AI now means Apple Intelligence](https://kevingimbel.de/blog/2024/06/ai-now-means-apple-intelligence/)
 - [RE: BundID: Eine digitale Identität schafft (falsches) Vertrauen](https://kevingimbel.de/blog/2024/06/re-bundid-eine-digitale-identitat-schafft-falsches-vertrauen/)
 - [RE: What if we worked together](https://kevingimbel.de/blog/2024/06/re-what-if-we-worked-together/)
 - [RE: The Justice Department Took Down the 911 S5 Botnet](https://kevingimbel.de/blog/2024/06/re-the-justice-department-took-down-the-911-s5-botnet/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 26: Pride and photos](https://kevingimbel.de/blog/2024/05/week-26-pride-and-photos/)
 - [RE: Trust](https://kevingimbel.de/blog/2024/05/re-trust/)
 - [RE: Why blog anonymous](https://kevingimbel.de/blog/2024/05/re-why-blog-anonymous/)
-- [RE: Cloudflare took down our website after trying to force us to pay 120k$ within 24h](https://kevingimbel.de/blog/2024/05/re-cloudflare-took-down-our-website-after-trying-to-force-us-to-pay-120k-within-24h/)
 
 ## 🔭 Latest releases I've contributed to
 
