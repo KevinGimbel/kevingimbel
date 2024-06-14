@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 28: Feeling stupid](https://kevingimbel.de/blog/2024/06/week-28-feeling-stupid/)
 - [AI now means Apple Intelligence](https://kevingimbel.de/blog/2024/06/ai-now-means-apple-intelligence/)
 - [RE: BundID: Eine digitale Identität schafft (falsches) Vertrauen](https://kevingimbel.de/blog/2024/06/re-bundid-eine-digitale-identitat-schafft-falsches-vertrauen/)
 - [RE: What if we worked together](https://kevingimbel.de/blog/2024/06/re-what-if-we-worked-together/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [RE: Operation Overload](https://kevingimbel.de/blog/2024/06/re-operation-overload/)
 - [Week 26: Pride and photos](https://kevingimbel.de/blog/2024/05/week-26-pride-and-photos/)
 - [RE: Trust](https://kevingimbel.de/blog/2024/05/re-trust/)
-- [RE: Why blog anonymous](https://kevingimbel.de/blog/2024/05/re-why-blog-anonymous/)
 
 ## 🔭 Latest releases I've contributed to
 
@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [blib-la/ask-poddy](https://github.com/blib-la/ask-poddy) - Ask Poddy: Run Open Source LLMs and Embeddings as OpenAI-Compatible Serverless Endpoints (Tutorial)
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC&#39;s activity snapshots.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [vmfunc/cargo-buttplug](https://github.com/vmfunc/cargo-buttplug) -  ensuring positive reinforcement during long, tiring code sessions~
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
-- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 
