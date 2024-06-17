@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Learning Haskell: Caesar cipher](https://kevingimbel.de/blog/2024/06/learning-haskell-caesar-cipher/)
 - [Week 28: Feeling stupid](https://kevingimbel.de/blog/2024/06/week-28-feeling-stupid/)
 - [AI now means Apple Intelligence](https://kevingimbel.de/blog/2024/06/ai-now-means-apple-intelligence/)
 - [RE: BundID: Eine digitale Identität schafft (falsches) Vertrauen](https://kevingimbel.de/blog/2024/06/re-bundid-eine-digitale-identitat-schafft-falsches-vertrauen/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [10 years of Kubernetes](https://kevingimbel.de/blog/2024/06/10-years-of-kubernetes/)
 - [RE: Operation Overload](https://kevingimbel.de/blog/2024/06/re-operation-overload/)
 - [Week 26: Pride and photos](https://kevingimbel.de/blog/2024/05/week-26-pride-and-photos/)
-- [RE: Trust](https://kevingimbel.de/blog/2024/05/re-trust/)
 
 ## 🔭 Latest releases I've contributed to
 
