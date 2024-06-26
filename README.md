@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [polyfill.io supply chain attack](https://kevingimbel.de/blog/2024/06/polyfill-io-supply-chain-attack/)
 - [Week 29: Real post](https://kevingimbel.de/blog/2024/06/week-29-real-post/)
 - [Startups, Trust, and AI](https://kevingimbel.de/blog/2024/06/startups-trust-and-ai/)
 - [Learning Haskell: Caesar cipher](https://kevingimbel.de/blog/2024/06/learning-haskell-caesar-cipher/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [RE: What if we worked together](https://kevingimbel.de/blog/2024/06/re-what-if-we-worked-together/)
 - [RE: The Justice Department Took Down the 911 S5 Botnet](https://kevingimbel.de/blog/2024/06/re-the-justice-department-took-down-the-911-s5-botnet/)
 - [Week 27: nix](https://kevingimbel.de/blog/2024/06/week-27-nix/)
-- [10 years of Kubernetes](https://kevingimbel.de/blog/2024/06/10-years-of-kubernetes/)
 
 ## 🔭 Latest releases I've contributed to
 
