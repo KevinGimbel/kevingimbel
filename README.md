@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that&#39;s all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [blib-la/ask-poddy](https://github.com/blib-la/ask-poddy) - Ask Poddy: Run Open Source LLMs and Embeddings as OpenAI-Compatible Serverless Endpoints (Tutorial)
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC&#39;s activity snapshots.
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [blib-la/captain](https://github.com/blib-la/captain) - Give your computer an AI Brain
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
 - [vmfunc/cargo-buttplug](https://github.com/vmfunc/cargo-buttplug) -  ensuring positive reinforcement during long, tiring code sessions~
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS
 
