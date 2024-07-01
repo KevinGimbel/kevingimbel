@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that&#39;s all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [blib-la/ask-poddy](https://github.com/blib-la/ask-poddy) - Ask Poddy: Run Open Source LLMs and Embeddings as OpenAI-Compatible Serverless Endpoints (Tutorial)
 - [chshersh/iris](https://github.com/chshersh/iris) - 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [olivvybee/neobread](https://github.com/olivvybee/neobread) - A set of bread emojis.
 - [blib-la/captain](https://github.com/blib-la/captain) - Give your computer an AI Brain
 - [AOEpeople/aoe_technology_radar](https://github.com/AOEpeople/aoe_technology_radar) - Create your own Technology Radar: A static site generator for a full featured Technology Radar. Features: Quadrants, Rings, Dashboard, Radar Visualization, Item History, Search etc..
-- [vmfunc/cargo-buttplug](https://github.com/vmfunc/cargo-buttplug) -  ensuring positive reinforcement during long, tiring code sessions~
 
