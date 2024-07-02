@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Why have a personal website?](https://kevingimbel.de/blog/2024/07/why-have-a-personal-website/)
 - [Week 30: Painting and Backups](https://kevingimbel.de/blog/2024/06/week-30-painting-and-backups/)
 - [polyfill.io supply chain attack](https://kevingimbel.de/blog/2024/06/polyfill-io-supply-chain-attack/)
 - [Week 29: Real post](https://kevingimbel.de/blog/2024/06/week-29-real-post/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [AI now means Apple Intelligence](https://kevingimbel.de/blog/2024/06/ai-now-means-apple-intelligence/)
 - [RE: BundID: Eine digitale Identität schafft (falsches) Vertrauen](https://kevingimbel.de/blog/2024/06/re-bundid-eine-digitale-identitat-schafft-falsches-vertrauen/)
 - [RE: What if we worked together](https://kevingimbel.de/blog/2024/06/re-what-if-we-worked-together/)
-- [RE: The Justice Department Took Down the 911 S5 Botnet](https://kevingimbel.de/blog/2024/06/re-the-justice-department-took-down-the-911-s5-botnet/)
 
 ## 🔭 Latest releases I've contributed to
 
