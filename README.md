@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [mikeeq/mbp-fedora](https://github.com/mikeeq/mbp-fedora) - 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that&#39;s all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS
 - [chr15m/rogule.com](https://github.com/chr15m/rogule.com) - A dungeon a day keeps the Balrog away
 - [olivvybee/neobread](https://github.com/olivvybee/neobread) - A set of bread emojis.
-- [blib-la/captain](https://github.com/blib-la/captain) - Give your computer an AI Brain
 
