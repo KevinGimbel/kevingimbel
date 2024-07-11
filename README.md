@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [RE: Second Factor SMS: Worse than It’s Reputation](https://kevingimbel.de/blog/2024/07/re-second-factor-sms-worse-than-its-reputation/)
 - [Week 31:The cake isn’t a lie](https://kevingimbel.de/blog/2024/07/week-31the-cake-isnt-a-lie/)
 - [Why have a personal website?](https://kevingimbel.de/blog/2024/07/why-have-a-personal-website/)
 - [Week 30: Painting and Backups](https://kevingimbel.de/blog/2024/06/week-30-painting-and-backups/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Learning Haskell: Caesar cipher](https://kevingimbel.de/blog/2024/06/learning-haskell-caesar-cipher/)
 - [Week 28: Feeling stupid](https://kevingimbel.de/blog/2024/06/week-28-feeling-stupid/)
 - [AI now means Apple Intelligence](https://kevingimbel.de/blog/2024/06/ai-now-means-apple-intelligence/)
-- [RE: BundID: Eine digitale Identität schafft (falsches) Vertrauen](https://kevingimbel.de/blog/2024/06/re-bundid-eine-digitale-identitat-schafft-falsches-vertrauen/)
 
 ## 🔭 Latest releases I've contributed to
 
