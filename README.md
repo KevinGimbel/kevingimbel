@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 33: Vacation](https://kevingimbel.de/blog/2024/07/week-33-vacation/)
 - [Week 32: Off(line)](https://kevingimbel.de/blog/2024/07/week-32-offline/)
 - [RE: Second Factor SMS: Worse than It’s Reputation](https://kevingimbel.de/blog/2024/07/re-second-factor-sms-worse-than-its-reputation/)
 - [Week 31:The cake isn’t a lie](https://kevingimbel.de/blog/2024/07/week-31the-cake-isnt-a-lie/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 29: Real post](https://kevingimbel.de/blog/2024/06/week-29-real-post/)
 - [Startups, Trust, and AI](https://kevingimbel.de/blog/2024/06/startups-trust-and-ai/)
 - [Learning Haskell: Caesar cipher](https://kevingimbel.de/blog/2024/06/learning-haskell-caesar-cipher/)
-- [Week 28: Feeling stupid](https://kevingimbel.de/blog/2024/06/week-28-feeling-stupid/)
 
 ## 🔭 Latest releases I've contributed to
 
