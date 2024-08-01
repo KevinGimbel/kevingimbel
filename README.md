@@ -30,6 +30,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker &#43; Kubernetes network trouble-shooting swiss-army container
 - [mikeeq/mbp-fedora](https://github.com/mikeeq/mbp-fedora) - 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -39,5 +40,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) - This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to access information about your PC&#39;s activity snapshots.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS
 - [chr15m/rogule.com](https://github.com/chr15m/rogule.com) - A dungeon a day keeps the Balrog away
-- [olivvybee/neobread](https://github.com/olivvybee/neobread) - A set of bread emojis.
 
