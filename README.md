@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Adventures in Linux](https://kevingimbel.de/blog/2024/08/adventures-in-linux/)
 - [Week 34: Broken Glasses](https://kevingimbel.de/blog/2024/07/week-34-broken-glasses/)
 - [Week 33: Vacation](https://kevingimbel.de/blog/2024/07/week-33-vacation/)
 - [Week 32: Off(line)](https://kevingimbel.de/blog/2024/07/week-32-offline/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 30: Painting and Backups](https://kevingimbel.de/blog/2024/06/week-30-painting-and-backups/)
 - [polyfill.io supply chain attack](https://kevingimbel.de/blog/2024/06/polyfill-io-supply-chain-attack/)
 - [Week 29: Real post](https://kevingimbel.de/blog/2024/06/week-29-real-post/)
-- [Startups, Trust, and AI](https://kevingimbel.de/blog/2024/06/startups-trust-and-ai/)
 
 ## 🔭 Latest releases I've contributed to
 
