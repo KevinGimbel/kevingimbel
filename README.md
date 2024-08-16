@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 37: Metrics!](https://kevingimbel.de/blog/2024/08/week-37-metrics/)
 - [Week 36: Prepping](https://kevingimbel.de/blog/2024/08/week-36-prepping/)
 - [Summer vacation on film](https://kevingimbel.de/blog/2024/08/summer-vacation-on-film/)
 - [RE: Leaked GitHub Python Token](https://kevingimbel.de/blog/2024/08/re-leaked-github-python-token/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 33: Vacation](https://kevingimbel.de/blog/2024/07/week-33-vacation/)
 - [Week 32: Off(line)](https://kevingimbel.de/blog/2024/07/week-32-offline/)
 - [RE: Second Factor SMS: Worse than It’s Reputation](https://kevingimbel.de/blog/2024/07/re-second-factor-sms-worse-than-its-reputation/)
-- [Week 31:The cake isn’t a lie](https://kevingimbel.de/blog/2024/07/week-31the-cake-isnt-a-lie/)
 
 ## 🔭 Latest releases I've contributed to
 
