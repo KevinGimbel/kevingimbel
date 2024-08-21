@@ -39,5 +39,5 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [mikeeq/mbp-fedora](https://github.com/mikeeq/mbp-fedora) - 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that&#39;s all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that&#39;s all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 
