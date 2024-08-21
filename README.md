@@ -30,6 +30,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) - The AOE Technology Radar
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -39,5 +40,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that&#39;s all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
-- [blib-la/ask-poddy](https://github.com/blib-la/ask-poddy) - Ask Poddy: Run Open Source LLMs and Embeddings as OpenAI-Compatible Serverless Endpoints (Tutorial)
 
