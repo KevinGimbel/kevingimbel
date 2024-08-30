@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 39: h4ck4thon!](https://kevingimbel.de/blog/2024/08/week-39-h4ck4thon/)
 - [Week 38: LOTR](https://kevingimbel.de/blog/2024/08/week-38-lotr/)
 - [Week 37: Metrics!](https://kevingimbel.de/blog/2024/08/week-37-metrics/)
 - [Week 36: Prepping](https://kevingimbel.de/blog/2024/08/week-36-prepping/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Adventures in Linux](https://kevingimbel.de/blog/2024/08/adventures-in-linux/)
 - [Week 34: Broken Glasses](https://kevingimbel.de/blog/2024/07/week-34-broken-glasses/)
 - [Week 33: Vacation](https://kevingimbel.de/blog/2024/07/week-33-vacation/)
-- [Week 32: Off(line)](https://kevingimbel.de/blog/2024/07/week-32-offline/)
 
 ## 🔭 Latest releases I've contributed to
 
