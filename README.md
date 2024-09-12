@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [RE: Meta scraped all public Facebook and Instagram posts since 2007 for AI training](https://kevingimbel.de/blog/2024/09/re-meta-scraped-all-public-facebook-and-instagram-posts-since-2007-for-ai-training/)
 - [Week 40: Containers for days](https://kevingimbel.de/blog/2024/09/week-40-containers-for-days/)
 - [Week 39: h4ck4thon!](https://kevingimbel.de/blog/2024/08/week-39-h4ck4thon/)
 - [Week 38: LOTR](https://kevingimbel.de/blog/2024/08/week-38-lotr/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [RE: Leaked GitHub Python Token](https://kevingimbel.de/blog/2024/08/re-leaked-github-python-token/)
 - [Week 35: Late](https://kevingimbel.de/blog/2024/08/week-35-late/)
 - [Adventures in Linux](https://kevingimbel.de/blog/2024/08/adventures-in-linux/)
-- [Week 34: Broken Glasses](https://kevingimbel.de/blog/2024/07/week-34-broken-glasses/)
 
 ## 🔭 Latest releases I've contributed to
 
