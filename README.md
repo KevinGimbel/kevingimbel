@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 42: Talk, Talk, Talk!](https://kevingimbel.de/blog/2024/09/week-42-talk-talk-talk/)
 - [My Container Days talk recording is here!](https://kevingimbel.de/blog/2024/09/my-container-days-talk-recording-is-here/)
 - [Week 41: brat autumn?!](https://kevingimbel.de/blog/2024/09/week-41-brat-autumn/)
 - [RE: Meta scraped all public Facebook and Instagram posts since 2007 for AI training](https://kevingimbel.de/blog/2024/09/re-meta-scraped-all-public-facebook-and-instagram-posts-since-2007-for-ai-training/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 37: Metrics!](https://kevingimbel.de/blog/2024/08/week-37-metrics/)
 - [Week 36: Prepping](https://kevingimbel.de/blog/2024/08/week-36-prepping/)
 - [Summer vacation on film](https://kevingimbel.de/blog/2024/08/summer-vacation-on-film/)
-- [RE: Leaked GitHub Python Token](https://kevingimbel.de/blog/2024/08/re-leaked-github-python-token/)
 
 ## 🔭 Latest releases I've contributed to
 
