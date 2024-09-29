@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 43: Birthday &amp;  Docs!](https://kevingimbel.de/blog/2024/09/week-43-birthday-docs/)
 - [Tracking on my website](https://kevingimbel.de/blog/2024/09/tracking-on-my-website/)
 - [Week 42: Talk, Talk, Talk!](https://kevingimbel.de/blog/2024/09/week-42-talk-talk-talk/)
 - [My Container Days talk recording is here!](https://kevingimbel.de/blog/2024/09/my-container-days-talk-recording-is-here/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 39: h4ck4thon!](https://kevingimbel.de/blog/2024/08/week-39-h4ck4thon/)
 - [Week 38: LOTR](https://kevingimbel.de/blog/2024/08/week-38-lotr/)
 - [Week 37: Metrics!](https://kevingimbel.de/blog/2024/08/week-37-metrics/)
-- [Week 36: Prepping](https://kevingimbel.de/blog/2024/08/week-36-prepping/)
 
 ## 🔭 Latest releases I've contributed to
 
