@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 44: Angry music](https://kevingimbel.de/blog/2024/10/week-44-angry-music/)
 - [A day at the Rhine](https://kevingimbel.de/blog/2024/10/a-day-at-the-rhine/)
 - [Week 43: Birthday &amp;  Docs!](https://kevingimbel.de/blog/2024/09/week-43-birthday-docs/)
 - [Tracking on my website](https://kevingimbel.de/blog/2024/09/tracking-on-my-website/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [RE: Meta scraped all public Facebook and Instagram posts since 2007 for AI training](https://kevingimbel.de/blog/2024/09/re-meta-scraped-all-public-facebook-and-instagram-posts-since-2007-for-ai-training/)
 - [Week 40: Containers for days](https://kevingimbel.de/blog/2024/09/week-40-containers-for-days/)
 - [Week 39: h4ck4thon!](https://kevingimbel.de/blog/2024/08/week-39-h4ck4thon/)
-- [Week 38: LOTR](https://kevingimbel.de/blog/2024/08/week-38-lotr/)
 
 ## 🔭 Latest releases I've contributed to
 
