@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 46: Raw](https://kevingimbel.de/blog/2024/10/week-46-raw/)
 - [Week 45: What day is it anyway?](https://kevingimbel.de/blog/2024/10/week-45-what-day-is-it-anyway/)
 - [New 120 film scans](https://kevingimbel.de/blog/2024/10/new-120-film-scans/)
 - [Week 44: Angry music](https://kevingimbel.de/blog/2024/10/week-44-angry-music/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 42: Talk, Talk, Talk!](https://kevingimbel.de/blog/2024/09/week-42-talk-talk-talk/)
 - [My Container Days talk recording is here!](https://kevingimbel.de/blog/2024/09/my-container-days-talk-recording-is-here/)
 - [Week 41: brat autumn?!](https://kevingimbel.de/blog/2024/09/week-41-brat-autumn/)
-- [RE: Meta scraped all public Facebook and Instagram posts since 2007 for AI training](https://kevingimbel.de/blog/2024/09/re-meta-scraped-all-public-facebook-and-instagram-posts-since-2007-for-ai-training/)
 
 ## 🔭 Latest releases I've contributed to
 
