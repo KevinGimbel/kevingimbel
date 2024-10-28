@@ -30,6 +30,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [sylvainjule/kirby-footnotes](https://github.com/sylvainjule/kirby-footnotes) - Footnotes plugin for Kirby 3 and 4
 - [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) - Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness.
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -39,5 +40,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [andrejilderda/joplin-macos-native-theme](https://github.com/andrejilderda/joplin-macos-native-theme) - Native looking macOS theme for note taking app Joplin
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [wttdotm/traffic_cam_photobooth](https://github.com/wttdotm/traffic_cam_photobooth) - The repository for www.TrafficCamPhotobooth.com
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
