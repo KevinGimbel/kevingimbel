@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 49: Cyberpunk](https://kevingimbel.de/blog/2024/11/week-49-cyberpunk/)
 - [Week 48: Halloween](https://kevingimbel.de/blog/2024/11/week-48-halloween/)
 - [Week 47: Kirby! And books](https://kevingimbel.de/blog/2024/10/week-47-kirby-and-books/)
 - [Week 46: Raw](https://kevingimbel.de/blog/2024/10/week-46-raw/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [A day at the Rhine](https://kevingimbel.de/blog/2024/10/a-day-at-the-rhine/)
 - [Week 43: Birthday &amp;  Docs!](https://kevingimbel.de/blog/2024/09/week-43-birthday-docs/)
 - [Tracking on my website](https://kevingimbel.de/blog/2024/09/tracking-on-my-website/)
-- [Week 42: Talk, Talk, Talk!](https://kevingimbel.de/blog/2024/09/week-42-talk-talk-talk/)
 
 ## 🔭 Latest releases I've contributed to
 
