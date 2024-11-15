@@ -26,7 +26,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 ## 🔭 Latest releases I've contributed to
 
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) ([v8](https://github.com/AOEpeople/techradar/releases/tag/v8)) - The AOE Technology Radar
-- [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v4.0.0](https://github.com/KevinGimbel/mktoc/releases/tag/v4.0.0)) - 🦀 Markdown Table of Content generator
 
 ## ⭐ Recent Stars
 
