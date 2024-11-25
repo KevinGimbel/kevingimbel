@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [catppuccin/miniflux](https://github.com/catppuccin/miniflux) - 📡 Soothing pastel theme for Miniflux
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [Pechente/kirby-admin-bar](https://github.com/Pechente/kirby-admin-bar) - Adds an admin bar to the frontend in Kirby CMS so you can easily edit the current page or access common panel pages
 - [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 
