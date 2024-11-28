@@ -29,6 +29,8 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [bnomei/kirby3-feed](https://github.com/bnomei/kirby3-feed) - Generate ATOM/JSON/RSS-Feed and XML-Sitemap from Pages-Collection
+- [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn &#39;Green Unicorn&#39; is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [catppuccin/miniflux](https://github.com/catppuccin/miniflux) - 📡 Soothing pastel theme for Miniflux
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
@@ -37,6 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [sylvainjule/kirby-footnotes](https://github.com/sylvainjule/kirby-footnotes) - Footnotes plugin for Kirby 3 and 4
 - [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) - Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness.
-- [google/docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
