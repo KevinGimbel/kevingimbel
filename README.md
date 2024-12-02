@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [bnomei/kirby3-dotenv](https://github.com/bnomei/kirby3-dotenv) - Kirby Plugin for environment variables from .env files
 - [bnomei/kirby3-feed](https://github.com/bnomei/kirby3-feed) - Generate ATOM/JSON/RSS-Feed and XML-Sitemap from Pages-Collection
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn &#39;Green Unicorn&#39; is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [sylvainjule/kirby-footnotes](https://github.com/sylvainjule/kirby-footnotes) - Footnotes plugin for Kirby 3 and 4
-- [i-love-flamingo/flamingo](https://github.com/i-love-flamingo/flamingo) - Flamingo Framework and Core Library. Flamingo is a go based framework to build pluggable applications. Focus is on clean architecture, maintainability and operation readiness.
 
