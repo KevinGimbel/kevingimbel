@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [bnomei/kirby3-dotenv](https://github.com/bnomei/kirby3-dotenv) - Kirby Plugin for environment variables from .env files
 - [bnomei/kirby3-feed](https://github.com/bnomei/kirby3-feed) - Generate ATOM/JSON/RSS-Feed and XML-Sitemap from Pages-Collection
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn &#39;Green Unicorn&#39; is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Pechente/kirby-admin-bar](https://github.com/Pechente/kirby-admin-bar) - Adds an admin bar to the frontend in Kirby CMS so you can easily edit the current page or access common panel pages
 - [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [sylvainjule/kirby-footnotes](https://github.com/sylvainjule/kirby-footnotes) - Footnotes plugin for Kirby 3 and 4
 
