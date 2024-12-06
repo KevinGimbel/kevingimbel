@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 53: Ho-Ho-Ho](https://kevingimbel.de/blog/2024/12/week-53-ho-ho-ho/)
 - [Week 52: One-year streak!](https://kevingimbel.de/blog/2024/11/week-52-one-year-streak/)
 - [Week 51: Exhausted](https://kevingimbel.de/blog/2024/11/week-51-exhausted/)
 - [Week 50: k8s, Kirby, and Dark Souls 3](https://kevingimbel.de/blog/2024/11/week-50-k8s-kirby-and-dark-souls-3/)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 46: Raw](https://kevingimbel.de/blog/2024/10/week-46-raw/)
 - [Week 45: What day is it anyway?](https://kevingimbel.de/blog/2024/10/week-45-what-day-is-it-anyway/)
 - [New 120 film scans](https://kevingimbel.de/blog/2024/10/new-120-film-scans/)
-- [Week 44: Angry music](https://kevingimbel.de/blog/2024/10/week-44-angry-music/)
 
 ## 🔭 Latest releases I've contributed to
 
