@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
 - [iliana/emojos.in](https://github.com/iliana/emojos.in) - Shows custom emoji for Mastodon/Pleroma instances
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [bnomei/kirby3-dotenv](https://github.com/bnomei/kirby3-dotenv) - Kirby Plugin for environment variables from .env files
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [catppuccin/miniflux](https://github.com/catppuccin/miniflux) - 📡 Soothing pastel theme for Miniflux
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [Pechente/kirby-admin-bar](https://github.com/Pechente/kirby-admin-bar) - Adds an admin bar to the frontend in Kirby CMS so you can easily edit the current page or access common panel pages
-- [mauricerenck/indieConnector](https://github.com/mauricerenck/indieConnector) - A Kirby Webmention Plugin
 
