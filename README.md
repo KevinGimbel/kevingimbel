@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [8ctopus/apache-php-fpm-alpine](https://github.com/8ctopus/apache-php-fpm-alpine) - A docker web server with Apache and php-fpm on top of Alpine Linux for php developers
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [rustic-rs/rustic](https://github.com/rustic-rs/rustic) - rustic - fast, encrypted, and deduplicated backups powered by Rust
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [bnomei/kirby3-feed](https://github.com/bnomei/kirby3-feed) - Generate ATOM/JSON/RSS-Feed and XML-Sitemap from Pages-Collection
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn &#39;Green Unicorn&#39; is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
-- [catppuccin/miniflux](https://github.com/catppuccin/miniflux) - 📡 Soothing pastel theme for Miniflux
 
