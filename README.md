@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 55: We&#39;re live!](https://kevingimbel.de/blog/week-55-we-re-live)
 - [Week 54: Linux](https://kevingimbel.de/blog/week-54-linux)
 - [Week 53: Ho-Ho-Ho](https://kevingimbel.de/blog/week-53-ho-ho-ho)
 - [Week 52: One-year streak!](https://kevingimbel.de/blog/week-52-one-year-streak)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 48: Halloween](https://kevingimbel.de/blog/week-48-halloween)
 - [Week 47: Kirby! And books](https://kevingimbel.de/blog/week-47-kirby-and-books)
 - [Week 46: Raw](https://kevingimbel.de/blog/week-46-raw)
-- [Week 45: What day is it anyway?](https://kevingimbel.de/blog/week-45-what-day-is-it-anyway)
 
 ## 🔭 Latest releases I've contributed to
 
