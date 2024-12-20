@@ -12,16 +12,16 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
-- [Week 54: Linux](https://kevingimbel.de/blog/2024/12/week-54-linux/)
-- [Week 53: Ho-Ho-Ho](https://kevingimbel.de/blog/2024/12/week-53-ho-ho-ho/)
-- [Week 52: One-year streak!](https://kevingimbel.de/blog/2024/11/week-52-one-year-streak/)
-- [Week 51: Exhausted](https://kevingimbel.de/blog/2024/11/week-51-exhausted/)
-- [Week 50: k8s, Kirby, and Dark Souls 3](https://kevingimbel.de/blog/2024/11/week-50-k8s-kirby-and-dark-souls-3/)
-- [Week 49: Cyberpunk](https://kevingimbel.de/blog/2024/11/week-49-cyberpunk/)
-- [Week 48: Halloween](https://kevingimbel.de/blog/2024/11/week-48-halloween/)
-- [Week 47: Kirby! And books](https://kevingimbel.de/blog/2024/10/week-47-kirby-and-books/)
-- [Week 46: Raw](https://kevingimbel.de/blog/2024/10/week-46-raw/)
-- [Week 45: What day is it anyway?](https://kevingimbel.de/blog/2024/10/week-45-what-day-is-it-anyway/)
+- [Week 54: Linux](https://kevingimbel.de/blog/week-54-linux)
+- [Week 53: Ho-Ho-Ho](https://kevingimbel.de/blog/week-53-ho-ho-ho)
+- [Week 52: One-year streak!](https://kevingimbel.de/blog/week-52-one-year-streak)
+- [Week 51: Exhausted](https://kevingimbel.de/blog/week-51-exhausted)
+- [Week 50: k8s, Kirby, and Dark Souls 3](https://kevingimbel.de/blog/week-50-k8s-kirby-and-dark-souls-3)
+- [Week 49: Cyberpunk](https://kevingimbel.de/blog/week-49-cyberpunk)
+- [Week 48: Halloween](https://kevingimbel.de/blog/week-48-halloween)
+- [Week 47: Kirby! And books](https://kevingimbel.de/blog/week-47-kirby-and-books)
+- [Week 46: Raw](https://kevingimbel.de/blog/week-46-raw)
+- [Week 45: What day is it anyway?](https://kevingimbel.de/blog/week-45-what-day-is-it-anyway)
 
 ## 🔭 Latest releases I've contributed to
 
