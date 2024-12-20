@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [florianziegler/haptiq-kirby-exporter](https://github.com/florianziegler/haptiq-kirby-exporter) - Export WordPress posts and attachments into folders and text files.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [joachimesque/kirby-openheart](https://github.com/joachimesque/kirby-openheart) - Very basic implementation of the Openheart protocol for Kirby
 - [8ctopus/apache-php-fpm-alpine](https://github.com/8ctopus/apache-php-fpm-alpine) - A docker web server with Apache and php-fpm on top of Alpine Linux for php developers
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [iliana/emojos.in](https://github.com/iliana/emojos.in) - Shows custom emoji for Mastodon/Pleroma instances
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [bnomei/kirby3-dotenv](https://github.com/bnomei/kirby3-dotenv) - Kirby Plugin for environment variables from .env files
-- [bnomei/kirby3-feed](https://github.com/bnomei/kirby3-feed) - Generate ATOM/JSON/RSS-Feed and XML-Sitemap from Pages-Collection
 
