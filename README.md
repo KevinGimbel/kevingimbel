@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 56: X-Mas on-call](https://kevingimbel.de/blog/week-56-x-mas-on-call)
 - [I build a thing: cenxxx](https://kevingimbel.de/blog/i-build-a-thing-cenxxx)
 - [Week 55: We&#39;re live!](https://kevingimbel.de/blog/week-55-we-re-live)
 - [Week 54: Linux](https://kevingimbel.de/blog/week-54-linux)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 50: k8s, Kirby, and Dark Souls 3](https://kevingimbel.de/blog/week-50-k8s-kirby-and-dark-souls-3)
 - [Week 49: Cyberpunk](https://kevingimbel.de/blog/week-49-cyberpunk)
 - [Week 48: Halloween](https://kevingimbel.de/blog/week-48-halloween)
-- [Week 47: Kirby! And books](https://kevingimbel.de/blog/week-47-kirby-and-books)
 
 ## 🔭 Latest releases I've contributed to
 
