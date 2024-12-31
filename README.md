@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [2024 Review](https://kevingimbel.de/blog/2024-review)
 - [RE: Turn off AI features by default](https://kevingimbel.de/blog/re-turn-off-ai-features-by-default)
 - [The joy of running a public server](https://kevingimbel.de/blog/the-joy-of-running-a-public-server)
 - [Week 56: X-Mas on-call](https://kevingimbel.de/blog/week-56-x-mas-on-call)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 53: Ho-Ho-Ho](https://kevingimbel.de/blog/week-53-ho-ho-ho)
 - [Week 52: One-year streak!](https://kevingimbel.de/blog/week-52-one-year-streak)
 - [Week 51: Exhausted](https://kevingimbel.de/blog/week-51-exhausted)
-- [Week 50: k8s, Kirby, and Dark Souls 3](https://kevingimbel.de/blog/week-50-k8s-kirby-and-dark-souls-3)
 
 ## 🔭 Latest releases I've contributed to
 
