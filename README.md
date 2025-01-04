@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 57: New year who dis?](https://kevingimbel.de/blog/week-57-new-year-who-dis)
 - [2024 Review](https://kevingimbel.de/blog/2024-review)
 - [RE: Turn off AI features by default](https://kevingimbel.de/blog/re-turn-off-ai-features-by-default)
 - [The joy of running a public server](https://kevingimbel.de/blog/the-joy-of-running-a-public-server)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 54: Linux](https://kevingimbel.de/blog/week-54-linux)
 - [Week 53: Ho-Ho-Ho](https://kevingimbel.de/blog/week-53-ho-ho-ho)
 - [Week 52: One-year streak!](https://kevingimbel.de/blog/week-52-one-year-streak)
-- [Week 51: Exhausted](https://kevingimbel.de/blog/week-51-exhausted)
 
 ## 🔭 Latest releases I've contributed to
 
