@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 60: Goodbye](https://kevingimbel.de/blog/week-60-goodbye)
 - [Week 59: The tree is gone](https://kevingimbel.de/blog/week-59)
 - [Week 58: A long drive home](https://kevingimbel.de/blog/week-58-a-long-drive-home)
 - [Week 57: New year who dis?](https://kevingimbel.de/blog/week-57-new-year-who-dis)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [The joy of running a public server](https://kevingimbel.de/blog/the-joy-of-running-a-public-server)
 - [Week 56: X-Mas on-call](https://kevingimbel.de/blog/week-56-x-mas-on-call)
 - [I build a thing: cenxxx](https://kevingimbel.de/blog/i-build-a-thing-cenxxx)
-- [Week 55: We&#39;re live!](https://kevingimbel.de/blog/week-55-we-re-live)
 
 ## 🔭 Latest releases I've contributed to
 
