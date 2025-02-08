@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 62: Witchers and no PCs](https://kevingimbel.de/blog/week-62-witchers-and-no-pcs)
 - [Week 61: idk](https://kevingimbel.de/blog/week-61-idk)
 - [Week 60: Goodbye](https://kevingimbel.de/blog/week-60-goodbye)
 - [Week 59: The tree is gone](https://kevingimbel.de/blog/week-59)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [2024 Review](https://kevingimbel.de/blog/2024-review)
 - [RE: Turn off AI features by default](https://kevingimbel.de/blog/re-turn-off-ai-features-by-default)
 - [The joy of running a public server](https://kevingimbel.de/blog/the-joy-of-running-a-public-server)
-- [Week 56: X-Mas on-call](https://kevingimbel.de/blog/week-56-x-mas-on-call)
 
 ## 🔭 Latest releases I've contributed to
 
