@@ -13,6 +13,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 🧑‍💻 **Blog:**
 
 - [Rewriting a pushed commit message with git rebase](https://kevingimbel.de/blog/rewriting-a-pushed-commit-message-with-git-rebase)
+- [Week 63: Cologne!](https://kevingimbel.de/blog/week-63-cologne)
 - [Week 62: Witchers and no PCs](https://kevingimbel.de/blog/week-62-witchers-and-no-pcs)
 - [Week 61: idk](https://kevingimbel.de/blog/week-61-idk)
 - [Week 60: Goodbye](https://kevingimbel.de/blog/week-60-goodbye)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 57: New year who dis?](https://kevingimbel.de/blog/week-57-new-year-who-dis)
 - [Moving to Kirby](https://kevingimbel.de/blog/moving-to-kirby)
 - [2024 Review](https://kevingimbel.de/blog/2024-review)
-- [RE: Turn off AI features by default](https://kevingimbel.de/blog/re-turn-off-ai-features-by-default)
 
 ## 🔭 Latest releases I've contributed to
 
