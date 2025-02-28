@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 65: Will I ever finish this?](https://kevingimbel.de/blog/week-65-will-i-ever-finish-this)
 - [Week 64: Photographing events](https://kevingimbel.de/blog/week-64-photographing-events)
 - [Rewriting a pushed commit message with git rebase](https://kevingimbel.de/blog/rewriting-a-pushed-commit-message-with-git-rebase)
 - [Week 63: Cologne!](https://kevingimbel.de/blog/week-63-cologne)
@@ -20,7 +21,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 60: Goodbye](https://kevingimbel.de/blog/week-60-goodbye)
 - [Week 59: The tree is gone](https://kevingimbel.de/blog/week-59)
 - [Week 58: A long drive home](https://kevingimbel.de/blog/week-58-a-long-drive-home)
-- [Week 57: New year who dis?](https://kevingimbel.de/blog/week-57-new-year-who-dis)
 - [Moving to Kirby](https://kevingimbel.de/blog/moving-to-kirby)
 
 ## 🔭 Latest releases I've contributed to
