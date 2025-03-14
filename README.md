@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 67: Gym bros](https://kevingimbel.de/blog/week-67-gym-bros)
 - [Week 66: Muskelkater](https://kevingimbel.de/blog/week-66-muskelkater)
 - [Week 65: Will I ever finish this?](https://kevingimbel.de/blog/week-65-will-i-ever-finish-this)
 - [Week 64: Photographing events](https://kevingimbel.de/blog/week-64-photographing-events)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 61: idk](https://kevingimbel.de/blog/week-61-idk)
 - [Week 60: Goodbye](https://kevingimbel.de/blog/week-60-goodbye)
 - [Week 59: The tree is gone](https://kevingimbel.de/blog/week-59)
-- [Week 58: A long drive home](https://kevingimbel.de/blog/week-58-a-long-drive-home)
 
 ## 🔭 Latest releases I've contributed to
 
