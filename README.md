@@ -35,7 +35,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [mbrubeck/agate](https://github.com/mbrubeck/agate) - Very simple server for the Gemini hypertext protocol
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
+- [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit (rust matrix homeserver)
 - [dddddddddzzzz/open-stories-element](https://github.com/dddddddddzzzz/open-stories-element) - Open Stories feed → Story viewer
 - [dddddddddzzzz/OpenStories](https://github.com/dddddddddzzzz/OpenStories) - The Open Stories format.
 - [florianziegler/haptiq-kirby-exporter](https://github.com/florianziegler/haptiq-kirby-exporter) - Export WordPress posts and attachments into folders and text files.
