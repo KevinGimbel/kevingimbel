@@ -15,13 +15,13 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 68: Routine](https://kevingimbel.de/blog/week-68-routine)
 - [Week 67: Gym bros](https://kevingimbel.de/blog/week-67-gym-bros)
 - [Week 66: Muskelkater](https://kevingimbel.de/blog/week-66-muskelkater)
+- [Importing LinkAce content into Kirby](https://kevingimbel.de/blog/importing-linkace-content-into-kirby)
 - [Week 65: Will I ever finish this?](https://kevingimbel.de/blog/week-65-will-i-ever-finish-this)
 - [Week 64: Photographing events](https://kevingimbel.de/blog/week-64-photographing-events)
 - [Rewriting a pushed commit message with git rebase](https://kevingimbel.de/blog/rewriting-a-pushed-commit-message-with-git-rebase)
 - [Week 63: Cologne!](https://kevingimbel.de/blog/week-63-cologne)
 - [Week 62: Witchers and no PCs](https://kevingimbel.de/blog/week-62-witchers-and-no-pcs)
 - [Week 61: idk](https://kevingimbel.de/blog/week-61-idk)
-- [Week 60: Goodbye](https://kevingimbel.de/blog/week-60-goodbye)
 
 ## 🔭 Latest releases I've contributed to
 
