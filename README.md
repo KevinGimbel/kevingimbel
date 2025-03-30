@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 69: nice](https://kevingimbel.de/blog/week-69-nice)
 - [Week 68: Routine](https://kevingimbel.de/blog/week-68-routine)
 - [Week 67: Gym bros](https://kevingimbel.de/blog/week-67-gym-bros)
 - [Week 66: Muskelkater](https://kevingimbel.de/blog/week-66-muskelkater)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Rewriting a pushed commit message with git rebase](https://kevingimbel.de/blog/rewriting-a-pushed-commit-message-with-git-rebase)
 - [Week 63: Cologne!](https://kevingimbel.de/blog/week-63-cologne)
 - [Week 62: Witchers and no PCs](https://kevingimbel.de/blog/week-62-witchers-and-no-pcs)
-- [Week 61: idk](https://kevingimbel.de/blog/week-61-idk)
 
 ## 🔭 Latest releases I've contributed to
 
