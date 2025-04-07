@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.12.0)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.7.0)) - Prometheus community Helm charts
 - [AOEpeople/techradar](https://github.com/AOEpeople/techradar) ([v8](https://github.com/AOEpeople/techradar/releases/tag/v8)) - The AOE Technology Radar
 
 ## ⭐ Recent Stars
