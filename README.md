@@ -26,7 +26,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 ## 🔭 Latest releases I've contributed to
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.11.0)) - Prometheus community Helm charts
-- [AOEpeople/techradar](https://github.com/AOEpeople/techradar) ([v8](https://github.com/AOEpeople/techradar/releases/tag/v8)) - The AOE Technology Radar
 
 ## ⭐ Recent Stars
 
