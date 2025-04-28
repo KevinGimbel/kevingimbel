@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 73: No more weeknotes?!](https://kevingimbel.de/blog/week-73-no-more-weeknotes)
 - [Week 72: Helgoland](https://kevingimbel.de/blog/week-72-helgoland)
 - [Week 71: nothing](https://kevingimbel.de/blog/week-71-nothing)
 - [How I split my nginx config for readability and reusability](https://kevingimbel.de/blog/how-i-split-my-nginx-config-for-readability-and-reusability)
@@ -20,7 +21,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 69: nice](https://kevingimbel.de/blog/week-69-nice)
 - [Week 68: Routine](https://kevingimbel.de/blog/week-68-routine)
 - [Week 67: Gym bros](https://kevingimbel.de/blog/week-67-gym-bros)
-- [Week 66: Muskelkater](https://kevingimbel.de/blog/week-66-muskelkater)
 - [Importing LinkAce content into Kirby](https://kevingimbel.de/blog/importing-linkace-content-into-kirby)
 
 ## 🔭 Latest releases I've contributed to
