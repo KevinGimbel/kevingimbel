@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.33.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.33.1)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.12.1)) - Prometheus community Helm charts
 
 ## ⭐ Recent Stars
 
