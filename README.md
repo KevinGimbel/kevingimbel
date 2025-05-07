@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.16.1)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.17.1)) - Prometheus community Helm charts
 
 ## ⭐ Recent Stars
 
