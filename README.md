@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.6.2)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.10.1)) - Prometheus community Helm charts
 
 ## ⭐ Recent Stars
 
