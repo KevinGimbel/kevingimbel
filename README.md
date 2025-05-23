@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 77: Working in and with Obsidian](https://kevingimbel.de/blog/week-77-working-in-and-with-obsidian)
 - [Week 76: Photos!](https://kevingimbel.de/blog/week-76-photos)
 - [I made a (daily) photo blog!](https://kevingimbel.de/blog/i-made-a-daily-photo-blog)
 - [Week 75: A little something](https://kevingimbel.de/blog/week-75-a-little-something)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 71: nothing](https://kevingimbel.de/blog/week-71-nothing)
 - [How I split my nginx config for readability and reusability](https://kevingimbel.de/blog/how-i-split-my-nginx-config-for-readability-and-reusability)
 - [Week 70: Certified Girl&#39;s Day Professional](https://kevingimbel.de/blog/week-70-certified-girl-s-day-professional)
-- [Sneaking details-Elements into my blog posts](https://kevingimbel.de/blog/sneaking-details-elements-into-my-blog-posts)
 
 ## 🔭 Latest releases I've contributed to
 
