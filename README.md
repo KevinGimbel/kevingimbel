@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [TIL: create Alertmanager alerts with amtool](https://kevingimbel.de/blog/til-create-alertmanager-alerts-with-amtool)
 - [Week 77: Working in and with Obsidian](https://kevingimbel.de/blog/week-77-working-in-and-with-obsidian)
 - [Week 76: Photos!](https://kevingimbel.de/blog/week-76-photos)
 - [I made a (daily) photo blog!](https://kevingimbel.de/blog/i-made-a-daily-photo-blog)
@@ -21,11 +22,10 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 72: Helgoland](https://kevingimbel.de/blog/week-72-helgoland)
 - [Week 71: nothing](https://kevingimbel.de/blog/week-71-nothing)
 - [How I split my nginx config for readability and reusability](https://kevingimbel.de/blog/how-i-split-my-nginx-config-for-readability-and-reusability)
-- [Week 70: Certified Girl&#39;s Day Professional](https://kevingimbel.de/blog/week-70-certified-girl-s-day-professional)
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.7.0)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.10.2)) - Prometheus community Helm charts
 
 ## ⭐ Recent Stars
 
