@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 78: Sneezy](https://kevingimbel.de/blog/week-78-sneezy)
 - [TIL: create Alertmanager alerts with amtool](https://kevingimbel.de/blog/til-create-alertmanager-alerts-with-amtool)
 - [Week 77: Working in and with Obsidian](https://kevingimbel.de/blog/week-77-working-in-and-with-obsidian)
 - [Week 76: Photos!](https://kevingimbel.de/blog/week-76-photos)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 73: No more weeknotes?!](https://kevingimbel.de/blog/week-73-no-more-weeknotes)
 - [Week 72: Helgoland](https://kevingimbel.de/blog/week-72-helgoland)
 - [Week 71: nothing](https://kevingimbel.de/blog/week-71-nothing)
-- [How I split my nginx config for readability and reusability](https://kevingimbel.de/blog/how-i-split-my-nginx-config-for-readability-and-reusability)
 
 ## 🔭 Latest releases I've contributed to
 
