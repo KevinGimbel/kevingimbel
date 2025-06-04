@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.13.0)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-73.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-73.1.0)) - Prometheus community Helm charts
 
 ## ⭐ Recent Stars
 
