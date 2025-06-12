@@ -29,6 +29,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [jeremyarnold/forevernotes](https://github.com/jeremyarnold/forevernotes) - looking for a markdown focused Forever Notes? 
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A data index and query language over Markdown files, for https://obsidian.md/.
@@ -38,5 +39,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [kepano/flexoki](https://github.com/kepano/flexoki) - An inky color scheme for prose and code.
 - [dbushell/zsp](https://github.com/dbushell/zsp) - ⚡ ZSP is my personal ZSH prompt written in Zig
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 
