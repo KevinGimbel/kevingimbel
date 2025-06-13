@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 80: digitalism_4eva](https://kevingimbel.de/blog/week-80-digitalism-4eva)
 - [Week 79: Dominion](https://kevingimbel.de/blog/week-79-dominion)
 - [Week 78: Sneezy](https://kevingimbel.de/blog/week-78-sneezy)
 - [TIL: create Alertmanager alerts with amtool](https://kevingimbel.de/blog/til-create-alertmanager-alerts-with-amtool)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 75: A little something](https://kevingimbel.de/blog/week-75-a-little-something)
 - [Week 74: I took some photos!](https://kevingimbel.de/blog/week-74-i-took-some-photos)
 - [Week 73: No more weeknotes?!](https://kevingimbel.de/blog/week-73-no-more-weeknotes)
-- [Week 72: Helgoland](https://kevingimbel.de/blog/week-72-helgoland)
 
 ## 🔭 Latest releases I've contributed to
 
