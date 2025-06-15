@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
 - [Week 80: digitalism_4eva](https://kevingimbel.de/blog/week-80-digitalism-4eva)
 - [Week 79: Dominion](https://kevingimbel.de/blog/week-79-dominion)
 - [Week 78: Sneezy](https://kevingimbel.de/blog/week-78-sneezy)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [I made a (daily) photo blog!](https://kevingimbel.de/blog/i-made-a-daily-photo-blog)
 - [Week 75: A little something](https://kevingimbel.de/blog/week-75-a-little-something)
 - [Week 74: I took some photos!](https://kevingimbel.de/blog/week-74-i-took-some-photos)
-- [Week 73: No more weeknotes?!](https://kevingimbel.de/blog/week-73-no-more-weeknotes)
 
 ## 🔭 Latest releases I've contributed to
 
