@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 81: missed](https://kevingimbel.de/blog/week-81-missed)
 - [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
 - [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
 - [Week 80: digitalism_4eva](https://kevingimbel.de/blog/week-80-digitalism-4eva)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 77: Working in and with Obsidian](https://kevingimbel.de/blog/week-77-working-in-and-with-obsidian)
 - [Week 76: Photos!](https://kevingimbel.de/blog/week-76-photos)
 - [I made a (daily) photo blog!](https://kevingimbel.de/blog/i-made-a-daily-photo-blog)
-- [Week 75: A little something](https://kevingimbel.de/blog/week-75-a-little-something)
 
 ## 🔭 Latest releases I've contributed to
 
