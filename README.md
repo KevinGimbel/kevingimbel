@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 82: lot of lots](https://kevingimbel.de/blog/week-82-lot-of-lots)
 - [Week 81: missed](https://kevingimbel.de/blog/week-81-missed)
 - [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
 - [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [TIL: create Alertmanager alerts with amtool](https://kevingimbel.de/blog/til-create-alertmanager-alerts-with-amtool)
 - [Week 77: Working in and with Obsidian](https://kevingimbel.de/blog/week-77-working-in-and-with-obsidian)
 - [Week 76: Photos!](https://kevingimbel.de/blog/week-76-photos)
-- [I made a (daily) photo blog!](https://kevingimbel.de/blog/i-made-a-daily-photo-blog)
 
 ## 🔭 Latest releases I've contributed to
 
