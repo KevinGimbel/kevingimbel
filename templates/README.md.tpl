@@ -1,7 +1,7 @@
 # Hello! Hallo! ¡Hola!
 
 I'm currently...
-- 👨‍💻 a DevOps Engineer at [AOE](https://aoe.com)
+- 👨‍💻 a Senior Platform Engineer at [AOE GmbH](https://aoe.com)
 - 📸 sharing my photography on [kevingimbel.de](https://kevingimbel.de/photography)
 
 You can find out more on [kevingimbel.de/now/](https://kevingimbel.de/now/)
