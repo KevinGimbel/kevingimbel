@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 84: Something&#39;s always happening](https://kevingimbel.de/blog/week-84-something-s-always-happening)
 - [Week 83: sports!](https://kevingimbel.de/blog/week-83-sports)
 - [Week 82: lot of lots](https://kevingimbel.de/blog/week-82-lot-of-lots)
 - [Week 81: missed](https://kevingimbel.de/blog/week-81-missed)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 79: Dominion](https://kevingimbel.de/blog/week-79-dominion)
 - [Week 78: Sneezy](https://kevingimbel.de/blog/week-78-sneezy)
 - [TIL: create Alertmanager alerts with amtool](https://kevingimbel.de/blog/til-create-alertmanager-alerts-with-amtool)
-- [Week 77: Working in and with Obsidian](https://kevingimbel.de/blog/week-77-working-in-and-with-obsidian)
 
 ## 🔭 Latest releases I've contributed to
 
