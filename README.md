@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
 - [Week 84: Something&#39;s always happening](https://kevingimbel.de/blog/week-84-something-s-always-happening)
 - [Week 83: sports!](https://kevingimbel.de/blog/week-83-sports)
 - [Week 82: lot of lots](https://kevingimbel.de/blog/week-82-lot-of-lots)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 80: digitalism_4eva](https://kevingimbel.de/blog/week-80-digitalism-4eva)
 - [Week 79: Dominion](https://kevingimbel.de/blog/week-79-dominion)
 - [Week 78: Sneezy](https://kevingimbel.de/blog/week-78-sneezy)
-- [TIL: create Alertmanager alerts with amtool](https://kevingimbel.de/blog/til-create-alertmanager-alerts-with-amtool)
 
 ## 🔭 Latest releases I've contributed to
 
