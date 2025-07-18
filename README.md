@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 85: Skateboards](https://kevingimbel.de/blog/week-85-skateboards)
 - [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
 - [Week 84: Something&#39;s always happening](https://kevingimbel.de/blog/week-84-something-s-always-happening)
 - [Week 83: sports!](https://kevingimbel.de/blog/week-83-sports)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
 - [Week 80: digitalism_4eva](https://kevingimbel.de/blog/week-80-digitalism-4eva)
 - [Week 79: Dominion](https://kevingimbel.de/blog/week-79-dominion)
-- [Week 78: Sneezy](https://kevingimbel.de/blog/week-78-sneezy)
 
 ## 🔭 Latest releases I've contributed to
 
