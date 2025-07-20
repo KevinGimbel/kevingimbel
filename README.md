@@ -15,13 +15,13 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 85: Skateboards](https://kevingimbel.de/blog/week-85-skateboards)
 - [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
 - [Week 84: Something&#39;s always happening](https://kevingimbel.de/blog/week-84-something-s-always-happening)
+- [My Raspberry Pi 5 setup](https://kevingimbel.de/blog/my-raspberry-pi-5-setup)
 - [Week 83: sports!](https://kevingimbel.de/blog/week-83-sports)
 - [Week 82: lot of lots](https://kevingimbel.de/blog/week-82-lot-of-lots)
 - [Week 81: missed](https://kevingimbel.de/blog/week-81-missed)
 - [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
 - [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
 - [Week 80: digitalism_4eva](https://kevingimbel.de/blog/week-80-digitalism-4eva)
-- [Week 79: Dominion](https://kevingimbel.de/blog/week-79-dominion)
 
 ## 🔭 Latest releases I've contributed to
 
