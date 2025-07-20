@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.1)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.10.1)) - Prometheus community Helm charts
 
 ## ⭐ Recent Stars
 
