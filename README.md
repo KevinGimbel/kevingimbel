@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 86: Sovereign tech](https://kevingimbel.de/blog/week-86-sovereign-tech)
 - [Week 85: Skateboards](https://kevingimbel.de/blog/week-85-skateboards)
 - [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
 - [Week 84: Something&#39;s always happening](https://kevingimbel.de/blog/week-84-something-s-always-happening)
@@ -21,11 +22,10 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 81: missed](https://kevingimbel.de/blog/week-81-missed)
 - [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
 - [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
-- [Week 80: digitalism_4eva](https://kevingimbel.de/blog/week-80-digitalism-4eva)
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.13.0)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.14.0)) - Prometheus community Helm charts
 
 ## ⭐ Recent Stars
 
