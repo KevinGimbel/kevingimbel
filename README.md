@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.2.0)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.10.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.10.3)) - Prometheus community Helm charts
 
 ## ⭐ Recent Stars
 
