@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 87: Baldur&#39;s Gate Act 3](https://kevingimbel.de/blog/week-87-baldur-s-gate-act-3)
 - [Week 86: Sovereign tech](https://kevingimbel.de/blog/week-86-sovereign-tech)
 - [Week 85: Skateboards](https://kevingimbel.de/blog/week-85-skateboards)
 - [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 82: lot of lots](https://kevingimbel.de/blog/week-82-lot-of-lots)
 - [Week 81: missed](https://kevingimbel.de/blog/week-81-missed)
 - [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
-- [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
 
 ## 🔭 Latest releases I've contributed to
 
