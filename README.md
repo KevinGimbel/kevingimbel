@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 90: Back in the office](https://kevingimbel.de/blog/week-90-back-in-the-office)
 - [Week 89: Offline time](https://kevingimbel.de/blog/week-89-offline-time)
 - [Week 88: Techno in a New York Warehouse](https://kevingimbel.de/blog/week-88-techno-in-a-new-york-warehouse)
 - [Week 87: Baldur&#39;s Gate Act 3](https://kevingimbel.de/blog/week-87-baldur-s-gate-act-3)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 84: Something&#39;s always happening](https://kevingimbel.de/blog/week-84-something-s-always-happening)
 - [My Raspberry Pi 5 setup](https://kevingimbel.de/blog/my-raspberry-pi-5-setup)
 - [Week 83: sports!](https://kevingimbel.de/blog/week-83-sports)
-- [Week 82: lot of lots](https://kevingimbel.de/blog/week-82-lot-of-lots)
 
 ## 🔭 Latest releases I've contributed to
 
