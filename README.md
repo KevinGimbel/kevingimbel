@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 92: Alternatives](https://kevingimbel.de/blog/week-92-alternatives)
 - [Week 91: Lots of Love](https://kevingimbel.de/blog/week-91-lots-of-love)
 - [Week 90: Back in the office](https://kevingimbel.de/blog/week-90-back-in-the-office)
 - [Week 89: Offline time](https://kevingimbel.de/blog/week-89-offline-time)
@@ -20,7 +21,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 86: Sovereign tech](https://kevingimbel.de/blog/week-86-sovereign-tech)
 - [Week 85: Skateboards](https://kevingimbel.de/blog/week-85-skateboards)
 - [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
-- [Week 84: Something&#39;s always happening](https://kevingimbel.de/blog/week-84-something-s-always-happening)
 - [My Raspberry Pi 5 setup](https://kevingimbel.de/blog/my-raspberry-pi-5-setup)
 
 ## 🔭 Latest releases I've contributed to
