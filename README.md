@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.37.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.37.0)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.27](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.27)) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.41.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.41.0)) - A command-line interface to manage STACKIT resources
 
 ## ⭐ Recent Stars
