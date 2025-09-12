@@ -25,14 +25,14 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.2)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.17.0)) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.42.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.42.0)) - A command-line interface to manage STACKIT resources
 
 ## ⭐ Recent Stars
 
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources
-- [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator
+- [kubernetes-purgatory/kro](https://github.com/kubernetes-purgatory/kro) - kro | Kube Resource Orchestrator
 - [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.  
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
