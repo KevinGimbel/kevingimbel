@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 95: something](https://kevingimbel.de/blog/week-95-something)
 - [Week 94: Snake!](https://kevingimbel.de/blog/week-94-snake)
 - [Week 93: Container Days Hamburg](https://kevingimbel.de/blog/week-93-container-days-hamburg)
 - [I was on over/under](https://kevingimbel.de/blog/i-was-on-over-under)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 89: Offline time](https://kevingimbel.de/blog/week-89-offline-time)
 - [Week 88: Techno in a New York Warehouse](https://kevingimbel.de/blog/week-88-techno-in-a-new-york-warehouse)
 - [Week 87: Baldur&#39;s Gate Act 3](https://kevingimbel.de/blog/week-87-baldur-s-gate-act-3)
-- [Week 86: Sovereign tech](https://kevingimbel.de/blog/week-86-sovereign-tech)
 
 ## 🔭 Latest releases I've contributed to
 
