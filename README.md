@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 98: lots of lots, again](https://kevingimbel.de/blog/week-98-lots-of-lots-again)
 - [Week 97: short vacation](https://kevingimbel.de/blog/week-97-short-vacation)
 - [Week 96: Birthday sparkle](https://kevingimbel.de/blog/week-96-birthday-sparkle)
 - [Week 95: something](https://kevingimbel.de/blog/week-95-something)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 92: Alternatives](https://kevingimbel.de/blog/week-92-alternatives)
 - [Week 91: Lots of Love](https://kevingimbel.de/blog/week-91-lots-of-love)
 - [Week 90: Back in the office](https://kevingimbel.de/blog/week-90-back-in-the-office)
-- [Week 89: Offline time](https://kevingimbel.de/blog/week-89-offline-time)
 
 ## 🔭 Latest releases I've contributed to
 
