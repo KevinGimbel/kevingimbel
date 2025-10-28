@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Kirby Admin Bar plugin](https://kevingimbel.de/blog/kirby-admin-bar-plugin)
 - [Week 99: edm](https://kevingimbel.de/blog/week-99-edm)
 - [Week 98: lots of lots, again](https://kevingimbel.de/blog/week-98-lots-of-lots-again)
 - [Week 97: short vacation](https://kevingimbel.de/blog/week-97-short-vacation)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 93: Container Days Hamburg](https://kevingimbel.de/blog/week-93-container-days-hamburg)
 - [I was on over/under](https://kevingimbel.de/blog/i-was-on-over-under)
 - [Week 92: Alternatives](https://kevingimbel.de/blog/week-92-alternatives)
-- [Week 91: Lots of Love](https://kevingimbel.de/blog/week-91-lots-of-love)
 
 ## 🔭 Latest releases I've contributed to
 
