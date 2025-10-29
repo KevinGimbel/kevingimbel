@@ -31,6 +31,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [t2linux/fedora-iso](https://github.com/t2linux/fedora-iso) - ISO for t2linux fedora.
 - [dtomasi/zsh-lazy-env](https://github.com/dtomasi/zsh-lazy-env) - Smart, directory-scoped environment variable management for zsh
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar
 - [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
@@ -40,5 +41,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn&#39;t sacrifice on its looks.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern &amp; Opinionated Linux
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources
 
