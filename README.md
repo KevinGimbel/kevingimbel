@@ -25,8 +25,8 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.2.0)) - Prometheus community Helm charts
 - [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) ([milvus-operator-1.3.2](https://github.com/zilliztech/milvus-operator/releases/tag/milvus-operator-1.3.2)) - The Kubernetes Operator of Milvus. 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.44.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.44.0)) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.46.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.46.0)) - A command-line interface to manage STACKIT resources
 
 ## ⭐ Recent Stars
