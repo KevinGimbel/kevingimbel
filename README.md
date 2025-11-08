@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 101: Deezer Party](https://kevingimbel.de/blog/week-101-deezer-party)
 - [Week 100: Rotz](https://kevingimbel.de/blog/week-100-rotz)
 - [Kirby Admin Bar plugin](https://kevingimbel.de/blog/kirby-admin-bar-plugin)
 - [Week 99: edm](https://kevingimbel.de/blog/week-99-edm)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 95: something](https://kevingimbel.de/blog/week-95-something)
 - [Week 94: Snake!](https://kevingimbel.de/blog/week-94-snake)
 - [Week 93: Container Days Hamburg](https://kevingimbel.de/blog/week-93-container-days-hamburg)
-- [I was on over/under](https://kevingimbel.de/blog/i-was-on-over-under)
 
 ## 🔭 Latest releases I've contributed to
 
