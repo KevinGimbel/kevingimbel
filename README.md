@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 103: nix again](https://kevingimbel.de/blog/week-103-nix-again)
 - [Week 102: Gardening](https://kevingimbel.de/blog/week-102-gardening)
 - [Week 101: Deezer Party](https://kevingimbel.de/blog/week-101-deezer-party)
 - [Week 100: Rotz](https://kevingimbel.de/blog/week-100-rotz)
@@ -21,11 +22,10 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 97: short vacation](https://kevingimbel.de/blog/week-97-short-vacation)
 - [Week 96: Birthday sparkle](https://kevingimbel.de/blog/week-96-birthday-sparkle)
 - [Week 95: something](https://kevingimbel.de/blog/week-95-something)
-- [Week 94: Snake!](https://kevingimbel.de/blog/week-94-snake)
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.21.0)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.7.1)) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.48.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.48.0)) - A command-line interface to manage STACKIT resources
 - [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) ([v1.3.3](https://github.com/zilliztech/milvus-operator/releases/tag/v1.3.3)) - The Kubernetes Operator of Milvus. 
 
