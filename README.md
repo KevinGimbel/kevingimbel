@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 104: 2 years of weeknotes](https://kevingimbel.de/blog/week-104-2-years-of-weeknotes)
 - [Week 103: nix again](https://kevingimbel.de/blog/week-103-nix-again)
 - [Week 102: Gardening](https://kevingimbel.de/blog/week-102-gardening)
 - [Week 101: Deezer Party](https://kevingimbel.de/blog/week-101-deezer-party)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 98: lots of lots, again](https://kevingimbel.de/blog/week-98-lots-of-lots-again)
 - [Week 97: short vacation](https://kevingimbel.de/blog/week-97-short-vacation)
 - [Week 96: Birthday sparkle](https://kevingimbel.de/blog/week-96-birthday-sparkle)
-- [Week 95: something](https://kevingimbel.de/blog/week-95-something)
 
 ## 🔭 Latest releases I've contributed to
 
