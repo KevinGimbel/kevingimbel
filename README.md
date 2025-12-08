@@ -32,6 +32,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [signageos/vscode-sops](https://github.com/signageos/vscode-sops) - 
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [Governikus/AusweisApp](https://github.com/Governikus/AusweisApp) - Der offizielle eID-Client des Bundes.
 - [ligurio/awesome-openbsd](https://github.com/ligurio/awesome-openbsd) - The curated list of awesome OpenBSD resources
@@ -41,5 +42,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [dtomasi/zsh-lazy-env](https://github.com/dtomasi/zsh-lazy-env) - Smart, directory-scoped environment variable management for zsh
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar
 - [gardener/gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
-- [Cliffback/macos-desktop-environment](https://github.com/Cliffback/macos-desktop-environment) - Sketchybar &#43; Aerospace &#43; Catppuccin
 
