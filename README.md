@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 106: there is no I in Team](https://kevingimbel.de/blog/week-106-there-is-no-i-in-team)
 - [Week 105: I&#39;m hooked on nix](https://kevingimbel.de/blog/week-105-i-m-hooked-on-nix)
 - [Week 104: 2 years of weeknotes](https://kevingimbel.de/blog/week-104-2-years-of-weeknotes)
 - [Week 103: nix again](https://kevingimbel.de/blog/week-103-nix-again)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Kirby Admin Bar plugin](https://kevingimbel.de/blog/kirby-admin-bar-plugin)
 - [Week 99: edm](https://kevingimbel.de/blog/week-99-edm)
 - [Week 98: lots of lots, again](https://kevingimbel.de/blog/week-98-lots-of-lots-again)
-- [Week 97: short vacation](https://kevingimbel.de/blog/week-97-short-vacation)
 
 ## 🔭 Latest releases I've contributed to
 
