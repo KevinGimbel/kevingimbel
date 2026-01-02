@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.0.0)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.10.0)) - Prometheus community Helm charts
 - [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v5.1.1](https://github.com/KevinGimbel/mktoc/releases/tag/v5.1.1)) - 🦀 Markdown Table of Content generator
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.50.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.50.0)) - A command-line interface to manage STACKIT resources
 - [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) ([v1.3.5](https://github.com/zilliztech/milvus-operator/releases/tag/v1.3.5)) - The Kubernetes Operator of Milvus. 
