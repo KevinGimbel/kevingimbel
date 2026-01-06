@@ -25,7 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.4.0)) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.11.1)) - Prometheus community Helm charts
 - [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v5.1.1](https://github.com/KevinGimbel/mktoc/releases/tag/v5.1.1)) - 🦀 Markdown Table of Content generator
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.50.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.50.0)) - A command-line interface to manage STACKIT resources
 - [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) ([v1.3.5](https://github.com/zilliztech/milvus-operator/releases/tag/v1.3.5)) - The Kubernetes Operator of Milvus. 
@@ -34,6 +34,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [signageos/vscode-sops](https://github.com/signageos/vscode-sops) - 
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
@@ -43,5 +44,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
 - [t2linux/fedora-iso](https://github.com/t2linux/fedora-iso) - ISO for t2linux fedora.
 - [dtomasi/zsh-lazy-env](https://github.com/dtomasi/zsh-lazy-env) - Smart, directory-scoped environment variable management for zsh
-- [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar
 
