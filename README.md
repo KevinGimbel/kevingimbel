@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 109: life is good](https://kevingimbel.de/blog/week-109-life-is-good)
 - [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
 - [Week 108: X-mas](https://kevingimbel.de/blog/week-108-x-mas)
 - [Week 107: Streaks](https://kevingimbel.de/blog/week-107-streaks)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 103: nix again](https://kevingimbel.de/blog/week-103-nix-again)
 - [Week 102: Gardening](https://kevingimbel.de/blog/week-102-gardening)
 - [Week 101: Deezer Party](https://kevingimbel.de/blog/week-101-deezer-party)
-- [Week 100: Rotz](https://kevingimbel.de/blog/week-100-rotz)
 
 ## 🔭 Latest releases I've contributed to
 
