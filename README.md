@@ -34,6 +34,8 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
+- [spreadshirt/backstage-plugin-s3](https://github.com/spreadshirt/backstage-plugin-s3) - An S3 Viewer plugin for Backstage! 🪣
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [signageos/vscode-sops](https://github.com/signageos/vscode-sops) - 
@@ -42,6 +44,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [ligurio/awesome-openbsd](https://github.com/ligurio/awesome-openbsd) - The curated list of awesome OpenBSD resources
 - [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 - [cheeaun/phanpy](https://github.com/cheeaun/phanpy) - A minimalistic opinionated Mastodon web client
-- [t2linux/fedora-iso](https://github.com/t2linux/fedora-iso) - ISO for t2linux fedora.
-- [dtomasi/zsh-lazy-env](https://github.com/dtomasi/zsh-lazy-env) - Smart, directory-scoped environment variable management for zsh
 
