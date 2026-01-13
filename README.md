@@ -2,7 +2,7 @@
 
 I'm currently...
 - 👨‍💻 a Senior Platform Engineer at [AOE GmbH](https://aoe.com)
-- 📸 sharing my photography on [kevingimbel.de](https://kevingimbel.de/photography)
+- 📸 sharing my photography on [kevingimbel.de/photoblog](https://kevingimbel.de/photoblog/)
 
 You can find out more on [kevingimbel.de/now/](https://kevingimbel.de/now/)
 
