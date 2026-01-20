@@ -34,6 +34,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [ismartcoding/e-ink-viewable](https://github.com/ismartcoding/e-ink-viewable) - A chrome extension to make all websites viewable in e-ink screen, convert dark theme to light theme automatically.电子墨水屏显示器Chrome插件，网页黑底白字自动转白底黑字。
 - [AaronErhardt/tuxedo-rs](https://github.com/AaronErhardt/tuxedo-rs) - Rust libraries for interacting with hardware from TUXEDO Computers
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [spreadshirt/backstage-plugin-s3](https://github.com/spreadshirt/backstage-plugin-s3) - An S3 Viewer plugin for Backstage! 🪣
@@ -43,5 +44,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [Governikus/AusweisApp](https://github.com/Governikus/AusweisApp) - Der offizielle eID-Client des Bundes.
 - [ligurio/awesome-openbsd](https://github.com/ligurio/awesome-openbsd) - The curated list of awesome OpenBSD resources
-- [sayyadirfanali/Myna](https://github.com/sayyadirfanali/Myna) - monospace typeface designed for symbol-rich programming
 
