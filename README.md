@@ -35,6 +35,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party.
 - [ismartcoding/e-ink-viewable](https://github.com/ismartcoding/e-ink-viewable) - A chrome extension to make all websites viewable in e-ink screen, convert dark theme to light theme automatically.电子墨水屏显示器Chrome插件，网页黑底白字自动转白底黑字。
 - [AaronErhardt/tuxedo-rs](https://github.com/AaronErhardt/tuxedo-rs) - Rust libraries for interacting with hardware from TUXEDO Computers
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
@@ -44,5 +45,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [signageos/vscode-sops](https://github.com/signageos/vscode-sops) - 
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [Governikus/AusweisApp](https://github.com/Governikus/AusweisApp) - Der offizielle eID-Client des Bundes.
-- [ligurio/awesome-openbsd](https://github.com/ligurio/awesome-openbsd) - The curated list of awesome OpenBSD resources
 
