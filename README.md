@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 111: tired](https://kevingimbel.de/blog/week-111-tired)
 - [Week 110: Photobloggin&#39;](https://kevingimbel.de/blog/week-110-photobloggin)
 - [Week 109: life is good](https://kevingimbel.de/blog/week-109-life-is-good)
 - [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Week 105: I&#39;m hooked on nix](https://kevingimbel.de/blog/week-105-i-m-hooked-on-nix)
 - [Week 104: 2 years of weeknotes](https://kevingimbel.de/blog/week-104-2-years-of-weeknotes)
 - [Week 103: nix again](https://kevingimbel.de/blog/week-103-nix-again)
-- [Week 102: Gardening](https://kevingimbel.de/blog/week-102-gardening)
 
 ## 🔭 Latest releases I've contributed to
 
