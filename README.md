@@ -13,15 +13,15 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 🧑‍💻 **Blog:**
 
 - [TIL: Access Kubernetes API through a SSH jump host](https://kevingimbel.de/blog/til-access-kubernetes-api-through-a-ssh-jump-host)
-- [Week 111: tired](https://kevingimbel.de/blog/week-111-tired)
-- [Week 110: Photobloggin&#39;](https://kevingimbel.de/blog/week-110-photobloggin)
-- [Week 109: life is good](https://kevingimbel.de/blog/week-109-life-is-good)
 - [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
-- [Week 108: X-mas](https://kevingimbel.de/blog/week-108-x-mas)
-- [Week 107: Streaks](https://kevingimbel.de/blog/week-107-streaks)
-- [Week 106: there is no I in Team](https://kevingimbel.de/blog/week-106-there-is-no-i-in-team)
-- [Week 105: I&#39;m hooked on nix](https://kevingimbel.de/blog/week-105-i-m-hooked-on-nix)
-- [Week 104: 2 years of weeknotes](https://kevingimbel.de/blog/week-104-2-years-of-weeknotes)
+- [Kirby Admin Bar plugin](https://kevingimbel.de/blog/kirby-admin-bar-plugin)
+- [I was on over/under](https://kevingimbel.de/blog/i-was-on-over-under)
+- [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
+- [My Raspberry Pi 5 setup](https://kevingimbel.de/blog/my-raspberry-pi-5-setup)
+- [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
+- [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
+- [TIL: create Alertmanager alerts with amtool](https://kevingimbel.de/blog/til-create-alertmanager-alerts-with-amtool)
+- [I made a (daily) photo blog!](https://kevingimbel.de/blog/i-made-a-daily-photo-blog)
 
 ## 🔭 Latest releases I've contributed to
 
