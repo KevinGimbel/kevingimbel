@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 112: punk&#39;s not dead](https://kevingimbel.de/blog/week-112-punk-s-not-dead)
 - [TIL: Access Kubernetes API through a SSH jump host](https://kevingimbel.de/blog/til-access-kubernetes-api-through-a-ssh-jump-host)
 - [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
 - [Kirby Admin Bar plugin](https://kevingimbel.de/blog/kirby-admin-bar-plugin)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
 - [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
 - [TIL: create Alertmanager alerts with amtool](https://kevingimbel.de/blog/til-create-alertmanager-alerts-with-amtool)
-- [I made a (daily) photo blog!](https://kevingimbel.de/blog/i-made-a-daily-photo-blog)
 
 ## 🔭 Latest releases I've contributed to
 
