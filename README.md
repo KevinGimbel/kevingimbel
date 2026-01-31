@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [XBox cleanup 🧹](https://kevingimbel.de/blog/xbox-cleanup)
 - [Week 112: punk&#39;s not dead](https://kevingimbel.de/blog/week-112-punk-s-not-dead)
 - [TIL: Access Kubernetes API through a SSH jump host](https://kevingimbel.de/blog/til-access-kubernetes-api-through-a-ssh-jump-host)
 - [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [My Raspberry Pi 5 setup](https://kevingimbel.de/blog/my-raspberry-pi-5-setup)
 - [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
 - [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
-- [TIL: create Alertmanager alerts with amtool](https://kevingimbel.de/blog/til-create-alertmanager-alerts-with-amtool)
 
 ## 🔭 Latest releases I've contributed to
 
