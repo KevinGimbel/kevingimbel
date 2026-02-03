@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Signing git commits - with SSH keys!](https://kevingimbel.de/blog/signing-git-commits-with-ssh-keys)
 - [XBox cleanup 🧹](https://kevingimbel.de/blog/xbox-cleanup)
 - [Week 112: punk&#39;s not dead](https://kevingimbel.de/blog/week-112-punk-s-not-dead)
 - [TIL: Access Kubernetes API through a SSH jump host](https://kevingimbel.de/blog/til-access-kubernetes-api-through-a-ssh-jump-host)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
 - [My Raspberry Pi 5 setup](https://kevingimbel.de/blog/my-raspberry-pi-5-setup)
 - [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
-- [Meeting of Styles 2025](https://kevingimbel.de/blog/meeting-of-styles-2025)
 
 ## 🔭 Latest releases I've contributed to
 
@@ -35,6 +35,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config) - NixOS, Nix-Darwin and home-manager configurations.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
@@ -44,5 +45,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [cloudlena/s3manager](https://github.com/cloudlena/s3manager) - A Web GUI for your S3 buckets
 - [spreadshirt/backstage-plugin-s3](https://github.com/spreadshirt/backstage-plugin-s3) - An S3 Viewer plugin for Backstage! 🪣
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 
