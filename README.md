@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 113: AOM](https://kevingimbel.de/blog/week-113-aom)
 - [Signing git commits - with SSH keys!](https://kevingimbel.de/blog/signing-git-commits-with-ssh-keys)
 - [XBox cleanup 🧹](https://kevingimbel.de/blog/xbox-cleanup)
 - [Week 112: punk&#39;s not dead](https://kevingimbel.de/blog/week-112-punk-s-not-dead)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [I was on over/under](https://kevingimbel.de/blog/i-was-on-over-under)
 - [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
 - [My Raspberry Pi 5 setup](https://kevingimbel.de/blog/my-raspberry-pi-5-setup)
-- [Cleaning up old terraform files](https://kevingimbel.de/blog/cleaning-up-old-terraform-files)
 
 ## 🔭 Latest releases I've contributed to
 
