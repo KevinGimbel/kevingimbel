@@ -25,8 +25,8 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.1.0)) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.54.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.54.0)) - A command-line interface to manage STACKIT resources
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.0.2)) - Prometheus community Helm charts
 - [j178/prek](https://github.com/j178/prek) ([v0.3.3](https://github.com/j178/prek/releases/tag/v0.3.3)) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.54.2](https://github.com/tauri-apps/wry/releases/tag/wry-v0.54.2)) - Cross-platform WebView library in Rust for Tauri.
 - [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) ([v1.3.6](https://github.com/zilliztech/milvus-operator/releases/tag/v1.3.6)) - The Kubernetes Operator of Milvus. 
