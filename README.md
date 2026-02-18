@@ -25,6 +25,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
+- [stackitcloud/machine-controller-manager-provider-stackit](https://github.com/stackitcloud/machine-controller-manager-provider-stackit) ([v0.4.0](https://github.com/stackitcloud/machine-controller-manager-provider-stackit/releases/tag/v0.4.0)) - The official out-of-tree Kubernetes Machine Controller Manager for STACKIT
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.54.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.54.1)) - A command-line interface to manage STACKIT resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.1.0)) - Prometheus community Helm charts
 - [j178/prek](https://github.com/j178/prek) ([v0.3.3](https://github.com/j178/prek/releases/tag/v0.3.3)) - ⚡ Better `pre-commit`, re-engineered in Rust
