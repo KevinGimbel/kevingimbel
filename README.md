@@ -14,14 +14,14 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 - [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
 - [A Random List of Silly Things I Love](https://kevingimbel.de/blog/a-random-list-of-silly-things-i-love)
-- [Week 114: another week already?!](https://kevingimbel.de/blog/week-114-another-week-already)
 - [Signing git commits - with SSH keys!](https://kevingimbel.de/blog/signing-git-commits-with-ssh-keys)
 - [XBox cleanup 🧹](https://kevingimbel.de/blog/xbox-cleanup)
-- [Week 112: punk&#39;s not dead](https://kevingimbel.de/blog/week-112-punk-s-not-dead)
 - [TIL: Access Kubernetes API through a SSH jump host](https://kevingimbel.de/blog/til-access-kubernetes-api-through-a-ssh-jump-host)
 - [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
 - [Kirby Admin Bar plugin](https://kevingimbel.de/blog/kirby-admin-bar-plugin)
 - [I was on over/under](https://kevingimbel.de/blog/i-was-on-over-under)
+- [Kirby backups with restic and Hetzner S3](https://kevingimbel.de/blog/kirby-backups-with-restic-and-hetzner-s3)
+- [My Raspberry Pi 5 setup](https://kevingimbel.de/blog/my-raspberry-pi-5-setup)
 
 ## 🔭 Latest releases I've contributed to
 
