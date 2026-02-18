@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
 - [A Random List of Silly Things I Love](https://kevingimbel.de/blog/a-random-list-of-silly-things-i-love)
 - [Week 114: another week already?!](https://kevingimbel.de/blog/week-114-another-week-already)
 - [Signing git commits - with SSH keys!](https://kevingimbel.de/blog/signing-git-commits-with-ssh-keys)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
 - [Kirby Admin Bar plugin](https://kevingimbel.de/blog/kirby-admin-bar-plugin)
 - [I was on over/under](https://kevingimbel.de/blog/i-was-on-over-under)
-- [My Raspberry Pi 5 setup](https://kevingimbel.de/blog/my-raspberry-pi-5-setup)
 
 ## 🔭 Latest releases I've contributed to
 
