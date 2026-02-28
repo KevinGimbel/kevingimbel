@@ -12,7 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
-- [Week 115: *loud noises*](https://kevingimbel.de/blog/week-115-loud-noises)
+- [Week 115: Fallout again](https://kevingimbel.de/blog/week-115-fallout-again)
 - [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
 - [A Random List of Silly Things I Love](https://kevingimbel.de/blog/a-random-list-of-silly-things-i-love)
 - [Signing git commits - with SSH keys!](https://kevingimbel.de/blog/signing-git-commits-with-ssh-keys)
