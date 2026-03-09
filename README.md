@@ -25,10 +25,10 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## 🔭 Latest releases I've contributed to
 
+- [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.54.3](https://github.com/tauri-apps/wry/releases/tag/wry-v0.54.3)) - Cross-platform WebView library in Rust for Tauri.
 - [j178/prek](https://github.com/j178/prek) ([v0.3.5](https://github.com/j178/prek/releases/tag/v0.3.5)) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.2)) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.55.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.55.0)) - A command-line interface to manage STACKIT resources
-- [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.54.2](https://github.com/tauri-apps/wry/releases/tag/wry-v0.54.2)) - Cross-platform WebView library in Rust for Tauri.
 - [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) ([v1.3.6](https://github.com/zilliztech/milvus-operator/releases/tag/v1.3.6)) - The Kubernetes Operator of Milvus. 
 - [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v5.1.1](https://github.com/KevinGimbel/mktoc/releases/tag/v5.1.1)) - 🦀 Markdown Table of Content generator
 - [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) ([index](https://github.com/cashapp/hermit-packages/releases/tag/index)) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
