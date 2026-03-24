@@ -35,7 +35,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
-- [bnomei/skills](https://github.com/bnomei/skills) - 
 - [ing-bank/backstage-community-plugins](https://github.com/ing-bank/backstage-community-plugins) - Community plugins for Backstage
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
@@ -45,4 +44,5 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party.
+- [ismartcoding/e-ink-viewable](https://github.com/ismartcoding/e-ink-viewable) - A chrome extension to make all websites viewable in e-ink screen, convert dark theme to light theme automatically.电子墨水屏显示器Chrome插件，网页黑底白字自动转白底黑字。
 
