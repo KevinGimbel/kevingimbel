@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 120: Moving #1](https://kevingimbel.de/blog/week-120-moving-1)
 - [Week 119: KubeCon](https://kevingimbel.de/blog/week-119-kubecon)
 - [New analog pictures!](https://kevingimbel.de/blog/new-analog-pictures-2025)
 - [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [TIL: Access Kubernetes API through a SSH jump host](https://kevingimbel.de/blog/til-access-kubernetes-api-through-a-ssh-jump-host)
 - [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
 - [Kirby Admin Bar plugin](https://kevingimbel.de/blog/kirby-admin-bar-plugin)
-- [I was on over/under](https://kevingimbel.de/blog/i-was-on-over-under)
 
 ## 🔭 Latest releases I've contributed to
 
