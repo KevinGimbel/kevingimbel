@@ -12,8 +12,8 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Week 122: Being over 30](https://kevingimbel.de/blog/week-122-being-over-30)
 - [Breaking my streak ⛓️‍💥](https://kevingimbel.de/blog/breaking-my-streak)
-- [Week 121: Painting!](https://kevingimbel.de/blog/week-121-painting)
 - [New analog pictures!](https://kevingimbel.de/blog/new-analog-pictures-2025)
 - [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
 - [A Random List of Silly Things I Love](https://kevingimbel.de/blog/a-random-list-of-silly-things-i-love)
