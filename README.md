@@ -12,6 +12,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 🧑‍💻 **Blog:**
 
+- [Essential browser plugins](https://kevingimbel.de/blog/essential-browser-plugins)
 - [Making time](https://kevingimbel.de/blog/making-time)
 - [Breaking my streak ⛓️‍💥](https://kevingimbel.de/blog/breaking-my-streak)
 - [New analog pictures!](https://kevingimbel.de/blog/new-analog-pictures-2025)
@@ -21,7 +22,6 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [XBox cleanup 🧹](https://kevingimbel.de/blog/xbox-cleanup)
 - [TIL: Access Kubernetes API through a SSH jump host](https://kevingimbel.de/blog/til-access-kubernetes-api-through-a-ssh-jump-host)
 - [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
-- [Kirby Admin Bar plugin](https://kevingimbel.de/blog/kirby-admin-bar-plugin)
 
 ## 🔭 Latest releases I've contributed to
 
