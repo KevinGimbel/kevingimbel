@@ -36,6 +36,7 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 
 ## ⭐ Recent Stars
 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [ing-bank/backstage-community-plugins](https://github.com/ing-bank/backstage-community-plugins) - Community plugins for Backstage
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
@@ -45,5 +46,4 @@ If you want to contact to me, feel free to hit me up on the fediverse at [@Kevin
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth) - The tiniest authentication and authorization server you have ever seen.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
-- [sevensolutions/traefik-oidc-auth](https://github.com/sevensolutions/traefik-oidc-auth) - 🧩 A traefik Plugin for securing the upstream service with OpenID Connect acting as a relying party.
 
