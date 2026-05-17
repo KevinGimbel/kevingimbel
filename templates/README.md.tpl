@@ -2,6 +2,7 @@
 
 I'm currently...
 - 👨‍💻 a Senior Platform Engineer at [AOE Group](https://aoe.com)
+- 👨‍💻 leading the Support & Operations Team in the [kloudease](https://kloudease.com) project
 - 📸 sharing my photography on [kevingimbel.de/photoblog](https://kevingimbel.de/photoblog/)
 
 You can find out more on [kevingimbel.de/now/](https://kevingimbel.de/now/)
