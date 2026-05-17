@@ -1,12 +1,12 @@
 # Hello! Hallo! ¡Hola!
 
 I'm currently...
-- 👨‍💻 a Senior Platform Engineer at [AOE GmbH](https://aoe.com)
+- 👨‍💻 a Senior Platform Engineer at [AOE Group](https://aoe.com)
 - 📸 sharing my photography on [kevingimbel.de/photoblog](https://kevingimbel.de/photoblog/)
 
 You can find out more on [kevingimbel.de/now/](https://kevingimbel.de/now/)
 
-If you want to contact to me, feel free to hit me up on the fediverse at [@KevinGimbel@fosstodon.org](https://fosstodon.org/@KevinGimbel), on [Bluesky @kevin.gimbel.dev](https://bsky.app/profile/kevin.gimbel.dev) or on [LinkedIn](https://www.linkedin.com/in/kevingimbel/)!
+If you want to connect with me, feel free to hit me up on the fediverse at [@kevin@gimbel.dev](https://gimbel.dev/@kevin), on [Bluesky @kevin.gimbel.dev](https://bsky.app/profile/kevin.gimbel.dev) or on [LinkedIn](https://www.linkedin.com/in/kevingimbel/)!
 
 ## 🗞 The last things I published
 
