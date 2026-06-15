@@ -26,9 +26,9 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## 🔭 Latest releases I've contributed to
 
+- [j178/prek](https://github.com/j178/prek) ([v0.4.5](https://github.com/j178/prek/releases/tag/v0.4.5)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [perses/helm-charts](https://github.com/perses/helm-charts) ([perses-0.21.2](https://github.com/perses/helm-charts/releases/tag/perses-0.21.2)) - Perses helm chart
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.64.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.64.0)) - A command-line interface to manage STACKIT resources
-- [j178/prek](https://github.com/j178/prek) ([v0.4.4](https://github.com/j178/prek/releases/tag/v0.4.4)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.55.1](https://github.com/tauri-apps/wry/releases/tag/wry-v0.55.1)) - Cross-platform WebView library in Rust for Tauri.
 - [kcp-dev/kcp-operator](https://github.com/kcp-dev/kcp-operator) ([v0.7.2](https://github.com/kcp-dev/kcp-operator/releases/tag/v0.7.2)) - A Kubernetes operator to deploy and manage kcp instances.
 - [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) ([v1.3.6](https://github.com/zilliztech/milvus-operator/releases/tag/v1.3.6)) - The Kubernetes Operator of Milvus. 
