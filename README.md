@@ -13,6 +13,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 🧑‍💻 **Blog:**
 
+- [Weeknotes 2026-28: Arriving](https://kevingimbel.de/blog/weeknotes-2026-28-arriving)
 - [Essential browser plugins](https://kevingimbel.de/blog/essential-browser-plugins)
 - [Making time](https://kevingimbel.de/blog/making-time)
 - [Breaking my streak ⛓️‍💥](https://kevingimbel.de/blog/breaking-my-streak)
@@ -22,7 +23,6 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [Signing git commits - with SSH keys!](https://kevingimbel.de/blog/signing-git-commits-with-ssh-keys)
 - [XBox cleanup 🧹](https://kevingimbel.de/blog/xbox-cleanup)
 - [TIL: Access Kubernetes API through a SSH jump host](https://kevingimbel.de/blog/til-access-kubernetes-api-through-a-ssh-jump-host)
-- [2025 Wrapped](https://kevingimbel.de/blog/2025-wrapped)
 
 ## 🔭 Latest releases I've contributed to
 
