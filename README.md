@@ -26,7 +26,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## 🔭 Latest releases I've contributed to
 
-- [j178/prek](https://github.com/j178/prek) ([v0.4.9](https://github.com/j178/prek/releases/tag/v0.4.9)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
+- [j178/prek](https://github.com/j178/prek) ([v0.4.10](https://github.com/j178/prek/releases/tag/v0.4.10)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [kcp-dev/kcp-operator](https://github.com/kcp-dev/kcp-operator) ([v0.7.5](https://github.com/kcp-dev/kcp-operator/releases/tag/v0.7.5)) - A Kubernetes operator to deploy and manage kcp instances.
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.66.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.66.0)) - A command-line interface to manage STACKIT resources
 - [perses/helm-charts](https://github.com/perses/helm-charts) ([perses-0.22.0](https://github.com/perses/helm-charts/releases/tag/perses-0.22.0)) - Perses helm chart
