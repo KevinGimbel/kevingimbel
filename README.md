@@ -13,6 +13,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 🧑‍💻 **Blog:**
 
+- [Weeknotes 2026-29: Muskelkater again](https://kevingimbel.de/blog/weeknotes-2026-29-muskelkater-again)
 - [TIL: Get command history with timestamps in zsh](https://kevingimbel.de/blog/til-get-command-history-with-timestamps-in-zsh)
 - [Weeknotes 2026-28: Arriving](https://kevingimbel.de/blog/weeknotes-2026-28-arriving)
 - [Essential browser plugins](https://kevingimbel.de/blog/essential-browser-plugins)
@@ -22,7 +23,6 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
 - [A Random List of Silly Things I Love](https://kevingimbel.de/blog/a-random-list-of-silly-things-i-love)
 - [Signing git commits - with SSH keys!](https://kevingimbel.de/blog/signing-git-commits-with-ssh-keys)
-- [XBox cleanup 🧹](https://kevingimbel.de/blog/xbox-cleanup)
 
 ## 🔭 Latest releases I've contributed to
 
