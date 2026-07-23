@@ -37,6 +37,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## ⭐ Recent Stars
 
+- [medienbaecker/kirby-mastodon](https://github.com/medienbaecker/kirby-mastodon) - 
 - [MaggieAppleton/elves](https://github.com/MaggieAppleton/elves) - A local-first, canvas-based writing studio. Think spatially on an infinite canvas of cards while agents comment, dedupe, and reorder, but never write your prose.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [kj187/jarvis](https://github.com/kj187/jarvis) - Jarvis is an open source web frontend for Prometheus Alertmanager — interactive, realtime, and self-hosted.
@@ -46,5 +47,4 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free.
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 
