@@ -37,6 +37,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## ⭐ Recent Stars
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [medienbaecker/kirby-mastodon](https://github.com/medienbaecker/kirby-mastodon) - 
 - [MaggieAppleton/elves](https://github.com/MaggieAppleton/elves) - A local-first, canvas-based writing studio. Think spatially on an infinite canvas of cards while agents comment, dedupe, and reorder, but never write your prose.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
@@ -46,5 +47,4 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it&#39;s free.
 
