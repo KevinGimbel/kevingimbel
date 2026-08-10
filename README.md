@@ -15,7 +15,6 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 - [Weeknotes: 2026-32](https://kevingimbel.de/blog/weeknotes-2026-32)
 - [TIL: Get command history with timestamps in zsh](https://kevingimbel.de/blog/til-get-command-history-with-timestamps-in-zsh)
-- [Weeknotes 2026-28: Arriving](https://kevingimbel.de/blog/weeknotes-2026-28-arriving)
 - [Essential browser plugins](https://kevingimbel.de/blog/essential-browser-plugins)
 - [Making time](https://kevingimbel.de/blog/making-time)
 - [Breaking my streak ⛓️‍💥](https://kevingimbel.de/blog/breaking-my-streak)
@@ -23,11 +22,12 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
 - [A Random List of Silly Things I Love](https://kevingimbel.de/blog/a-random-list-of-silly-things-i-love)
 - [Signing git commits - with SSH keys!](https://kevingimbel.de/blog/signing-git-commits-with-ssh-keys)
+- [XBox cleanup 🧹](https://kevingimbel.de/blog/xbox-cleanup)
 
 ## 🔭 Latest releases I've contributed to
 
-- [perses/helm-charts](https://github.com/perses/helm-charts) ([perses-operator-0.5.0](https://github.com/perses/helm-charts/releases/tag/perses-operator-0.5.0)) - Perses helm chart
-- [j178/prek](https://github.com/j178/prek) ([v0.4.12](https://github.com/j178/prek/releases/tag/v0.4.12)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
+- [j178/prek](https://github.com/j178/prek) ([v0.4.13](https://github.com/j178/prek/releases/tag/v0.4.13)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
+- [perses/helm-charts](https://github.com/perses/helm-charts) ([perses-0.23.2](https://github.com/perses/helm-charts/releases/tag/perses-0.23.2)) - Perses helm chart
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.56.0](https://github.com/tauri-apps/wry/releases/tag/wry-v0.56.0)) - Cross-platform WebView library in Rust for Tauri.
 - [kcp-dev/kcp-operator](https://github.com/kcp-dev/kcp-operator) ([v0.7.5](https://github.com/kcp-dev/kcp-operator/releases/tag/v0.7.5)) - A Kubernetes operator to deploy and manage kcp instances.
 - [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) ([milvus-operator-1.3.7](https://github.com/zilliztech/milvus-operator/releases/tag/milvus-operator-1.3.7)) - The Kubernetes Operator of Milvus. 
