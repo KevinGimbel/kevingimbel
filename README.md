@@ -36,6 +36,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## ⭐ Recent Stars
 
+- [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [RazorfinOS-org/Razorfin](https://github.com/RazorfinOS-org/Razorfin) - Bazzite with Cosmic Desktop
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [medienbaecker/kirby-mastodon](https://github.com/medienbaecker/kirby-mastodon) - 
@@ -45,5 +46,4 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [balcsida/pi-provider-litellm](https://github.com/balcsida/pi-provider-litellm) - LiteLLM proxy provider extension for Pi
 - [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 
