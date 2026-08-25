@@ -36,6 +36,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## ⭐ Recent Stars
 
+- [gram-lang/gram](https://github.com/gram-lang/gram) - [MIRROR] Official mirror of the Gram markup language. Main repo &amp; contributions: https://git.gram-lang.org/gram-lang/gram
 - [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries&#39; flags.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [RazorfinOS-org/Razorfin](https://github.com/RazorfinOS-org/Razorfin) - Bazzite with Cosmic Desktop
@@ -45,5 +46,4 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [kj187/jarvis](https://github.com/kj187/jarvis) - Jarvis is an open source web frontend for Prometheus Alertmanager — interactive, realtime, and self-hosted.
 - [balcsida/pi-provider-litellm](https://github.com/balcsida/pi-provider-litellm) - LiteLLM proxy provider extension for Pi
-- [holzschu/a-shell](https://github.com/holzschu/a-shell) - A terminal for iOS, with multiple windows
 
