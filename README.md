@@ -26,8 +26,8 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## 🔭 Latest releases I've contributed to
 
+- [j178/prek](https://github.com/j178/prek) ([v0.5.3](https://github.com/j178/prek/releases/tag/v0.5.3)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.57.0](https://github.com/tauri-apps/wry/releases/tag/wry-v0.57.0)) - Cross-platform WebView library in Rust for Tauri.
-- [j178/prek](https://github.com/j178/prek) ([v0.5.2](https://github.com/j178/prek/releases/tag/v0.5.2)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) ([milvus-operator-1.3.9](https://github.com/zilliztech/milvus-operator/releases/tag/milvus-operator-1.3.9)) - The Kubernetes Operator of Milvus. 
 - [kcp-dev/kcp-operator](https://github.com/kcp-dev/kcp-operator) ([v0.9.0](https://github.com/kcp-dev/kcp-operator/releases/tag/v0.9.0)) - A Kubernetes operator to deploy and manage kcp instances.
 - [perses/helm-charts](https://github.com/perses/helm-charts) ([perses-0.23.2](https://github.com/perses/helm-charts/releases/tag/perses-0.23.2)) - Perses helm chart
