@@ -36,6 +36,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## ⭐ Recent Stars
 
+- [jocmp/capyreader](https://github.com/jocmp/capyreader) - A smallish Android RSS reader
 - [pachli/pachli-android](https://github.com/pachli/pachli-android) - The Pachli Android app
 - [gram-lang/gram](https://github.com/gram-lang/gram) - [MIRROR] Official mirror of the Gram markup language. Main repo &amp; contributions: https://git.gram-lang.org/gram-lang/gram
 - [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries&#39; flags.
@@ -45,5 +46,4 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [medienbaecker/kirby-mastodon](https://github.com/medienbaecker/kirby-mastodon) - 
 - [MaggieAppleton/elves](https://github.com/MaggieAppleton/elves) - A local-first, canvas-based writing studio. Think spatially on an infinite canvas of cards while agents comment, dedupe, and reorder, but never write your prose.
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
-- [kj187/jarvis](https://github.com/kj187/jarvis) - Jarvis is an open source web frontend for Prometheus Alertmanager — interactive, realtime, and self-hosted.
 
