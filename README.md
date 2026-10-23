@@ -14,6 +14,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 🧑‍💻 **Blog:**
 
 - [New photos: Mushrooms!](https://kevingimbel.de/blog/new-photos-mushrooms)
+- [Weeknotes 2026-43: Vacation &gt; vulnerabilities](https://kevingimbel.de/blog/weeknotes-2026-43-vacation-vulnerabilities)
 - [Weeknotes 2026-42: Baldur&#39;s Gate? Baldur&#39;s Gate!](https://kevingimbel.de/blog/weeknotes-2026-42-baldur-s-gate-baldur-s-gate)
 - [Enhancing Kirby with KirbyTags](https://kevingimbel.de/blog/enhancing-kirby-with-kirbytags)
 - [TIL: Get command history with timestamps in zsh](https://kevingimbel.de/blog/til-get-command-history-with-timestamps-in-zsh)
@@ -22,7 +23,6 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [Breaking my streak ⛓️‍💥](https://kevingimbel.de/blog/breaking-my-streak)
 - [New analog pictures!](https://kevingimbel.de/blog/new-analog-pictures-2025)
 - [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
-- [A Random List of Silly Things I Love](https://kevingimbel.de/blog/a-random-list-of-silly-things-i-love)
 
 ## 🔭 Latest releases I've contributed to
 
