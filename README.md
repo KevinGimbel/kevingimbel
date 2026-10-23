@@ -13,6 +13,8 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 🧑‍💻 **Blog:**
 
+- [New photos: Mushrooms!](https://kevingimbel.de/blog/new-photos-mushrooms)
+- [Weeknotes 2026-42: Baldur&#39;s Gate? Baldur&#39;s Gate!](https://kevingimbel.de/blog/weeknotes-2026-42-baldur-s-gate-baldur-s-gate)
 - [Enhancing Kirby with KirbyTags](https://kevingimbel.de/blog/enhancing-kirby-with-kirbytags)
 - [TIL: Get command history with timestamps in zsh](https://kevingimbel.de/blog/til-get-command-history-with-timestamps-in-zsh)
 - [Essential browser plugins](https://kevingimbel.de/blog/essential-browser-plugins)
@@ -21,15 +23,13 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [New analog pictures!](https://kevingimbel.de/blog/new-analog-pictures-2025)
 - [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
 - [A Random List of Silly Things I Love](https://kevingimbel.de/blog/a-random-list-of-silly-things-i-love)
-- [Signing git commits - with SSH keys!](https://kevingimbel.de/blog/signing-git-commits-with-ssh-keys)
-- [XBox cleanup 🧹](https://kevingimbel.de/blog/xbox-cleanup)
 
 ## 🔭 Latest releases I've contributed to
 
+- [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.57.1](https://github.com/tauri-apps/wry/releases/tag/wry-v0.57.1)) - Cross-platform WebView library in Rust for Tauri.
+- [perses/helm-charts](https://github.com/perses/helm-charts) ([perses-0.24.0](https://github.com/perses/helm-charts/releases/tag/perses-0.24.0)) - Perses helm chart
 - [j178/prek](https://github.com/j178/prek) ([v0.5.7](https://github.com/j178/prek/releases/tag/v0.5.7)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
-- [perses/helm-charts](https://github.com/perses/helm-charts) ([perses-0.23.3](https://github.com/perses/helm-charts/releases/tag/perses-0.23.3)) - Perses helm chart
 - [kcp-dev/kcp-operator](https://github.com/kcp-dev/kcp-operator) ([v0.9.1](https://github.com/kcp-dev/kcp-operator/releases/tag/v0.9.1)) - A Kubernetes operator to deploy and manage kcp instances.
-- [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.57.0](https://github.com/tauri-apps/wry/releases/tag/wry-v0.57.0)) - Cross-platform WebView library in Rust for Tauri.
 - [KevinGimbel/mktoc](https://github.com/KevinGimbel/mktoc) ([v5.1.1](https://github.com/KevinGimbel/mktoc/releases/tag/v5.1.1)) - 🦀 Markdown Table of Content generator
 - [cashapp/hermit-packages](https://github.com/cashapp/hermit-packages) ([index](https://github.com/cashapp/hermit-packages/releases/tag/index)) - Hermit manages isolated, self-bootstrapping sets of tools in software projects.
 
