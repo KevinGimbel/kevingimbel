@@ -35,6 +35,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## ⭐ Recent Stars
 
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [jocmp/capyreader](https://github.com/jocmp/capyreader) - A smallish Android RSS reader
 - [pachli/pachli-android](https://github.com/pachli/pachli-android) - The Pachli Android app
@@ -44,5 +45,4 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [RazorfinOS-org/Razorfin](https://github.com/RazorfinOS-org/Razorfin) - Bazzite with Cosmic Desktop
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [medienbaecker/kirby-mastodon](https://github.com/medienbaecker/kirby-mastodon) - 
-- [MaggieAppleton/elves](https://github.com/MaggieAppleton/elves) - A local-first, canvas-based writing studio. Think spatially on an infinite canvas of cards while agents comment, dedupe, and reorder, but never write your prose.
 
