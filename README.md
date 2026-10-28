@@ -13,6 +13,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 🧑‍💻 **Blog:**
 
+- [Redirect link page template for Kirby](https://kevingimbel.de/blog/redirect-link-page-template-for-kirby)
 - [New photos: Mushrooms!](https://kevingimbel.de/blog/new-photos-mushrooms)
 - [Weeknotes 2026-43: Vacation &gt; vulnerabilities](https://kevingimbel.de/blog/weeknotes-2026-43-vacation-vulnerabilities)
 - [Weeknotes 2026-42: Baldur&#39;s Gate? Baldur&#39;s Gate!](https://kevingimbel.de/blog/weeknotes-2026-42-baldur-s-gate-baldur-s-gate)
@@ -22,7 +23,6 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [Making time](https://kevingimbel.de/blog/making-time)
 - [Breaking my streak ⛓️‍💥](https://kevingimbel.de/blog/breaking-my-streak)
 - [New analog pictures!](https://kevingimbel.de/blog/new-analog-pictures-2025)
-- [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
 
 ## 🔭 Latest releases I've contributed to
 
