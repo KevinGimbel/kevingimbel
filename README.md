@@ -26,6 +26,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## 🔭 Latest releases I've contributed to
 
+- [KevinGimbel/kirby-redirect](https://github.com/KevinGimbel/kirby-redirect) ([1.0.0](https://github.com/KevinGimbel/kirby-redirect/releases/tag/1.0.0)) - A Kirby plugin for redirect page management ✨
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.57.1](https://github.com/tauri-apps/wry/releases/tag/wry-v0.57.1)) - Cross-platform WebView library in Rust for Tauri.
 - [perses/helm-charts](https://github.com/perses/helm-charts) ([perses-0.24.0](https://github.com/perses/helm-charts/releases/tag/perses-0.24.0)) - Perses helm chart
 - [j178/prek](https://github.com/j178/prek) ([v0.5.7](https://github.com/j178/prek/releases/tag/v0.5.7)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
