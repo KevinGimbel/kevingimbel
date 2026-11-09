@@ -13,16 +13,16 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 🧑‍💻 **Blog:**
 
+- [Weeknotes 2026-45: Neocities](https://kevingimbel.de/blog/weeknotes-2026-45-neocities)
 - [Redirect link page template for Kirby](https://kevingimbel.de/blog/redirect-link-page-template-for-kirby)
 - [New photos: Mushrooms!](https://kevingimbel.de/blog/new-photos-mushrooms)
-- [Weeknotes 2026-43: Vacation &gt; vulnerabilities](https://kevingimbel.de/blog/weeknotes-2026-43-vacation-vulnerabilities)
-- [Weeknotes 2026-42: Baldur&#39;s Gate? Baldur&#39;s Gate!](https://kevingimbel.de/blog/weeknotes-2026-42-baldur-s-gate-baldur-s-gate)
 - [Enhancing Kirby with KirbyTags](https://kevingimbel.de/blog/enhancing-kirby-with-kirbytags)
 - [TIL: Get command history with timestamps in zsh](https://kevingimbel.de/blog/til-get-command-history-with-timestamps-in-zsh)
 - [Essential browser plugins](https://kevingimbel.de/blog/essential-browser-plugins)
 - [Making time](https://kevingimbel.de/blog/making-time)
 - [Breaking my streak ⛓️‍💥](https://kevingimbel.de/blog/breaking-my-streak)
 - [New analog pictures!](https://kevingimbel.de/blog/new-analog-pictures-2025)
+- [fetch, parse, save - using Nushell scripting for data transformation](https://kevingimbel.de/blog/fetch-parse-save-using-nushell-scripting-for-data-transformation)
 
 ## 🔭 Latest releases I've contributed to
 
@@ -36,6 +36,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## ⭐ Recent Stars
 
+- [IainKay/ram-altman](https://github.com/IainKay/ram-altman) - Monitors your RAM and reports any &#34;quite terrible&#34; unused capacity directly to the CEO of OpenAI.
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
 - [jocmp/capyreader](https://github.com/jocmp/capyreader) - A smallish Android RSS reader
@@ -45,5 +46,4 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [RazorfinOS-org/Razorfin](https://github.com/RazorfinOS-org/Razorfin) - Bazzite with Cosmic Desktop
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [medienbaecker/kirby-mastodon](https://github.com/medienbaecker/kirby-mastodon) - 
 
