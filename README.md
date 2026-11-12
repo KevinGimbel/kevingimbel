@@ -36,6 +36,7 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## ⭐ Recent Stars
 
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [IainKay/ram-altman](https://github.com/IainKay/ram-altman) - Monitors your RAM and reports any &#34;quite terrible&#34; unused capacity directly to the CEO of OpenAI.
 - [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system.
@@ -45,5 +46,4 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 - [hampusborgos/country-flags](https://github.com/hampusborgos/country-flags) - SVG and PNG renders of all countries&#39; flags.
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [RazorfinOS-org/Razorfin](https://github.com/RazorfinOS-org/Razorfin) - Bazzite with Cosmic Desktop
-- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 
