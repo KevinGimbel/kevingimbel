@@ -26,8 +26,8 @@ If you want to connect with me, feel free to hit me up on the fediverse at [@kev
 
 ## 🔭 Latest releases I've contributed to
 
+- [j178/prek](https://github.com/j178/prek) ([v0.5.12](https://github.com/j178/prek/releases/tag/v0.5.12)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) ([wry-v0.58.2](https://github.com/tauri-apps/wry/releases/tag/wry-v0.58.2)) - Cross-platform WebView library in Rust for Tauri.
-- [j178/prek](https://github.com/j178/prek) ([v0.5.11](https://github.com/j178/prek/releases/tag/v0.5.11)) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [perses/helm-charts](https://github.com/perses/helm-charts) ([perses-operator-0.6.1](https://github.com/perses/helm-charts/releases/tag/perses-operator-0.6.1)) - Perses helm chart
 - [kcp-dev/kcp-operator](https://github.com/kcp-dev/kcp-operator) ([v0.10.3](https://github.com/kcp-dev/kcp-operator/releases/tag/v0.10.3)) - A Kubernetes operator to deploy and manage kcp instances.
 - [KevinGimbel/kirby-redirect](https://github.com/KevinGimbel/kirby-redirect) ([1.0.0](https://github.com/KevinGimbel/kirby-redirect/releases/tag/1.0.0)) - A Kirby plugin for redirect page management ✨
